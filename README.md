@@ -2,14 +2,25 @@
 
 ### *La historia imprescindible para pilotos noveles de Vuelo Sin Motor (VSM)*
 
-[![Build PDF](https://github.com/rgcamus/vsm-fuentemilanos/actions/workflows/book-generate-pdf.yaml/badge.svg)](https://github.com/rgcamus/vsm-fuentemilanos/actions/workflows/book-generate-pdf.yaml)
-[![Versión](https://img.shields.io/badge/versión-0.4.0-blue.svg)](https://github.com/rgcamus/vsm-fuentemilanos/blob/main/CHANGELOG.md)
-[![Idioma](https://img.shields.io/badge/idioma-español-red.svg)](#)
+[![Build PDF](https://github.com/VuelaLibre-net/vsm-fuentemilanos/actions/workflows/book-generate-pdf.yaml/badge.svg)](https://github.com/VuelaLibre-net/vsm-fuentemilanos/actions/workflows/book-generate-pdf.yaml)
+[![Versión](https://img.shields.io/badge/versión-1.4.0-blue.svg)](https://github.com/VuelaLibre-net/vsm-fuentemilanos/blob/main/CHANGELOG.md)
+[![Idioma](https://img.shields.io/badge/idiomas-español%20%7C%20english-red.svg)](#)
 [![Lectura](https://img.shields.io/badge/lectura-~2_h-brightgreen.svg)](#)
 
 <p align="center">
   <img src="book/es/images/mockup-libro.png" alt="Mockup de VSM Fuentemilanos" width="400">
 </p>
+
+---
+
+## 📥 Descargas Directas (Direct Downloads)
+
+Puedes descargar la última versión del libro (`1.4.0`) en formato PDF y EPUB directamente desde los siguientes enlaces:
+
+| Idioma / Language | Formato PDF | Formato EPUB |
+| :--- | :--- | :--- |
+| **Español (Original)** | [📄 Descargar PDF](https://github.com/VuelaLibre-net/vsm-fuentemilanos/releases/download/1.4.0/vsm-fuentemilanos.pdf) | [📱 Descargar EPUB](https://github.com/VuelaLibre-net/vsm-fuentemilanos/releases/download/1.4.0/vsm-fuentemilanos.epub) |
+| **English (Translation)** | [📄 Download PDF](https://github.com/VuelaLibre-net/vsm-fuentemilanos/releases/download/1.4.0/vsm-fuentemilanos_en.pdf) | [📱 Download EPUB](https://github.com/VuelaLibre-net/vsm-fuentemilanos/releases/download/1.4.0/vsm-fuentemilanos_en.epub) |
 
 ---
 
