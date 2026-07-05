@@ -43,8 +43,8 @@
 :keywords: Vuelo Sin Motor, VSM, Fuentemilanos
 :icons: font
 :icon-set: fas
-:pdf-themesdir: {docdir}/themes
-:pdf-fontsdir: {docdir}/fonts
+:pdf-themesdir: {docdir}/../themes
+:pdf-fontsdir: {docdir}/../fonts
 :pdf-theme: basic
 :pdfmark: true
 :imagesdir: ./images

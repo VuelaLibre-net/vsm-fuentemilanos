@@ -1,0 +1,32 @@
+[preface]
+
+= Introduction
+
+The idea of producing a document that would summarize, as a guide, the stages that every novice glider pilot must go through, arose one afternoon when a group of us were talking under the trees at the Fuentemilanos bar. We were discussing the day's events and the need that many of us felt to have more information about the different stages of this learning period, which is certainly intense and exciting.
+
+We all agreed that once pilots go "solo," they must face gliding on their own, looking from an extreme distance at the more experienced pilots flying tasks of 500, 700, or 1,000 km. These achievements seem completely out of reach, especially when we are in the "lead wings" stage and cannot manage to stay in the air for more than 20 or 30 minutes after releasing from the tow plane.
+
+In this non-profit work, there is no room for presumption, as the experience of just a few flight hours is not even enough to make recommendations to fellow pilots. However, it does qualify us to list each and every one of the most significant issues and concepts of this stage that we all go through to progress in gliding.
+
+We share the great privilege of being able to enjoy that experience—somewhere between mystical and sporting—which is gliding, and we should feel happy to share the experiences we have, however few and modest, and to facilitate access to this wonderful activity for anyone.
+
+Best regards,
+
+<<<
+
+.Notes on this 2026 reissue
+[NOTE,role="cream-background"]
+====
+This is a _work in progress_ re-typesetting of the original book, written in 1996.
+
+This "edition" has been reformatted and adapted to a digital style but `based on photographs of the pages of the original edition sent via WhatsApp`, of which, unfortunately, I have not been able to obtain a copy.
+
+.The original book
+[.text-center]
+image::cover-original.jpg[pdfwidth=20%,float=left]
+
+With the help of some AI, I have done my best to maintain fidelity to the original material, but some details may have been affected. In particular, illustrations or photographs with very low contrast. I have tried to fix some of them with mixed results. In the originals, the photos had no contrast—either almost all white or almost all black—and some were completely illegible.
+Thank you for your understanding and, above all, a thousand thanks to the original authors of this book, who did an exceptional job.
+
+Ramón G. Camus - 2025; 30 years later...
+====

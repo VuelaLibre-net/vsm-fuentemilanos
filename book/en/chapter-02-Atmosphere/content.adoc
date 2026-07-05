@@ -1,0 +1,436 @@
+:imagesdir: images
+ifeval::["{docname}" == "index"]
+:imagesdir: chapter-02-Atmosphere/images
+endif::[]
+
+= WHAT HAPPENS IN THE ATMOSPHERE?
+
+== Convection
+
+.Cumulonimbus reach very significant developments, being able to reach heights of up to 20,000 m.
+image::cumulonimbo.png[]
+
+The mechanism of convection is based on an air mass becoming lighter than the surrounding air and starting to rise.
+
+Warm air is lighter because its molecules move faster and its volume increases, decreasing its specific gravity.
+
+If, in addition, that air mass contains water vapor, it is even lighter, since water vapor is even lighter than air, with a lower specific gravity.
+
+Solar radiation does not heat transparent air, but it heats the ground (and a lot!), and the ground transmits that heat to the layer of air in contact with it.
+
+From here, when a bubble of air in contact with the ground heats up sufficiently, it only takes something to trigger its instability (for example, a passing car) for it to "take off" and begin its ascent.
+As it rises, it leaves its space to the cooler surrounding air, which will begin to heat up and rise, and so on.
+
+This is how thermals are formed, starting from very hot sources produced by solar radiation, and aided by suitable atmospheric conditions that we will call `instability`.
+
+[sidebar]
+****
+The thermals were working wonderfully, with values between 4 and 5 m/s along the entire mountain range between La Salceda and San Rafael.
+
+The afternoon was progressing and warming the slope of La Mujer Muerta intensely, and I headed there, increasing my speed slightly and holding the stick with the tips of my fingers as I usually fly, for sensitivity's sake.
+
+The hit was instantaneous… a thermal that made the vario needle jump all the way to the top ripped the stick from my fingers and lifted the right wing up to 45°, not to mention my head hitting the plexiglass canopy and a sharp deviation in the glider's path.
+
+Proximity of the rocks on the slope and the scare made me break out in a cold sweat, teaching me the power a thermal can develop under certain conditions.
+
+Of course, ever since then I fly with my harness pulled much tighter!
+****
+
+== Clouds
+
+For clouds to form from the rising warm air, two fundamental factors must come together: the presence of condensation nuclei and the environmental humidity level.
+
+Condensation nuclei are small suspended particles on which humidity condenses into tiny water droplets.
+
+When the rising air cools sufficiently, it reaches its dew point, with a temperature low enough that despite the decrease in the partial pressure of vapor, the water vapor condenses into tiny, invisible droplets around the condensation nuclei in an unstoppable process that continues to develop, leading to the formation of gigantic cumulonimbus clouds.
+
+.Diagram of cloud evolution and thermal types
+image::evolucion.png[Diagram of cloud evolution and thermal types]
+
+== Weather Forecasting at the Airfield
+
+Good meteorological information is essential for planning cross-country flights.
+
+.Good meteorological information is essential for planning cross-country flights
+image::meteo.png[Good meteorological information is essential for planning cross-country flights,pdfwidth=80%]
+
+Every summer morning, around 7:00 AM, the first sign of activity at the airfield can be heard: the running engine of the motor glider tasked with collecting data on air temperature and humidity in our area.
+
+It is the first step of a ritual performed daily that culminates in the 9:00 AM pre-flight briefing, attended expectantly by all the pilots at the airfield.
+
+We novice pilots attend this briefing a bit circumspectly, as from our perspective, we do not understand all the fuss. However, as we make longer and more distant flights, we realize the importance of knowing beforehand the day's potential weather development.
+
+The basic elements upon which the meteorologist relies for the airfield forecast are Meteosat images and local temperature and humidity data. To this, the report provided by the Valladolid meteorological center can be added.
+
+.At the end of the briefing
+[sidebar]
+****
+[verse]
+----
+- Well, then… what did he say?
+- That it's going to be a very good day.
+- Ah!… okay!
+----
+****
+
+Meteosat provides surface weather images collected over the last few hours, which are very useful for tracking fronts, the presence of depressions, wind direction and speed, and anticipating developments in the following hours.
+
+The early morning sounding provides us with the local temperature lapse rate and humidity. These data, plotted on a thermodynamic diagram, forecast cumulus cloud formation, flight ceiling, and the start time of convective activity.
+
+== Anticyclones and Depressions
+
+In its continuous evolution and movement, the atmosphere presents us with localized pressure systems generally called Anticyclones and Depressions.
+
+Anticyclones `(H)` correspond to high-pressure systems. They have an elliptical shape and cover areas of land the size of a continent.
+
+The air rotates around them clockwise (Northern Hemisphere), the isobars are far apart, and their presence is associated with "good weather."
+
+.Evolution of a depression through the stages of Birth, Maturity, and Final
+image::borrasca.png[]
+
+Depressions `(L)` are low-pressure systems, with a more circular and smaller shape and closer isobars.
+
+The air rotates around them counter-clockwise (Northern Hemisphere) and their presence brings "bad weather."
+
+Associated with these pressure systems, air masses circulate with uniform temperature and humidity conditions and, once in motion, advance like a giant wave.
+
+When one air mass meets another, a transition zone is produced between them, called a front.
+
+Fronts can be warm, if a warm mass displaces a colder one, or cold, if a cold mass displaces a warmer one.
+
+== Plan View and Cross-Section of a Depression
+
+.Plan view and cross-section of a depression
+image::planta-seccion-borrasca.png[Plan view and cross-section of a depression,pdfwidth=80%]
+
+If we look at the Meteosat images, we can clearly see how depressions rotate counter-clockwise and move rapidly along a more or less predictable path, unless they encounter an anticyclone that blocks and diverts them.
+The rotation speed we observe indicates the wind speed, and the cloud masses moving with it are the fronts we have already mentioned.
+
+The ideal situation for gliding corresponds to the days following the passage of a cold front, which "cleans" the atmosphere, leaving fresh, transparent air very conducive to convection.
+
+== Stüve Diagram
+
+It is a thermodynamic diagram that represents a theoretical model for studying the ascent of air masses.
+
+Its usefulness lies in providing a forecast of convective activity and cloud formation. For planning cross-country flights, it is essential to know the ceiling we will have and the start time of atmospheric activity. Think of the importance of getting the launch time right for those 700 to 1,000 km flights, knowing they can last 9 or 10 hours.
+
+The diagram is formatted as a double-entry table, with altitude represented on the vertical axis and temperature on the horizontal axis.
+
+.The model is based on two fundamental concepts:
+[sidebar]
+****
+1. An air mass rises as long as it is warmer than the surrounding air.
+2. An air mass behaves according to adiabatic processes; that is, it moves along adiabatic lines, changing in volume, pressure, and temperature, but without gaining or losing heat.
+****
+
+=== Adiabatic Processes
+
+The temperature of an air mass varies with its altitude.
+
+This temperature change is not due to gaining or losing heat, but rather to the effect of atmospheric pressure.
+
+Lower altitude means more pressure and higher temperature.
+Higher altitude means less pressure and lower temperature.
+
+Remember how a bicycle pump heats up when we pump air to inflate tires; the heat is produced solely by the excess pressure we exert on the air inside the pump chamber.
+
+These temperature variations without gain or loss of heat are called adiabatic processes.
+
+The adiabatic lapse rate is an immutable thermodynamic law representing temperature changes in a moving air mass: if the mass is dry, its temperature changes by 1°C per 100 m; if the mass is moist, it changes by 0.5 to 0.6°C per 100 m.
+
+=== Representation
+
+The diagram is built on a grid with three pre-printed types of lines corresponding to the aforementioned adiabatic behavior:
+
+Dry Adiabatic Line:: Represents the lapse rate of a dry air mass; it cools by 1°C for every 100 m of ascent.
+
+Moist Adiabatic Line:: Represents the lapse rate of an air mass saturated with moisture. Due to the buffering effect of the water vapor it contains, it cools less: 0.5°C for every 100 m of ascent.
+
+Saturation Line:: Also called the constant mixing ratio line. It represents the ascent path of an air mass with a specific water vapor content, for example, 10 g of water vapor per kg of dry air. If this air mass is forced to a lower temperature, condensation occurs.
+
+We are simplifying the concepts as much as possible to get a general idea of the process. In reality, the lines would be curves, and cooling with height is not constant, but a theoretical model requires some schematization of reality.
+
+The starting point for constructing the diagram is the height/temperature sounding of the local atmosphere which, when plotted, produces a curve called the sounding curve (curva de estado). Its relationship with the adiabatic lines is as follows:
+
+For a *DRY* air mass:
+
+* If the sounding curve lies to the right of the dry adiabatic line, there is *INSTABILITY*.
+* If the sounding curve lies to the left of the dry adiabatic line, there is *STABILITY*.
+
+For a *SATURATED* air mass:
+
+* If the sounding curve lies to the right of the moist adiabatic line, there is *STABILITY*.
+* If the sounding curve lies to the left of the moist adiabatic line, there is *INSTABILITY*.
+
+We will also need to obtain the dew point using a wet-bulb thermometer.
+
+The local dew point is the temperature at which the surrounding air would reach saturation.
+
+Starting from the dew point plotted on the diagram, the saturation line defines two areas: to its right and to its left.
+If the sounding curve passes to the left of the saturation line, the humidity in the rising air mass condenses.
+If the sounding curve remains entirely to the right of the saturation line, no condensation occurs and no clouds form.
+
+From the intersection of the sounding curve with the saturation line, the rising air mass begins to behave as saturated air.
+
+[sidebar]
+****
+During the night, the heated ground releases the warmth accumulated from daytime solar radiation, and the air near the ground rises slowly while cooler air sinks to take its place, producing an inversion: warm air above, and cooler air below.
+
+On summer mornings, it is normal to see the smoke from the glass factory in La Granja rise and then stop and spread out at about 400 m altitude, as if a glass ceiling prevented it from rising further.
+
+It is the inversion that stops it, and a couple of hours of solar radiation will be required to break that "lid" as warmer air rises.
+****
+
+.Once the inversion is broken, the formation of cumulus clouds progresses throughout the day and dissipates at sunset
+image::cumulos.png[]
+
+==== Dry Adiabatic Lines
+
+They represent the cooling lapse rate of a DRY air mass with changes in altitude.
+
+.Dry adiabatic line
+image::adiabatica-seca.png[pdfwidth=40%,float=left]
+
+Cooling occurs at a rate of 1°C per 100 m of altitude.
+
+A dry air mass starting at A at 20°C will "lose" 15°C as it rises 1,500 m to B, and at C it will be at 3,000 m and 0°C.
+
+==== Moist Adiabatic Lines
+
+They represent the cooling lapse rate of a MOIST air mass with changes in altitude.
+
+.Moist adiabatic line
+image::adiabatica-humeda.png[pdfwidth=40%,float=left]
+
+Cooling occurs at a rate of 0.5°C per 100 m of altitude.
+
+A moist air mass starting at A at 20°C will "lose" 10°C as it rises 2,000 m to B, and at C it will be at 4,000 m and 0°C.
+
+The cooling rate is lower due to the buffering effect of the water vapor it contains.
+
+==== Saturation Lines
+
+.Saturation lines
+image::saturacion.png[pdfwidth=40%,float=left]
+
+They represent the cooling rate of an air mass as altitude changes while maintaining a constant ratio of HUMIDITY BY VOLUME OF DRY AIR.
+
+Each saturation line represents a specific vapor content in grams per kilogram of dry air.
+
+==== Thermodynamic Grid
+
+.Thermodynamic grid
+image::rayado.png[pdfwidth=40%,float=left]
+
+It is the combination of the lines mentioned above, on which the SOUNDING CURVE of the atmosphere is plotted to study its interaction with them.
+
+.Stüve thermodynamic diagram
+image::diagrama.png[]
+
+=== Analysis of the Diagram
+
+Sounding:: The day's sounding shows a low-level inversion (400 m) and an isothermal section from 3,200 m upward, where the temperature stabilizes at 0°C.
+
+Saturation line:: We plot it starting from the dew point and see that it intersects the sounding curve at an altitude of 1,600 m.
+If the air mass at ground level warms up enough to rise to this point, it will condense to form clouds.
+This is the condensation level, which determines the cloud base and therefore our flight ceiling.
+
+Dry adiabatic line:: The air mass at ground level will begin to warm up due to solar radiation. If we trace the dry adiabatic line passing through the inversion point, we see that the temperature required to break this inversion and start convective activity is 24°C.
+
+How long will it take to reach 24°C, also called the `trigger temperature` in this case?
+There are tables to calculate the time required based on the time of year and the latitude, but I believe the most practical way is to have recorded the same process on previous days and use empirical data on the temperature increase per hour of sunshine.
+
+The triangle defined by this line represents the warming energy required for the trigger.
+
+If we now trace another dry adiabatic line from the intersection of the `sounding curve` and the `condensation level` at 1,600 m, it tells us that this same air mass needs the temperature to rise to 31°C to reach that altitude and condense. Knowing the temperature, we can also calculate the time of appearance of cumulus clouds.
+
+Moist adiabatic line:: The air mass rises along the dry adiabatic line up to 1,600 m, where it condenses. Now behaving as a cloud, it will follow the moist adiabatic line, which we trace starting from the condensation level.
+
+We see that the moist adiabatic line intersects the sounding curve at 3,600 m, determining that the `cloud tops` will be at this height.
+
+If the sounding curve were to the right of the moist adiabatic line, no clouds would form due to stability.
+
+If, on the contrary, the sounding curve remained entirely to the left of the moist adiabatic line, there would be great instability, and clouds would grow unchecked, forming thunderstorms.
+
+The triangle between the sounding curve and the moist adiabatic line represents the energy for cloud development.
+
+=== Convergence Line
+
+[verse]
+----
+Pedro Berlinches Bravo; 
+Fuentemilanos, 
+April 22, 1996
+----
+
+Spain is one of the best countries in the world for soaring, thanks to its weather conditions. Within the Peninsula, the best area is undoubtedly the Sierra de Guadarrama, due to its orientation and conditions.
+
+The convergence over the Sierra de Guadarrama is becoming well-known among European glider pilots. Because of its peculiar characteristics, it can be spotted from a great distance, even from Madrid.
+
+When these conditions exist, a long line of cumulus (Cu) clouds can be observed along the mountains over the Sierra de Gredos, Guadarrama, and Alto Rey.
+
+.Surface map
+image::mapa-superficie-convergencia.png[pdfwidth=80%]
+
+I will start by explaining the triggers of the convergence that produces this line of cumulus clouds along the mountains, although it is not always the case, as it can also form over the plains.
+
+For these conditions to occur, several factors must come together, such as topography, temperature, and prevailing winds.
+
+The topography in Castilla y León features large plains surrounded by mountains: Picos de Europa, Picos de Urbión, and the ranges of Cebollera, Guadarrama, Gata, and Peña de Francia. The temperature contrast between the mountains and the plains keeps the winds constantly circulating, similar to how sea breezes blow from sea to land and land to sea. This circulation, combined with temperature changes between night and day, is the most important factor in generating this meteorological situation.
+
+.The convergence line allows flying at high cruising speeds, always in excellent lift
+image::linea-convergencia.png[]
+
+Analyzing the meteorology, it can be seen that this situation typically occurs under conditions of relative low pressure over North Africa and relative high pressure over the Azores, which is a classic spring and summer pattern.
+
+This situation, reflected on the surface map, is frequent in summer, causing winds to converge over the Central System, producing large "streets" of cumulus clouds. Sometimes, due to wind intensity, these streets can shift to one side or the other of the Sierra de Guadarrama.
+
+The days when these conditions appear are 1,000 km days. We can recall July 29, 1995, with a great convergence along the Sierra de Guadarrama, Gredos, and Alto Rey range, with ceilings between 3,700 m and 4,100 m QFE.
+
+We must also mention the first five days of August 1991, which was surely the best flying year in Fuentemilanos, due to the continuity of conditions for 1,000 km flights.
+
+Flying in convergence is difficult to explain, because it is incredibly easy to stay in the cloud street, not far below the base of the Cu, but not too close either. Maintaining a significant vertical separation is important because reduced visibility carries a risk of collision with the numerous gliders flying at high speed in the convergence. This convergence is known as the "highway" since you do not need to turn, only run.
+
+On both sides of the convergence, there are about 20 km clear of lift, so when it shifts away from the airfield, there is no choice but to ask the tow pilot to take us to it to secure our flight and enjoy its magic.
+
+Other areas where convergence conditions can be observed, though less frequently, are the center of Castilla y León following the Duero river (occurring in the afternoon), the Iberian System, and sometimes even the Montes de Toledo.
+
+When all three zones coincide—Central System, Iberian System, and Montes de Toledo—it is possible to fly a 1,000 km F.A.I. triangle.
+
+== Mountain Wave
+
+Waves are laminar air currents that develop a wave-like motion when they encounter a suitable obstacle, which acts as a trigger, and due to special atmospheric conditions that favor and maintain this oscillation.
+
+.Temperature, wind, and lift profiles in wave
+image::perfiles-onda.png[pdfwidth=60%]
+
+Terrain conditions:: The obstacle triggering the wave motion must be a mountain meeting the following characteristics:
+
+* Wind direction primarily perpendicular to the ridge line.
+* Long ridge; short obstacles are not enough to produce wave.
+* Smooth, gentle windward slope.
+* Steep leeward slope with a valley that favors the descending wave branch.
+
+Weather conditions:: The meteorological conditions must present two fundamental characteristics: stability and wind.
+
+The wave is a laminar air current that only works in stable air masses. Instability and thermals would break the wave formation process.
+
+It is a stable layer (due to isothermal conditions or an inversion) channeled between two less stable layers that guide the wave as it "rebounds" up and down in its oscillation.
+
+It is essential that the wind reaches at least 15 knots at the mountain top, maintaining a constant direction and increasing with height.
+
+Flying in mountain wave:: Wave can occur in low hills as well as in high mountain systems. Each site produces its own wave "model," which tends to recur with great accuracy.
+
+.Lift values in wave can far exceed instrument limits
+image::panel-instrumentos.png[pdfwidth=40%,float=left]
+
+The rising phase of the wave offers us the opportunity to fly in a laminar layer presenting a constant and very strong rate of climb, which can lift us to considerable altitudes. However, flying in wave requires a meticulous learning process and special precautions due to the difficulties and dangers involved.
+
+In the first phase of the flight, the goal is to reach the rising wave, but with the difficulty of having to cross the rotor zone that forms to the lee of the mountain due to the characteristic vacuum.
+
+These rotors are normally marked by their corresponding rotor clouds, and in them the air rotates cylindrically, producing powerful turbulence that both the glider and the tow plane must face during tow.
+
+The rotor zone must be crossed with a headwind, passing through brutal turbulence that can reach 10 m/s in both lift and sink.
+
+.Mountain wave: Lift diagram
+image::plano-ascendencia.png[]
+
+.Sea of clouds over Cotos in wave flight (photo Iñaqui, Dec 2024).
+image::mar_nubes_madrid.jpg[]
+
+Once through the rotor zone and climbing, it is important to monitor altitude to start using oxygen from 4,000/4,500 m AGL upward, as it is possible to reach altitudes of 6,000 to 8,000 m.
+
+The outside temperature can easily drop below -20°C, so it is absolutely necessary to be perfectly prepared to withstand such conditions.
+
+It is very important to have as much information as possible about the forecast wind strength at altitude, as the wind speed can be so high that it makes the glider fly backward.
+
+Other risk factors we must monitor include cloud formation when there is high relative humidity, which can merge into a solid layer below us and prevent us from taking ground references to know where we are. Ice, which due to low temperatures can reduce glider efficiency or disable our onboard equipment. And finally, returning to the airfield, knowing we will cross areas of strong sink and turbulence, which makes it important to have a generous reserve of altitude.
+
+== Wave Flying in the Sierra de Guadarrama
+
+[verse]
+----
+Pedro Berlinches Bravo; 
+Fuentemilanos, 
+April 22, 1996
+----
+
+The end of 1995 and the first months of 1996 will be remembered throughout Spain for the very wet and cold autumn and winter we had, with major floods first, heavy snowfalls later, and finally, a cold wave with very low temperatures that affected the entire Peninsula and a large part of Europe. It can be said that they ended the drought we had been suffering from for five years.
+
+The rains of November and December were caused by a low-pressure system that traveled along the coasts of Spain and Portugal from north to south, bringing strong southern winds over the Peninsula, leaving a lot of water in the south and snow in the mountain systems.
+
+Every glider pilot knows that when wind strikes a mountain range, ridge soaring is produced on one side and wave on the other. With a south wind, mountain wave forms over the Sierra de Guadarrama with several wave bars. The location of the Fuentemilanos airfield is ideal, given its distance from the mountain and, above all, its asphalt runway, traffic lack of congestion, and absence of restrictions.
+
+In the years I have spent in Fuentemilanos, this is the year we have had the most consecutive wave days. This is entirely due to the permanent low-pressure situation over Spain.
+
+The first day we flew was November 25, 1995, and until January 14, 1996, which was the last day, the situation was stable, with periods where the wave remained for several days as long as the strong south wind situation lasted.
+
+=== Wave Situation Profile
+
+The ideal conditions for mountain wave to form over the Sierra de Guadarrama are very similar to the conditions we had in December and January.
+
+.Mountain wave in the Sierra de Guadarrama. Surface map, January 1996
+image::mapa-superficie-ene96.svg[pdfwidth=50%]
+
+As can be seen on the surface map, the low-pressure system must position itself over the coast of Portugal, moving slowly towards the Gulf of Cádiz, with a strong wind gradient very similar to a "cold drop" (Gota Fría). Also, high pressure over central Europe blocks the low-pressure system off the Portuguese coast, preventing it from moving north or east, keeping it in position for several days or even weeks, maintaining its position.
+
+Meteorological Sounding
+
+To understand wave flying conditions, it is very important to have the meteorological sounding and plot it on the Stüve diagram. Once plotted, we will know how high we can climb and how long we can fly, in order to carry the necessary oxygen and wear appropriate clothing.
+
+The wave profile of January 14, 1996, is one of the best I know for mountain wave flying conditions.
+
+.Wave profile
+image::perfil-onda.png[]
+
+As can be seen in the diagram, the wind speed increases with altitude from 20 knots at the surface to 60 knots at 10,000 m. From there it decreases, and by 11,000 m it is 54 knots.
+
+The temperature is -44°C, and the three Altocumulus lenticularis (Ac lentic) zones can be seen with their tops at 10,000 m. The barograph shows that I only reached 6,000 m, where it was -21°C. At this temperature, no matter how many clothes you wear, after 30 or 40 minutes nobody can stand the cold, despite having prepared well with cotton thermal underwear, trousers, a sweatshirt, a down jacket, two pairs of wool socks, and sufficient oxygen for the flight.
+
+.Forecast weather in FUENTEMILANOS - 1/14/96
+[cols="1,1,1"]
+|===
+| MIN. TEMP          | 1 °C  1/14/96    |               
+| CURRENT TEMP       | 3 °C             |                
+| MAX. TEMP          | 7 °C             |                
+| TRIGGER TEMP       | = °C             | D.P.: -2 °C 
+| HUMIDITY %         | 90 %             |                
+| THERMAL QUALITY    | = = =            |              
+| CLOUDS             | Sc Ns Ac Lentic. | 500 / 10,000  
+| WIND               | SURFACE          | 179    20 Kt. 
+|                    | FL 50            | 184    24 Kt. 
+|                    | FL 100           | 199    26 Kt. 
+|                    | FL 150           | 208    28 Kt. 
+| THERMALS           | FROM  =          | UNTIL  =     
+| THUNDERSTORMS %    | MOUNTAINS  =     | PLAINS  =     
+| REMARKS:           |*MOUNTAIN WAVE*   |
+|===
+
+What I want to make very clear is that to fly in wave, besides being used to aero-tow, which is usually quite turbulent for both glider and tow plane, you must be aware of the following:
+
+[sidebar]
+****
+* Wear appropriate clothing, even in summer.
+* Carry sufficient oxygen, not only for climbing but also for descending.
+* Pay close attention to ice formation, especially if you touch the lenticular cloud. Ice is guaranteed on any part of the glider that has touched it.
+* If you are not familiar with aero-tows in rotor zones, never attempt it alone; go up with an instructor first.
+* Pay close attention to wind drift. The best thing is to fix landmarks on the ground; it is possible that the wind is so strong that you fly backward.
+* Finally, when entering the traffic pattern, enter with extra height—it doesn't matter how much extra. And on final, do not deploy airbrakes until you are absolutely sure of reaching the runway safely.
+****
+
+[cols="1,4a,1,4a,1", frame=none, grid=none]
+|===
+|
+|image::barograma.png["Barograph from the wave flight up to 6,000 m altitude on 1/14/96",float=left]
+|
+|image::indicadores-ascenso.png["Still climbing through 4,900 m at -20 °C",float=right]
+|
+|
+|Barograph from the wave flight up to 6,000 m altitude on 1/14/96
+|
+|Still climbing through 4,900 m at -20 °C
+|
+|===
+
+.Rotor cloud corresponding to the mountain wave on 1/14/95
+image::nube-rotor.png[]

@@ -1,6 +1,6 @@
 :imagesdir: images
 ifeval::["{docname}" == "index"]
-:imagesdir: chapter-04-Cross-Country/images
+:imagesdir: chapter-04-Cross-country/images
 endif::[]
 
 = CROSS COUNTRY

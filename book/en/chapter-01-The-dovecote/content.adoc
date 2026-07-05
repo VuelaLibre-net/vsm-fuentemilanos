@@ -1,0 +1,354 @@
+:imagesdir: images
+ifeval::["{docname}" == "index"]
+:imagesdir: chapter-01-The-dovecote/images
+endif::[]
+= THE DOVECOTE
+
+We will use the first flights after our solo release to build confidence in
+handling the single-seater, which initially might seem excessively light and
+sensitive to the controls, since we are used to the two-seater with much
+larger wingspan and weight. However, we will quickly get the hang of it until
+we feel very comfortable.
+
+We will make an effort to follow the aero-tows exactly as the instructor
+indicated, and also concentrate on flying the traffic patterns in strict
+accordance with the airfield rules, both regarding the flight path,
+altitudes, and radio communications.
+We will try to adapt to the altitudes specified for each leg of the
+traffic pattern to avoid interfering with other gliders, and we will closely
+monitor our airspeed to avoid stalling, especially during the turns to base leg
+and final approach.
+
+Initially, it is advisable to fly with the landing gear extended,
+as it will be one less thing to worry about during the approach maneuvers.
+However, once we start feeling more confident, it is important to practice
+extending and retracting the gear, always adding the `gear down` right after
+the `downwind` radio call.
+This is an important mnemonic rule that will save us from more than one gear-up landing.
+
+== Lead Wings
+
+.Lead wings
+image::alas-de-plomo.png[]
+
+We will quickly realize that it is not as easy to stay up there as it seemed at first.
+Suddenly, we find ourselves fully immersed in the frustrating stage of "lead wings."
+Once we release from the tow plane, after a brief search for lift, it feels like sliding down a slide that takes us back to the runway in record time.
+
+
+There is no need to worry; all that is happening is that we no longer have the instructor in the back seat and we are flying a much lighter and more agile glider that we must get used to, and that.......
+takes some time.
+Meanwhile, we must clearly set our objectives at this point to be:
+
+During the next flight hours, we must focus on these points and work on them diligently to overcome this frustrating stage.
+
+*   Work intensively on thermalling turns.
+*   Familiarize ourselves with the landmarks near the airfield.
+
+== Before Takeoff
+
+It is very useful to observe how our more experienced colleagues are doing to fix in our minds the points where we see them turn and climb, because we might find interesting thermals there.
+We will prepare for takeoff once we confirm that the thermals are "working" well based on what we see in the air.
+We should not take off too early; rather, we should wait until well after midday and once the bulk of the more experienced pilots have already taken off.
+
+[sidebar]
+****
+Analyzing the first entries in my logbook after my solo release leads me to the conclusion that I never managed to make a flight of more than 20 minutes when taking off before 2:00 PM.
+My haste to fly, and even the insistence of some colleagues, made me take off very early when the thermals were not really active, or at least not active enough for a novice like me.
+****
+
+We must also familiarize ourselves with the places that almost invariably produce lift.
+In our case, there are spots very close to the airfield that frequently offer "service" thermals, such as the villages of Abades and Fuentemilanos, the pig farm to the SW, and the gully to the _W_ of the runway.
+
+== The Aero-Tow
+
+It is the beginning of our flight and we must face it with clear ideas so as not to waste time.
+For an inexperienced pilot, releasing at only 300 m altitude to save a few pesetas on billing is a terrible deal that, in the long run, will turn out to be much more expensive and unsatisfactory.
+
+The recommendation at this stage is to always release in a thermal and never below 500-600 m.
+This will give us a good margin in the likely event that we made a mistake when releasing and do not find a thermal where it seemed to be.
+We can use about 200 m to glide around the airfield looking for the long-awaited lift before deciding to enter the traffic pattern.
+
+During the tow, we will notice that the variometer almost always shows positive, but we should not be too impressed, as the effect of the tow distorts the reading.
+
+We should focus primarily on the sensation of surge when entering a thermal, and above all, on the sudden jumps of the tow plane, which suddenly climbs decisively above our level.
+This happens because it has entered a thermal that, after a few moments, will lift us up with almost no need to pull the stick.
+
+At that moment, we are likely in a thermal, and it is a good opportunity to pull the yellow knob and release from the tow.
+However, if during the tow we find a strong lift but do not yet have sufficient altitude, we will settle for memorizing its position, as it may serve us later.
+Keep in mind that those "tugs" might be a simple bubble of hot air that would leave us stranded after a couple of turns.
+
+== Wind Direction
+
+This is an important factor to keep in mind, which we should have already observed before takeoff.
+
+Normally, if there is wind of significant intensity, the tow pilot will fly the circuit upwind of the airfield, and we will begin our search for lift, taking care to stay in that position and monitoring the drift that could carry us too far from the airfield, leaving us downwind of it.
+
+.Summer of '93
+[sidebar]
+****
+My colleague takes off on one of his first solo flights, and after a good tow, releases over Abades in a good thermal and starts climbing immediately.
+
+The _SW_ wind drifts him significantly towards the plain and, preoccupied with centering the thermal, he doesn't really notice what is happening.
+At a certain point, the thermal breaks up, he loses it and begins to descend; he insists on looking for it "where it was" and before he knows it, he finds himself quite low and the headwind prevents him from returning safely to the field.
+The landing was in a crop field on the outskirts of Abades, a short distance from the threshold of runway 16.
+****
+
+Once in lift, we must concentrate on our flying, trying to turn and center it, while not forgetting the following points:
+
+*   Ensure that the airspeed is above stalling speed.
+*   Monitor the airspace around us; there are many gliders flying with us.
+
+It is absolutely paramount to constantly monitor the glider's airspeed so as not to drop below the stalling speed, which is indicated on the airspeed indicator and varies depending on the glider's characteristics.
+
+Let us keep in mind that stalling at low altitude has been the main cause of most fatal accidents in gliding.
+
+A stall occurs when, due to a lack of speed, the lift produced by the wing profile is lost, and the glider literally drops.
+In modern gliders, this drop may be gentle and straight ahead, but in others, it could lead to an unexpected spin, resulting in a significant loss of altitude before recovery.
+
+We must always monitor our flying speed to avoid stalling, but most especially in three situations:
+
+*   In the approach traffic pattern, specifically during turns onto base leg and final approach.
+*   While turning in a thermal, as a stall can seriously affect gliders flying at lower levels.
+*   While ridge soaring, due to the proximity of the terrain and the possibility of strong turbulence.
+
+.The stall: INSTRUCTORRRRR INSTRUCTORRRRRR!
+image::perdida.png[]
+
+== The Traffic Pattern
+
+This is a maneuver in which we must be especially alert since several factors combine to make it potentially dangerous, such as the potential proximity of other gliders also in the pattern, fatigue after several hours of flight, flying at low altitude, etc.
+
+When approaching the airfield after a more or less long flight, we must ascertain the wind direction and the active runway, either by radio or by looking at the direction indicated by the windsock.
+
+We will adhere strictly to the airfield's traffic rules, especially the area assigned to gliding, communications, and altitudes.
+
+When entering "downwind", it is important to do so at the specified altitude. If each glider enters at a different altitude, and several happen to be in the pattern at the same time, dangerous overtaking and interference can occur, leading to total confusion during the landing.
+
+.Fuentemilanos runway and facilities seen from the final leg for runway 34
+image::trafico.png[]
+
+While on the "downwind" leg, it is good practice to check the condition of the runway and make sure there are no obstacles, either at the threshold or in the middle of the runway. This will help us avoid surprises when we are on the "final" leg.
+
+After landing, we will roll our glider off towards the taxiway, trying to stay far enough from the runway to avoid interfering with takeoffs or landings.
+
+If a glider is stopped in the middle of the runway, we can always use the auxiliary grass runway and remain parked there until the flight director authorizes us to cross to the taxiway.
+
+== Thermalling
+
+"Centering" the thermal is the fundamental technique of gliding
+and can only be acquired and improved through constant practice and by trying to
+fly in all kinds of conditions, not just on the good days.
+
+We should try to fly with "good style" and keep the following in mind:
+
+*   Fly with the yaw string ("lanita") centered, avoiding slipping or skidding
+  which degrade the glider's performance.
+*   Until you feel confident turning in thermals, avoid doing so below
+  300 m above ground level (AGL).
+*   Know where you are at all times; do not turn in a thermal if,
+  for example, you are interfering with the approach traffic pattern to the airfield.
+
+Once inside the thermal, we must search for the core of maximum lift,
+concentrating not only on the instruments (variometer), but also,
+gradually, on sensing that surge or acceleration produced by the rising air
+as it pushes our glider upward.
+Learning to distinguish this sensation is a goal to pursue until,
+with practice, it becomes second nature.
+
+It is also important to monitor ground references while turning,
+as they help control wind drift and better "pinpoint" the areas of strongest lift.
+
+=== How to Center the Thermal?
+
+We must be very clear that half the time we will encounter broken or very narrow and turbulent thermals, which will make our flight feel more like a horse rodeo than anything else.
+
+In these cases, theory is useless, and only the experience gained after many hours of struggle with different conditions counts.
+
+If we focus on "normal" thermals, we must react when we feel that "push" mid-flight, an unmistakable sign that we are crossing a thermal.
+
+A wing will likely lift, and that is generally the direction we should turn.
+
+The variometer will alert us, and we must wait to complete a full turn to determine whether we have caught the thermal dead center or if we are offset from it.
+
+It is important to practice turning in both directions.
+We will soon notice that we feel more "secure" turning in a preferred direction, but we must make an effort to learn to turn in the opposite direction as well, since we need to fly with equal confidence in both directions.
+
+=== Speed?
+
+The speed at which we turn in a thermal depends on the pilot's "style" and the conditions of the lift, but as a general rule, we should turn at the speed indicated in the flight manual as `CIRCLING SPEED (80 to 85 Km/h in the ASTIR)`, always keeping a safe margin above stalling speed.
+
+=== Angle of Bank?
+
+The angle of bank at which we turn depends on the nature of the thermal; if it is very wide, bank less; if it is narrow, the glider itself will demand more "aggression" in the turn.
+
+We will try to gain enough practice to waste as little time as possible when centering the thermal.
+
+We will move closer to the core of maximum lift through a combination of adjustments to the bank angle and the heading:
+
+*   Reduce bank in stronger lift.
+*   Increase bank in weaker lift.
+*   Briefly straighten the heading toward the area where, during the previous turn, the highest rate of climb was detected.
+
+.Thermalling: Bare rock slopes are excellent thermal generators. Here we are turning over the Mujer Muerta
+image::termica.png[fit=none,pdfwidth=75%]
+
+[sidebar]
+On my first flight with a high-level instructor and a high-performance glider, the first surprise was that the centering technique the instructor used was exactly the same one I used, even as a novice: briefly straightening toward where I "felt" the core of the thermal was.
+But the problem is not the technique itself, but "intuition."
+A novice's "intuition" is not the same as that of a pilot with thousands of hours of gliding.
+
+== Airspace
+
+Thermalling in the vicinity of the airfield is normally done in groups, so monitoring the airspace is paramount to avoid risky situations that could result in a mid-air collision.
+
+We must find a balance between paying attention to our surroundings and the concentration needed to center the thermal we are turning in.
+
+Basically, the rules to follow when thermalling in a group are as follows:
+
+=== Entry:
+
+*   Maintain the same direction of turn as the others.
+*   Start with a wider circle and gradually tighten it.
+*   Make yourself visible to the others.
+*   Do not cut across flight paths or obstruct others.
+*   Maintain a safe distance from other gliders.
+
+=== Turning:
+
+*   Do not position yourself directly below another glider; a sudden reduction in their speed could lead to a collision.
+*   The glider climbing more slowly has right of way.
+*   Keep a close watch on all other pilots.
+
+=== Departure:
+
+*   Normally, exit through the core of the thermal, as long as it does not disrupt anyone else.
+
+.Airspace: Group thermalling
+image::espacio-aereo.png[]
+
+== Ridge Soaring
+
+We have an excellent ridge very close to the airfield: La Mujer Muerta.
+
+When flying on the ridge, we must bear in mind the close proximity of the mountain and the possibility of strong turbulence, so we must follow these rules to the letter:
+
+*   Pay close attention to traffic on the ridge if flying with other gliders.
+*   Fly with sufficient speed (at least 5 to 10 Km/h above the best glide speed) and keep the yaw string centered.
+*   Make figure-of-eight turns, always turning away from the ridge towards the valley.
+*   Ensure that the wind drift does not push you downwind, maintaining the necessary crab angle.
+*   If you meet another glider head-on, the one with its right wing to the ridge has right of way.
+*   If you are behind a very slow glider, overtake on the valley side.
+
+.Ridge soaring: La Mujer Muerta
+image::ladera.png[]
+
+.<- Ridge-soaring slope | the slope of... "no return" ->
+image::barlovento-sotavento.png[]
+
+[sidebar]
+****
+I like to approach the mountain in the following way:
+
+I try to reach the "service" thermal over the pig farm (Point Charlie).
+
+Once I reach about 1,500 m, I head towards Otero at best glide speed, slowing down in lift and speeding up in sink.
+
+Over Otero, approximately over the large blue-bottomed pond, the next "service" thermal should be active. Once found, I work it to cloud base and from there fly directly along the crest of the range to La Mujer Muerta.
+
+On days with moderate _N_ wind, and at sunset when the sun warms the slope, flying over it is a true delight.
+I have even had the privilege of flying alongside a group of six or seven majestic vultures that frequent the area.
+****
+
+== The Dovecote
+
+As we gain confidence in our flights, we will realize that a flying area is opening up before us, which we will colloquially call "The Dovecote" ("El Palomar"), and whose boundaries are:
+
+*   **S**: La Mujer Muerta.
+*   **SW**: San Rafael Reservoir / Villacastín Airfield.
+*   **W**: Campolara Airfield.
+*   **N**: The river woods / The gravel pits.
+*   **E**: Segovia.
+*   **SE**: San Ildefonso - La Granja / Peñalara.
+
+"The Dovecote" will constitute our "flying territory" for some time, and we should not feel self-conscious about the fear we might feel of venturing beyond its boundaries, as there are many things we can and must do within its limits that will be of great value in the future, if we know how to make the most of what it offers.
+
+Gradually we will visit the limits mentioned above, as well as other important reference points such as Riofrío Palace, the Laguna de las Cigüeñas, Otero de Herreros, Muñopedro, etc.
+
+We will get a map of the area and start working with it, getting used to identifying roads, power lines, rivers, railways, etc.
+
+We will also practice setting points to visit, identifying them on the map before takeoff to orient ourselves mentally, and try to "close" short distance circuits, always within easy reach of the airfield. We can experiment with the glider's glide performance to get to know it better and learn to intuitively estimate distances; for example, if we are over Segovia at 2,000 m, we can glide back to the airfield in a straight line without thermalling, and see how much altitude we lose.
+
+At this stage we will focus on the following tasks:
+
+*   Thermalling in all types of weather (not just on the good days).
+*   Navigation within the area identifying landmarks on the map, knowing the territory well, and flying short routes.
+*   Getting to know our glider, becoming aware of its glide ratio and flight characteristics.
+*   Doing endurance training flights. Start with 1-hour flights and progressively increase the duration to 3-4 hours before attempting the badge flight.
+
+.Map of the Dovecote
+image::mapa-palomar.png[]
+
+[sidebar]
+****
+I am overwhelmed by the feeling of "not making it back." I know that theoretically I have enough height, but it seems to me that I cannot reach the field from where I am.
+
+The tendency is to speed up the glider to try to get there sooner, but you soon realize that you are just losing altitude miserably by flying too fast.
+
+I quickly discover the way to "save" the maximum amount of altitude: fly at minimum sink speed `(75 Km/h for the ASTIR)` in lift, and accelerate only up to 110 Km/h if the sink is very strong. At higher speeds, the loss of altitude is too great, and I wouldn't get any further even if I fly faster.
+****
+
+== The Hare
+
+A technique that can bring us a lot of experience is to fly following the glider of a more experienced colleague acting as a "hare," that is, flying ahead of us scouting the territory and showing us which way to go to stay in areas of good lift, without having to face the risks of flying alone over unfamiliar ground.
+
+To fly in company with another glider, establishing good radio communication is essential, but taking great care to use a chat frequency `(130.575)` and never cluttering the airfield frequency with our conversations. We should also plan the flight beforehand, as it is common to lose sight of each other when flying at different altitudes.
+
+.Summer of 1994
+[sidebar]
+****
+Flying in the vicinity of the field, I communicate with a less experienced colleague who wants to follow me to "explore" the Campolara area.
+I communicate with him every now and then, pointing out the path to follow and the thermals I find.
+
+I arrive at Campolara and start turning in an excellent thermal, trying to center it while my colleague calls me, disoriented:
+
+[verse]
+----
+- Hey, I don't know where I am and I can't see you!
+- Tell me, what kind of terrain do you see?
+- I am over a large residential area with swimming pools near a highway.
+- It must be the A-6. You are very close; to the N you should easily spot the Campolara runway.
+- Uf!!... I've got it!!
+- Come over here, I am turning in a thermal at 1,600 m right overhead.
+----
+****
+
+This technique is very beneficial for visiting turn points that are not yet known, or exploring areas like the mountains, etc., building our self-confidence and expanding the boundaries of our "known" space.
+
+It also serves to build awareness of the glider's capabilities, helping us to better calculate and evaluate the glide path without fear of landing far too short or too long.
+
+.The hare
+image::liebre.png[]
+
+.Fly high, Antonio!!
+image::new-york.png[fit=none,pdfwidth=80%]
+
+.July 1992
+[sidebar]
+****
+I am turning in a thermal over Segovia and the vario shows 4 m/s. I reach the base of the cumulus cloud at about 2,000 m. I feel exultant and happy, until I look to the _E_ and see the mountain range stretch away towards La Salceda.
+
+I think that I will never be able to leap beyond the limits of The Dovecote, and I am starting to get tired of it.
+But truth be told, it commands respect.
+
+A glider joins a few meters below me and calls:
+
+[verse]
+----
+- What are you doing spinning around there like a fool? Come to La Salceda!!
+- I don't know... I don't dare!
+- But you have over 2,000 m! Come on, follow me!!
+
+No me lo pensé más and yelled BANZAI!!! It was the first time I jumped beyond the limits of The Dovecote. I reached La Salceda and returned with my pulse racing, but with the satisfaction of having made it there!!.
+----
+****

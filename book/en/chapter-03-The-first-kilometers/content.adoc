@@ -1,0 +1,560 @@
+:imagesdir: images
+ifeval::["{docname}" == "index"]
+:imagesdir: chapter-03-The-first-kilometers/images
+endif::[]
+
+= THE FIRST KILOMETERS
+
+.Cross-country flight is the best incentive in soaring. The challenge of flying kilometers is the essence of progress in piloting and an inexhaustible source of satisfaction
+image::haciendo-kilometros.png[]
+
+The time has come to leave the vicinity of the airfield and start traveling. To do this, we need to know our glider and its capabilities sufficiently, know how to navigate effectively, be able to communicate properly by radio, be very clear about what to do in case of an outlanding, acceptably master the technique of photographing turnpoints, etc.
+
+We only have to choose the route, plan the flight properly, and venture into a new world unknown to us until now.
+
+.Glider polar curve graph
+image::polar-velero.png[]
+
+== Glider Polar Curve
+
+During the glide, the glider transforms the potential energy given by altitude into forward progress, but the kilometers advanced represent a "consumption" of that altitude.
+
+The lower the "consumption" of altitude to cover a given distance, the more effective the glider's glide.
+
+It also happens that this "consumption" of altitude is not constant, but increases more than proportionally to the forward speed.
+
+The polar curve is a diagram summarizing the glide characteristics of a specific type of glider.
+
+[sidebar]
+****
+The vertical axis represents the rate of descent (sink rate) in meters per second, and the horizontal axis represents the flight speed in kilometers per hour. The resulting curve shows the rate at which the glider descends depending on the speed at which it flies.
+****
+
+For the `ASTIR CS`, the curve shows that stalling occurs at 65 Km/h, but at around 75 Km/h the rate of descent is at its minimum (0.6 m/s), and at 95 Km/h, although the rate of descent is higher (0.7 m/s), it offers the greatest distance covered of any speed, so we call it the best glide speed.
+
+There is another overlaid curve, which is the one resulting from flying with water ballast tanks filled to their maximum capacity (2 x 50 liters = 100 liters). This increases the glider's mass from 350 kg to 450 kg.
+
+With ballast, it will be harder to climb in lift, but once high, we will have much more potential energy to transform into kinetic energy. This decisively shifts the polar values forward, placing the best glide speed at 105 Km/h, although stalling and turning speeds also increase due to the higher weight.
+
+Ballast is used to "fly faster" on cross-country flights and because, as we can see in the comparison of both curves, above 105 Km/h the glider's performance improves with ballast, placing the 450 kg curve above the dry one.
+
+Studying the polar of a glider type we are going to fly for the first time can provide many important details about its behavior, and is just as important as performing a pre-flight checklist.
+
+== GLIDE DISTANCES
+
+To familiarize ourselves with the glide possibilities offered by each glider based on its ratio, we will refer to the GLIDE DISTANCES CHART. This is a double-entry table showing the altitude required to cover a given distance in kilometers according to a specific glide ratio.
+
+The box in the figure tells us that we need 750 m of altitude for a glide of 30 km with a glider offering a glide ratio of 1:40.
+
+Remember that a glider's glide ratio is calculated under ISA atmospheric conditions, in calm air, and at the glider's best glide speed.
+
+.Glide distances chart
+image::tabla-distancias-planeo.png[pdfwidth=90%]
+
+== FLIGHT PLANNING
+
+.Glide distances chart for the Astir CS. Theoretical ratio 1:37 but estimated at 1:30. At best glide speed of 85 Km/h. In calm wind.
+image::tabla-distancias-planeo-astir-cs.png[pdfwidth=90%]
+
+== Gliding in Fuentemilanos
+
+In Fuentemilanos, the ISA atmosphere would have approximate values of 9°C and about 910 mb of pressure. Therefore, whenever we make calculations based on the glider's glide ratio, we must keep in mind that, especially in summer, these values are substantially altered.
+
+However, to calculate the altitude required for a given glide, what is really important in practice is the possibility of finding lift and the wind direction.
+
+If we draw a 20 km circle centered on Fuentemilanos, we see that we would need practically the same altitude to glide to the airfield from La Granja as from Campolara.
+
+If we had a strong west wind, we would see that with a tailwind, we need less altitude to glide from Campolara to Fuentemilanos, and more altitude to glide from La Granja to Fuentemilanos.
+
+The variation in required glide altitude is proportional to the wind intensity: more altitude is needed with a headwind, and less with a tailwind.
+
+It is convenient to always keep a glide distance chart handy until we get used to the glider and know its performance, while being aware that this is a set of theoretical data and never an infallible flight rule.
+
+[sidebar]
+****
+With a strong NW wind, I let myself drift to Peñalara under very promising cumulus clouds and really enjoyed myself for about 45 minutes before deciding to head back to the field to land. I left Peñalara at about 2,100 m and set course for Fuentemilanos, only to find that at an indicated speed of 95 Km/h, the ground was barely crawling beneath me due to the strong headwind. I entered a zone of heavy sink and accelerated, with the altimeter needles spinning downward alarmingly. I tried not to worry, telling myself that a little wind could not ruin such a pleasant afternoon, but I reached the field at only 250 m—just enough to enter the traffic pattern with my heart in my mouth.
+****
+
+== Visual Navigation
+
+We are reaching the point where it becomes necessary to start practicing visual navigation in earnest, as this discipline will be very important in future cross-country flights.
+
+On more than one occasion, we will face the task of finding a turnpoint we have never visited before, and we will only have the help of a good map and, at best, a photo of the site and descriptions from colleagues.
+
+We should practice identifying not only towns and cities from the air, but all kinds of key references such as reservoirs, railways, silos, bridges, etc.
+
+== Preparing a Map
+
+Let's get a good map, preferably at a 1:400,000 scale and of a size that includes the Central System at least from El Barco de Ávila in the SW to San Esteban de Gormaz in the NE, bounded by the Duero River to the N, and the Madrid TMA to the S.
+
+This size is very manageable in a cockpit as tight on space as a glider's, and will contain all the information needed for flights of up to 500 km or more.
+
+The map from the Army's Geographic Service is very suitable (though a bit outdated), and we will need to assemble it from the corners of 4 different sheets, as no single sheet covers the entire area of interest. The series is 4-C, at a 1:400,000 scale, and we will need the following maps:
+
+* 2-2 Valladolid Lower right corner
+* 3-2 Burgos Lower left corner
+* 2-3 Salamanca Upper right corner
+* 3-3 Madrid Upper left corner.
+
+=== Adding Key Data
+
+Before laminating the map with transparent adhesive plastic, we must plot certain key data, which we will classify into three groups:
+
+* Distance circles and orientation.
+* Turnpoints and alternate airfields.
+* Coordinate references.
+* Frequencies and phone numbers.
+* Restricted areas.
+
+==== Distance Circles and Orientation
+
+These will be drawn according to the pilot's convenience and personal taste, but drawing circles marking 15 km and 30 km distances is recommended, as they are ideal for the size and scale of the proposed map.
+
+We will draw both circles with a thin line centered on the Fuentemilanos airfield, and mark the directions N (0°-360°), NE (45°), E (90°), SE (135°), S (180°), SW (225°), W (270°), and NW (315°) on the outer circle.
+
+These marks can be very useful for heading home on a day of low visibility when we must guide ourselves by the compass.
+
+The circles show the distance to the airfield, so depending on the glider we are flying, we must consult the glide chart to know the altitude required to return home on a final glide.
+
+It is highly recommended to draw these circles around several alternate airfields covering the mountain route, which will ultimately be the aerial "highway" where we will perform most of our flights.
+
+On the SW end, it is advisable to mark the Valle Amblés airfield near El Salobral in the Ávila valley, and on the NE end, we will have the Santo Tomé airfield.
+
+==== Turnpoints and Alternate Airfields
+
+We will highlight these points and airfields on the map with the sole purpose of making them easier to locate when in flight.
+
+Using a fluorescent marker, we will highlight the most important turnpoints and supporting airfields, such as (from SW to NE):
+
+* El Barco de Ávila
+* Piedrahita
+* Villatoro
+* Mengamuñoz
+* Valle Amblés Airfield
+* Ávila
+* Ojos Albos Airfield
+* Sanchidrián Airfield
+* Campolara Airfield
+* Villacastín Airfield
+* San Ildefonso - La Granja
+* La Salceda Airfield
+* Santo Tomé Airfield
+* Riaza
+* Riofrío de Riaza
+* Ayllón
+* Ayllón Airfield
+
+We should identify these points from the air whenever we have the chance, especially the airfields which, as we can see, dot the entire mountain route from SW to NE and will serve as valuable support points for flight planning. We can find help at almost all of them if we are forced to land there.
+
+==== Coordinate References
+
+On the borders of the original maps are coordinate marks in degrees, minutes, and seconds. Let's transfer these marks every 30', in both longitude and latitude. The scale will look, for example, like:
+
+40°00' = 40°30' = 41°00' = 41°30' in latitude, and 3°00' = 3°30' = 4°00' = 4°30' = 5°00' = 5°30' in longitude.
+
+The area of interest should cover from approximately 40°20' to 41°50' in latitude, and from approximately 2°30' to 5°40' in longitude.
+
+These marks will serve to directly and quickly locate any point for which we have the coordinates within the area of our map.
+
+==== Useful Frequencies and Phone Numbers
+
+On the front of the map, we will write the frequencies for each alternate airfield, the distress frequency, and the various frequencies active at Fuentemilanos.
+
+Additionally, in case we outland, we will list all Fuentemilanos phone numbers, especially the bar's number, where we are sure to get a reply if it is very late.
+
+==== Restricted Areas
+
+We will represent the two major restricted areas that can affect us on the map: the Salamanca Military Zone and the Madrid TMA.
+
+We will delimit the Salamanca Zone with a straight line from south of Olmedo to south of Ávila.
+
+On flights over 300 km, it is quite common to have to overfly this area to reach points like Piedrahita or El Barco de Ávila, and Villatoro is also within it.
+
+The Madrid TMA restricts VFR flights above 8,500 feet MSL in its first tier, and is marked on our map by a straight line from south of El Escorial to Somosierra.
+
+That is, if we fly beyond that line above 1,800 m, we might find ourselves face-to-face with a Jumbo approaching or leaving Barajas. Therefore, venturing to fly high beyond the southern face of the ridge is highly discouraged.
+
+image::mapa-fuentemilanos-1.png[]
+
+== Radio Communications
+
+In gliding, there is no strict regulation for radio communications, but at certain times we may be forced to communicate with a Control Center or an alternate airfield, and we must use a more "formal" communication scheme.
+
+The most frequent case we will encounter is communicating with Salamanca Air Traffic Control to notify them of our presence and request authorization to proceed into the restricted zone, for example, to reach Villatoro.
+
+Many pilots do not think it is necessary to call in such cases, but it is important for controllers and other pilots overflying the area to know we are there, to avoid dangerous situations.
+
+.October 1995
+[sidebar]
+****
+The day was very good for October, and several of us pilots were trying to approach Villatoro via Ávila, keeping in contact by radio.
+
+I was near Ávila when a colleague called to say that two fighter jets had passed very close to him and were heading towards me at the same altitude I was flying.
+
+I turned my head from side to side in a vain attempt to spot the incoming fighters, but I didn't see them until they passed a few meters below and to my right.
+
+They were gray, huge, and incredibly fast. I heard no engine noise at all.
+
+Many gliding pilots say that air traffic control tracks us on radar, but I don't believe it, and I prefer to report my position and even have them hear me on their frequency when I call the tower.
+****
+
+In a radio communication, we must always follow this model:
+
+* Identification and greeting.
+* Current position and altitude.
+* Intentions or request.
+
+It is also very useful to repeat the information given to us, simply to confirm we have understood it correctly.
+
+In calls to Salamanca Tower, the controllers are normally very polite and helpful with gliders, so we should not hesitate to call. A standard communication would be:
+
+.On entering the Salamanca restricted zone.
+[sidebar]
+****
+[verse]
+----
+KP:
+- SALAMANCA TOWER, EC-EKP, GOOD MORNING.
+TOWER:
+- EKP, GO AHEAD.
+KP:
+- EKP, GLIDER BASED IN FUENTEMILANOS ON A CROSS-COUNTRY FLIGHT TO
+VILLATORO AND RETURN. I AM OVERHEAD SANCHIDRIÁN AT 2,000 M.
+I REQUEST AUTHORIZATION TO PROCEED INTO YOUR ZONE.
+TOWER:
+- EKP, AUTHORIZED TO ENTER THE SALAMANCA
+RESTRICTED ZONE. REPORT LEAVING THE ZONE.
+KP:
+- EKP, AUTHORIZED TO SALAMANCA RESTRICTED ZONE. GOODBYE.
+----
+****
+
+.On exit...
+[sidebar]
+****
+[verse]
+----
+KP:
+- SALAMANCA TOWER, EC-EKP, GOOD AFTERNOON.
+TOWER:
+- EKP, GO AHEAD.
+KP:
+- EKP, LEAVING YOUR ZONE BY SANCHIDRIÁN AT 1,500 M.
+TOWER:
+- KP, RECEIVED. GOODBYE AND HAVE A GOOD FLIGHT.
+----
+****
+
+.If we had to contact an airfield to land there:
+[sidebar]
+****
+[verse]
+----
+KP:
+- VALLE AMBLÉS, EC-EKP, GOOD AFTERNOON.
+VA:
+- EKP, GO AHEAD.
+KP:
+- EKP, I AM A GLIDER BASED IN FUENTEMILANOS AND I AM TO THE
+WEST OF THE AIRFIELD AT 400 M ALTITUDE.
+I REQUEST INSTRUCTIONS TO PROCEED TO YOUR FIELD.
+VA:
+- KP, RUNWAY IN USE IS 35, WIND IS NORTH
+10 KNOTS. REPORT DOWNWIND.
+----
+****
+
+From here, we follow the normal procedure.
+
+.Following radio communication procedures to the letter is highly important, especially during the approach phase
+image::final-34.png[]
+
+== Outlandings
+
+From the very moment of takeoff, even for a short local flight, we face the possibility of having to make a landing away from our airfield of origin.
+
+An outlanding is a possibility that affects every glider pilot, regardless of experience and skill, especially on cross-country flights where weather conditions change significantly along the route.
+
+If it happens to us at some point, we should never consider it a failure or an error, nor be afraid to perform it, provided we follow a minimum of planning and method.
+
+In our area of flight, we will find not only several strategically located airfields, but also a large number of cultivated fields very suitable for our emergency landings. These fields are normally very flat, of good size, well connected by roads and paths, and in summer after the harvest, they become true landing strips.
+
+The main recommendation for outlandings is: `DO NOT IMPROVISE`.
+
+We must plan a preparation that provides us with experience and prior knowledge that will be very useful when the time comes.
+
+**Glider rigging and de-rigging.** Whenever we see someone rigging or de-rigging a glider, let's approach silently and without disturbing, paying close attention to each maneuver until we understand how they are performed.
+
+A team rigging or de-rigging a glider must be perfectly coordinated, with tasks distributed.
+
+If we are to offer our help, let's do it before the task starts and follow the instructions of the most experienced team member in silence, who should be the only one speaking, unless we notice a blatant mistake or a dangerous situation.
+
+Rigging or de-rigging a glider should never turn into a circus of shouting and hustle, which can lead to vital mistakes and damage to the glider components, or worse, leave it poorly assembled and unsafe for the next flight.
+
+In an outlanding, we must de-rig our glider to bring it back to the airfield, and once there, if it is a school or club glider, it will be our responsibility to re-rig it and leave it in the same flight condition as we found it.
+
+It is important that a different person double-checks every single control linkage connection after the person responsible finishes the task.
+
+**Handling a trailer.** Once the glider is disassembled, it must be loaded and secured in the trailer, which requires some knowledge and practice, especially since this maneuver will likely be carried out in an unfamiliar field and under low light conditions.
+
+The best recommendation in this case is to join several "retrieval crew" expeditions, which will not only provide good technical training but is also a healthy exercise in solidarity and camaraderie very necessary in gliding.
+
+As the saying goes: `today for you, tomorrow for me`.
+
+Inspecting our glider's trailer upon our arrival at the airfield, checking that it is ready for use (tires, hitch, accessories, etc.) is essential and can save us many headaches when needed.
+
+**Practice in a motor glider.** Let's take advantage of opportunities to practice in a motor glider accompanied by an instructor to simulate outlandings throughout the entire process: locating and selecting a field, flying the circuit, and simulated landing.
+
+With the motor glider, the terrain can be scouted at low altitude, and in a single hour of flight, a good number of simulations can be carried out, providing valuable experience.
+
+**Precision landings.** Precision landings involve landing and making touchdown at a pre-selected spot on the runway.
+
+To practice, we will target a reference on our airfield's runway—numbers, lines, side markings, etc.—and try to control the glider right after touchdown, deploying full airbrakes and carefully applying the wheel brake to minimize the landing roll.
+
+.Schleicher ASH-25, one of the most modern and high-performance gliders
+image::schleicher-ash-25.png[]
+
+Once practiced on the asphalt runway, it is useful to practice it on the grass/dirt runway, which will give a sensation closer to landing in a crop field.
+
+**Flight planning.** When planning our flight, it is important to identify and mark each and every alternate field along our intended route, as well as landout-impossible areas or "wolf country" ("tierra de lobos").
+
+We must overfly unlandable areas with enough altitude reserve to face the most adverse conditions. Running out of height and being forced to land in them can result in the glider and/or our physical integrity being destroyed.
+
+In case of need, we will use alternate airfields preferentially, as they normally offer more safety and resources than any field, no matter how good it looks.
+
+The surface wind forecast from the morning pre-flight briefing is an important detail to note on our map for landout preparation.
+
+Do not forget to "recruit" our retrieval crew before the flight, and to carry the necessary phone numbers and some loose cash for calls.
+
+It is important to report an outlanding within the time limits set by the airfield regulations. If nothing is known about a glider after the scheduled hour, SAR (Search and Rescue) will be notified to start a search under the assumption that an accident has occurred.
+
+== The Decision
+
+If we have been cautious during the flight, it is assumed we will never find ourselves low over clearly unlandable areas, and that faced with such a prospect, we will have "migrated" towards the plains where the terrain is more "friendly," even at the cost of deviating from our route.
+
+*Under what circumstances should we plan an outlanding?*
+
+The situation could go as follows:
+
+Flying over the mountains at a good altitude, I enter a zone of heavy sink, but I expect to find lift further ahead, so I accelerate slightly to cross the zone as quickly as possible.
+
+The sink persists and worsens, and a red alarm light goes off in my mind.
+
+The situation deteriorates, and I decide to leave the mountains and head towards the plain, arriving there at 800 m altitude.
+
+I keep moving forward with difficulty, as the lift has disappeared and I have to settle for turning in zeros or 0.5 m/s.
+
+Despite moving forward with all precautions and exploiting every bit of weak lift, my altimeter shows less than 500 m. With a glance at the ground, I estimate that this might be my actual height above the terrain, as the altimeter was set to zero at Fuentemilanos and could mislead me if the ground here is higher or lower.
+
+From this point, the procedure that will lead to a landing in the fields below is triggered.
+
+Without stopping my search for the slightest lift, I slow down and start looking closely at the ground for signs of wind direction.
+
+At the pre-flight briefing, they predicted a moderate north wind, and I can see that the smoke from a fire to my left is blowing towards the south, confirming the data I had.
+
+Once oriented, I call Fuentemilanos by radio to report my position and intentions, but... nobody answers.
+
+I am at only 450 m, and the radio waves cannot reach their destination.
+
+I try to relay and call any glider listening on our frequency.
+
+I am in luck, so I confirm my position and my intentions to land, and he transmits them to base.
+
+I return to my task, and now at 400 m and finding no lift, I try to locate a suitable field for landing.
+
+.KEEPING... THE CONCEPTS CLEAR!
+image::toma-fuera-campo.svg[]
+
+I have two options aligned with the north and free of power lines, trees, animals, and obstacles:
+
+* The first is freshly harvested, and although its surface might be best, there are some straw bales here and there, and it is also somewhat far from a road crossing the area.
+* The second is freshly plowed, with furrows aligned north, next to the road leading to the village I see beyond.
+
+The target is set, and at 300 m I begin a normal circuit, but using the downwind leg to inspect the ground condition closely for ditches, slopes, fences, stones, etc.
+
+In case I find any problem, I just have to extend the base leg to reach the other field, which, despite a few scattered straw bales, can offer enough safety.
+
+Everything looks correct, so I extend the wheel and tighten my harness, keeping my eyes on the field, always trying to spot any hidden problem undetectable from higher up.
+
+I think the landing will be a bit rough, and I trust that the landing gear will absorb the impact and not affect my spine.
+
+On final approach, managing the headwind to avoid falling short, I deploy the airbrakes and prepare for a precise and positive landing.
+
+A few meters above the ground, it looks much rougher than from above, but I confirm there are no dangerous obstacles.
+
+With full airbrakes, I let the glider lose all its energy and touch down tail-skid first.
+
+The landing is somewhat rough and the roll-out extremely short, making sure the wingtips do not touch the ground and keeping the stick fully back from that moment until the glider stops.
+
+I open the canopy, and the air makes me realize I am sweating profusely from nerves.
+
+I take a moment to calm down and focus on locating the exact landing spot on the map.
+
+I check the glider's condition and see that, apart from dirt and a minor scratch on the belly gel-coat, it has suffered no significant damage. I also realize no damage was done to the crop field and that, this time, the insurance will not have to compensate the owner.
+
+At that moment, I am surprised by the call from the glider relaying for me, so I report that I landed safely and my exact location.
+
+They will be here in a couple of hours.
+
+While evening falls, I pass the time taking some photos, removing the tape from the glider's gaps, unscrewing the horizontal stabilizer, etc., while constantly reviewing in my mind the entire process I have just gone through.
+
+Now we only have to disassemble the glider, load it into the trailer, and head home, but not before complying with the tradition of treating my hard-working retrieval crew to a good dinner.
+
+== Photographing Turnpoints
+
+.Photographic sector angle
+image::fotografiar-punto-viraje.png[]
+
+When planning the flight, it is necessary to check the photographic angular sector of the chosen turnpoints, so we can take the photos within its limits. Special care must be taken in this maneuver, as a doubtful photo or one clearly outside the sector can invalidate our flight despite having been there.
+
+The turn should be similar to the one we make when entering a thermal, banking and lightly applying the rudder to keep the yaw string centered and avoid slipping or skidding.
+
+Once the turnpoint is located, we will head towards it, but keeping it to one side and taking a reference on the opposite side, which will warn us when to start the maneuver.
+
+We will prepare the camera, which will preferably be fixed to the dedicated mount in the cockpit. Once our wings have passed the chosen references, we will accelerate by pitching down slightly, and begin the turn by pulling back and banking so that we aim at our target with the wingtip. If the camera has automatic winding and the maneuver is executed correctly, we will even have time to take two shots within the sector before continuing our way.
+
+To master this technique, it is important to practice during local flights by photographing pre-set points, trying to improve the turn step by step, and developing the photos to check the results.
+
+== The First Kilometers
+
+**Progression.** There is a type of gliding pilot who, when asked when they are going to attempt this or that badge flight, invariably replies that competitiveness is not for them and that they fly only for pleasure and enjoyment.
+
+I believe this is a mistaken attitude because gliding requires progression. The challenge of attempting badge flights and tasks of increasing difficulty is part of the true enjoyment of soaring; otherwise, one sinks into a routine that sooner or later kills the illusion of flying.
+
+True, this progression must be gradual and in due time, because stalling is just as bad as rushing.
+
+What should a pilot's progression scale be? It is very risky to establish a progression line because it depends on many factors and circumstances. However, as a rough guide, we could set the following relationship between hours flown and badges achieved:
+
+30 Flight hours:: (Silver C) Altitude gain.
+40 Flight hours:: (Silver C) Duration flight.
+60 Flight hours:: (Silver C) 100 km distance.
+140 Flight hours:: (Gold C) 300 km distance.
+
+Many of these hours will be flown around "The Dovecote," which not only offers the training opportunities we have mentioned, but almost without leaving its boundaries, we will be able to complete the requirements for the Silver C gliding badge.
+
+=== Altitude Gain
+
+This test consists of `documenting an altitude gain of 1,000 m` starting from the tow release height.
+
+To attempt this, we will choose a day with a forecast ceiling around 2,000-2,500 m and plan the tow to release at an altitude that is not too high, which could later work against us if we fall short by a few meters.
+
+It is essential to set the altimeter precisely right before takeoff and carry a barograph properly verified by an official observer.
+
+If the ceiling is very tight, keep in mind that the mountains offer greater height than the plains and can provide us with those extra meters. It is also important to exceed the target altitude shown on the altimeter by a safety margin, to avoid any surprises due to changes in atmospheric pressure.
+
+=== The Duration Flight
+
+The test consists of `performing a five-hour flight` in duration, which will be verified by the airfield log of takeoffs and landings.
+
+A barograph trace will certify that we did not land and take off again during that period.
+
+This test should be attempted when one has some training and is confident of handling it comfortably. We must ensure we are very comfortable in the cockpit and carry suitable liquids and food to consume in flight.
+
+A topic rarely discussed regarding long flights is the need to carry a device to urinate, which can be a decisive element. Many flights have been ruined by the discomfort of holding in the urge to urinate for hours.
+
+These devices can vary widely, from empty plastic bottles to ultra-absorbent adult diapers for women, ziploc bags, and hospital incontinence devices.
+
+I recommend trying them all and choosing the one that best suits individual preferences.
+
+Keep in mind that after 5 hours of flight we will return tired and with slower reflexes, so we must pay special attention to landing maneuvers.
+
+=== The 100 km Distance
+
+Before attempting the distance flight, we will have completed a training program of short routes visiting points like Segovia, San Ildefonso, Muñopedro, Campolara, Villacastín, etc., so we know the territory surrounding the airfield well for kilometers around.
+
+If we are capable of making a route like Fuentemilanos-Segovia-Campolara-Fuentemilanos, we can say we are ready to attempt the 100 km distance flight with a guarantee of success.
+
+My proposal to achieve the 100 km distance flight is as follows:
+
+.My proposal for attempting the 100 km distance flight.
+[cols="4,5,>1", options="header",stripes=even]
+|====
+| DEPARTURE                | Fuentemilanos                      | KM
+| *FIRST TURNPOINT*        | San Ildefonso La Granja Palace     | 20
+| *SECOND TURNPOINT*       | Sanchidrián Airfield               | 50
+| *ARRIVAL*                | Fuentemilanos                      | 31
+|                          | *TOTAL*                            | *101*
+|====
+
+image::propuesta-distancia-100km.png[]
+
+This route offers very significant advantages, running in an EAST-WEST direction through an area familiar to the pilot and counting on no less than three airfields along the route: Fuentemilanos, Campolara, and Sanchidrián, which is even a turnpoint.
+
+To the south, we have the support of the mountains, which, although off the main route, can be of great help in closing the flight successfully on certain days.
+
+As preparatory work, it is important to have visited the turnpoints to identify them from the air and familiarize ourselves with the route. A two-seater flight with an instructor, or a single-seater flight with another glider acting as a "hare," are excellent means for this training.
+
+[sidebar]
+****
+The day turned out excellent, and I, a bundle of nerves, performed the pre-flight check on the KP, inspected the camera, the barograph, etc. When the time came, I took off around 2:00 PM, releasing at 600 m in good lift.
+
+I climbed to cloud base, took the departure photo, and headed to Segovia, where I arrived half an hour later flying directly from Fuentemilanos.
+
+The first problem was the south wind, which created sink (wind shadow) over the La Granja Palace. Every time I "attacked" from overhead Segovia, I ran into a prolonged sink area that forced me to abandon twice and return to the safety of the thermal right over the Alcázar.
+
+I tried to climb to cloud base to accumulate as much height as possible, and attacked again, stoically enduring the protests of the altimeter and the variometer, until I reached the palace and managed to take two photos in a rather sloppy turn in which I lost more altitude than desirable.
+
+I made the return flight over the plain again, as the sink on the mountain side advised against getting too close to it. The flight to Sanchidrián was slow, more due to my inexperience and extreme conservatism than the conditions, since there was plenty of lift.
+
+I reached Sanchidrián at 4:50 PM and, with another sloppy turn, got the photos—though not before spending quite some time trying to locate the airfield, as I had never seen it from the air. The search for the airfield involved some anxious moments of "it must be around here...", but in the end I managed to locate it by following the road and railway references.
+
+The last leg was a delight, almost without thermalling and enjoying in advance the satisfaction of having made it. Mind you, with an extremely uncomfortable urge to urinate that ruined everything.
+
+At 5:30 PM, after three and a half hours of flight, I landed in Fuentemilanos, satisfied with the "feat," but with doubts about whether the photos would be valid or not. The surprise came the next day... they had cut my film negative into pieces, despite my insistence that it should remain uncut.
+
+The second attempt was several days later with a very similar flight, but with a different issue: I forgot to turn on the barograph.
+
+The third attempt was the charm, and finally I managed to close the flight, get uncut negatives, and a complete barograph trace.
+****
+
+== Flight Planning
+
+Pre-flight check:: Let's make an exhaustive inspection of the glider and verify we have everything: barograph, camera, declaration of flight form duly signed by the observer and photographed, tow ticket, etc.
+
+It is important to prepare everything in advance, as rushing at takeoff can make us forget something important (e.g., turning on the barograph, failing to photograph the flight declaration form, etc.).
+
+The day:: We will preferably choose a good summer day, with cumulus clouds, a ceiling above 2,000 m, and a good weather forecast.
+
+Launch time:: Since it will be a relatively short flight—3 to 4 hours is more than enough time—let's not rush to take off until the lift is working well and the ceiling is at its highest.
+
+Let's observe where the gliders that take off before us are turning, and try to locate the "service" thermals, preferably west of the airfield.
+
+Departure:: Aero-tow to no less than 700 m, releasing in the zone west of the airfield, which is where we must take the departure photo. From the very beginning, try to gain altitude and do not obsess over the photograph until you are above 1,000 m...
+
+.Fuentemilanos tower, departure photo from the western zone
+image::foto-salida-fuentemilanos.png[]
+
+From that position and with a simple bank, we will take the photo of the airfield tower and then try to climb to cloud base before starting the first leg.
+
+IMPORTANT: I am missing pages 3.20 and 3.21 of the original.
+They should have been between the photographic images IMG_902.JPG (above) and IMG_908.JPG (the text below).
+If you have them, or have the original book, please take a photo and send them to me to complete the book.
+
+== Badges
+
+The International Gliding Commission establishes the following:
+
+**Glider Pilot License Class "C".**
+
+**SILVER "C":**
+
+*   Flight of more than 50 km.
+*   Duration flight of more than 5 hours.
+*   Altitude gain of more than 1,000 m.
+
+**GOLD "C":**
+
+*   Distance flight of more than 300 km.
+*   Altitude gain of more than 3,000 m.
+
+**GOLD & SILVER "C" WITH DIAMONDS:**
+
+*   Distance flight of more than 500 km.
+*   F.A.I. triangle flight of more than 300 km.
+*   Altitude gain of more than 5,000 m.
+
+.Nimbus 3D
+image::nimbus-3d.png[]
+
+.The duration flight
+image::permanencia.png[]

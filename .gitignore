@@ -1,8 +1,8 @@
-book/*.pdf
-book/*.epub
-book/*.mobi
-book/*.html
-book/*.pdfmark
+book/**/*.pdf
+book/**/*.epub
+book/**/*.mobi
+book/**/*.html
+book/**/*.pdfmark
 build/
 .DS_Store
 AGENTS.md

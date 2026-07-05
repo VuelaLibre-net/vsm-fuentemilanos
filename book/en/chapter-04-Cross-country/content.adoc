@@ -1,0 +1,615 @@
+:imagesdir: images
+ifeval::["{docname}" == "index"]
+:imagesdir: chapter-04-Cross-country/images
+endif::[]
+
+= CROSS COUNTRY
+
+== Cross-Country
+
+.Fuentemilanos: Takeoff grid on a promising day for cross-country flights
+image::cola-salida.png[]
+
+Cross-country or distance flying is the true "essence" of gliding, and we could say it follows this law: no two days are alike, and no distance is easy.
+
+Cross-country flight offers the pilot an ever-greater challenge, and the progression seems to never end or bore even the most adventurous or "kamikaze" pilots. At the end is the dream of achieving a 1,000 km flight and entering the Olympus of the "Very, Very Great Pilots."
+
+Flights must be faced with seriousness, caution, and plenty of prior preparation. Even the most accessible distance will demand a great effort from us, not only physically, but also in tenacity and concentration. The practice of cross-country flight is an intimate exercise, in which we will spend hours inside the narrow cockpit of a glider, fighting the elements and our own fatigue to achieve the planned goal. Afterwards, only your own satisfaction and the recognition of your fellow pilots remain. But do not even think of bragging about it to people who do not know gliding, as they will only look at you with bewilderment and call you "crazy" or "suicidal."
+
+== The 300 Kilometers
+
+The transition between 100 km and 300 km is a very important step in gliding progression, as the pilot who has just completed their first 100 km flights must now face a distance three times greater, with a duration and complexity far superior to those achieved so far.
+
+I believe it is not advisable at all to directly tackle a 300 km route. Instead, a preliminary training program should be planned to acquire the necessary knowledge and practice to then face this distance with a guarantee of success.
+
+However, we will start by setting a goal, and a very suitable one due to its design is the following:
+
+**FUENTEMILANOS-RIAZA-VILLATORO-FUENTEMILANOS** with a total of 320 km.
+
+This route leaves Fuentemilanos in a central position and runs along the mountain range in two legs: one to the NE to Riaza, and another to the SW to Villatoro.
+
+Preparation:: I recommend that after obtaining their brand-new Silver "C", the pilot begin preparation by trying to complete flights over partial legs of the proposed route.
+
+Excellent training would involve tackling distances between 150 and 250 km, corresponding to the following flights:
+
+* 152 km FUENTEMILANOS-RIAZA-FUENTEMILANOS.
+* 166 km FUENTEMILANOS-VILLATORO-FUENTEMILANOS.
+* 221 km FUENTEMILANOS-LA SALCEDA-ÁVILA-FUENTEMILANOS.
+
+These flights will give us knowledge of the turnpoints and alternate airfields, and build plenty of confidence to face the final flight with a guarantee of success. So we will prepare them as if it were a "300" flight, declaring them, obtaining the barograph trace, and taking the photographs.
+
+Any pilot who has completed these three flights is in a perfect position to comfortably pass the 300 km test.
+
+First Leg:: Once the departure photo is taken, we will head out to cover the first leg, either heading directly to Segovia to reach the Cerro de las Cardosillas to the E (where there is usually a "service" thermal), or via the familiar route: Otero de Herreros-Mujer Muerta-Peñalara. Once over the mountains, we will fly along them towards the Navafría Pass, leaving the Lozoya Valley to the right and finding La Salceda airfield to our left. Flying over this area of the mountains may give us the impression that we lack altitude because the terrain rises to meet us, but we only have to fly towards the plain to confirm that our altimeter, set to Fuentemilanos height, is not wrong.
+
+Once we reach La Salceda, we will have a beautiful stretch before us, but one that is intimidating due to the near absence of landable fields and the rocks in the Arcones area. Therefore, let's take safety measures and not risk "making the leap" to Santo Tomé unless we have at least 1,500 m and reasonably favorable conditions.
+
+.The mountains offer excellent support for cross-country flights
+image::montaña.png[]
+
+Let's make our way towards Santo Tomé, under cumulus clouds and maintaining best glide speed, accelerating in sink and exploiting every quality lift we find. It is advisable not to drop below 1,000 m unnecessarily.
+
+This stretch is impressive the first time it is flown, but there are usually excellent conditions and it should not present any problems if minimum precautions are taken. Once we reach the Somosierra-Santo Tomé area, we can spot the town of Riaza to the NE, following the N-110. So let's prepare the camera in time and head there, either directly over the plain or along the mountains, overflying La Pinilla ski station and approaching the Sierra de Ayllón, and from there jumping to Riaza.
+
+Our turnpoint is located very close to two excellent airfields: Santo Tomé to the W, and Corral de Ayllón to the N. Thus, even with less than 1,000 m, we could reach either of them from Riaza.
+
+Continuing NE along the N-110, we reach the town of Ayllón, which is another important turnpoint for future flights. Once the necessary photos are taken, we will start the return journey, guided by the clouds and following the same path if it yielded good results on the way out.
+
+Second Leg:: Once we reach the Peñalara area again, and provided conditions in the mountains look better than over the plain, we will jump towards La Mujer Muerta and follow the mountain ridge towards Los Ángeles de San Rafael.
+
+To the SW of Los Ángeles, we will spot the hill of La Cruz de Hierro, which lies halfway to the city of Ávila.
+
+Over La Cruz de Hierro, there are usually excellent thermals, and here we will be in visual contact with Villacastín airfield and before the second and final half of our flight.
+
+We will head towards Ávila following the cumulus clouds, trying to approach its northern side, where we will find the Sierra de Ávila. It is low in altitude but a very good thermal generator and leads us directly to the end of the valley, through which the N-110 runs straight to Villatoro itself.
+
+We fly keeping the valley to our left, and we can observe that it offers many landing possibilities.
+
+Let us not forget that at the height of Ávila we must communicate with Salamanca to report our position and intentions.
+
+The Valle Amblés airfield can be spotted by its hangar, very close to the junction of the N-110 and N-502. From Villatoro, we can fly to it if we have about 1,000 m and normal conditions.
+
+With Villatoro in sight, notice that to the S lies the peak of La Serrota and the Menga Pass, at the entrance of which lies the village of Mengamuñoz, another important turnpoint.
+
+Once the photo of Villatoro is taken, we will head back along the same path if it was favorable to us. Once north of Ávila city, if the plain looks good, we will set a heading of approximately 050°, which will take us in a straight glide to Fuentemilanos, leaving Villacastín to the right and, further ahead, Campolara airfield to the left, after crossing the A-6.
+
+Let us report to Salamanca that we are leaving their area, and fly towards home following the cumulus clouds. With barely 1,000 m and normal conditions, we can arrive in a glide to take the final photo of Fuentemilanos from the E before landing.
+
+.Nimbus 3D: The famous "Y4"
+image::nimbus-y4.png[]
+
+.Flights originating and ending in Fuentemilanos
+[cols=">1,3,3,3,>1,>1,>1,>1,>1", options="header",stripes=even]
+|===
+| No. | 1st TURNPOINT      | 2nd TURNPOINT     | 3rd TURNPOINT    |  1 | 2   |  3  |  4 | km
+| 1  | Ávila              |                   |                  | 47 | 47  |     |    |  94
+| 2  | Sanchidrián Air.   | La Granja, Palace |                  | 31 | 51  | 20  |    | 102
+| 3  | Santo Tomé Air.    |                   |                  | 64 | 64  |     |    | 128
+| 4  | Riaza              |                   |                  | 76 | 76  |     |    | 152
+| 5  | Villatoro          |                   |                  | 83 | 83  |     |    | 166
+| 6  | La Salceda Air.    | Ávila             |                  | 36 | 83  | 47  |    | 166
+| 7  | La Salceda Air.    | Navalmanzano      | Ávila            | 36 | 36  | 73  | 47 | 192
+| 8  | Santo Tomé Air.    | Ávila             |                  | 64 | 110 | 47  |    | 221
+| 9  | La Salceda Air.    | Olmedo            | Ávila            | 36 | 72  | 70  | 47 | 225
+| 10 | La Salceda Air.    | Villatoro         |                  | 36 | 119 | 83  |    | 238
+| 11 | Santo Tomé Air.    | Olmedo            | Ávila            | 64 | 91  | 70  | 47 | 272
+| 12 | Riaza              | Mengamuñoz        |                  | 77 | 155 | 77  |    | 309
+| 13 | Riaza              | Villatoro         |                  | 77 | 160 | 83  |    | 320
+| 14 | Ayllón             | Villatoro         |                  | 93 | 174 | 83  |    | 350
+| 15 | Riaza              | Piedrahita        |                  | 77 | 180 | 103 |    | 360
+| 16 | Ayllón             | Piedrahita        |                  | 93 | 187 | 103 |    | 383
+| 17 | Riaza              | El Barco de Ávila |                  | 77 | 200 | 124 |    | 401
+| 18 | Ayllón             | El Barco de Ávila |                  | 93 | 216 | 124 |    | 433
+| 19 | Ayllón             | Piedrahita        | La Salceda Air.  | 93 | 187 | 139 | 36 | 455
+| 20 | Ayllón             | Villatoro         | Santo Tomé Air.  | 93 | 174 | 146 | 64 | 477
+| 21 | Ayllón             | Villatoro         | Riaza            | 93 | 177 | 159 | 77 | 506
+| 22 | Ayllón             | Piedrahita        | Santo Tomé Air.  | 93 | 187 | 166 | 64 | 510
+|===
+
+Another frequently used launch point is Otero de Herreros, which, due to its proximity to the mountains, is ideal for flights starting very early when convective activity is still weak.
+
+.Lista de puntos de viraje
+[cols="4a,4a,2a,2a", options="header",stripes=even]
+|===
+| Location | Exact Point | Longitude | Latitud
+| Aranda de Duero | Bridge over Duero | 41.40.16 N | 03.30.56 W
+| Ávila | Bullring | 40.38.51 N | 04.41.57 W
+| Ávila | Cathedral | 40.39.26 N | 04.41.23 W
+| Ayllón | Silo | 41.26.46 N | 03.19.58 W
+| Baltanas | Church | 41.56.15 N | 04.15.00 W
+| Berlanga de Duero | Castle | 41.27.51 N | 02.51.34 W
+| Burgomillodo | Reservoir | 41.20.21 N | 03.53.07 W
+| Cabezuela del Valle | Church | 40.11.42 N | 05.48.07 W
+| Campolara | airfield | 40.54.30 N | 04.31.30 W
+| Cantalejo | Church | 41.15.22 N | 03.55.20 W
+| Club Náutico Najade | Hotel | 40.46.59 N | 04.14.33 W
+| Cubilla | Church | 41.44.55 N | 02.56.17 W
+| Cuéllar | Castle | 41.24.02 N | 04.19.26 W
+| Dueñas | Station | 41.52.20 N | 04.32.40 W
+| El Barco de Ávila | Castle | 40.21.18 N | 05.31.21 W
+| El Burgo de Osma | Church | 41.35.17 N | 03.03.52 W
+| El Espinar | Church | 40.46.05 N | 04.14.50 W
+| Palmaces | Reservoir | 41.03.05 N | 02.56.28 W
+| Fuentemilanos | airfield | 40.53.15 N | 04.14.18 W
+| Gormaz | Castle | 41.29.42 N | 03.00.30 W
+| Hontanares | Chapel | 41.16.49 N | 03.26.00 W
+| Íscar | Church | 41.21.43 N | 04.32.11 W
+| La Granja | Palace | 40.53.41 N | 04.00.29 W
+| La Pinilla | Ski Station | 41.12.05 N | 03.28.06 W
+| La Salceda | airfield | 41.03.52 N | 03.52.41 W
+| La Torre | Church | 40.35.22 N | 04.57.38 W
+| Medina del Campo | Station | 41.18.59 N | 04.54.31 W
+| Medina del Voltoya | Church | 40.42.03 N | 04.33.37 W
+| Mengamuñoz | Church | 40.29.03 N | 04.59.49 W
+| Mingorria | Station | 40.44.53 N | 04.39.08 W
+| Mojados | Church | 41.25.51 N | 04.40.04 W
+| Muñoveros | Church | 41.10.07 N | 03.57.31 W
+| Navalmanzano | Church | 41.12.51 N | 04.15.31 W
+| Niharra | Church | 40.35.25 N | 04.50.17 W
+| Ojos Albos | Church | 40.42.20 N | 04.30.54 W
+| Olmedo | Church | 41.17.21 N | 04.20.58 W
+| Otero de Herreros | Station | 40.48.01 N | 04.12.25 W
+| Paredes de Nava | Church | 42.09.16 N | 04.42.02 W
+| Peñafiel | Castle | 41.36.06 N | 04.06.59 W
+| Piedrahita | Church | 40.27.49 N | 05.19.36 W
+| Retortillo de Soria | Church | 41.18.38 N | 02.58.54 W
+| Riaza | Church | 41.16.37 N | 03.28.26 W
+| Rio Riaza | Reservoir | 41.14.41 N | 03.26.57 W
+| Riofrío | Palace | 40.52.08 N | 04.05.59 W
+| Riofrío | Reservoir | 40.51.41 N | 04.09.14 W
+| Riofrío de Riaza | Church | 41.14.41 N | 03.26.57 W
+| Rueda | Church | 41.23.43 N | 04.57.45 W
+| San Esteban Gormaz | Castle | 41.34.37 N | 03.12.20 W
+| San Ildefonso L.Granja | Palace | 40.53.41 N | 04.00.29 W
+| San Rafael | Tunnel | 40.42.38 N | 04.52.55 W
+| Santo Tomé | airfield | 41.11.43 N | 03.35.46 W
+| Sanchidrian | airfield | 40.54.02 N | 04.36.34 W
+| Santa Olalla | Church | 40.01.29 N | 04.25.33 W
+| Segovia | Aqueduct | 40.56.49 N | 04.06.46 W
+| Sepúlveda | Church | 41.17.41 N | 03.44.33 W
+| Sierra Alto Rey | Antennas | 41.09.59 N | 03.03.35 W
+| Somosierra | airfield | 41.08.47 N | 03.35.38 W
+| Tordesillas | Bridge | 41.29.52 N | 05.00.04 W
+| Tudela de Duero | Bridge over Duero | 41.34.58 N | 04.34.58 W
+| Villacastin | Church | 40.46.50 N | 04.24.42 W
+| Villacastin | airfield | 40.47.11 N | 04.27.17 W
+| Villatoro |  | 40.33.26 N | 05.06.27 W
+| Junction N110-N502 |  | 40.37.51 N | 04.46.13 W
+| Junction N1-N110 |  | 41.11.21 N | 03.34.48 W
+|===
+
+<<<
+== 300 km Flight
+
+[verse]
+----
+PILOT: Fernando Correa
+DATE: 7/18/95
+GLIDER: LS7 EC-FJH "SH"
+ROUTE: FUENTE-RIAZA-VILLATORO-FUENTE
+----
+
+After a week of rather disastrous weather, today finally the weather forecast seems to promise a good day. So after fulfilling the ritual of thoroughly cleaning the glider, I prepare my gear: barograph, camera, flight declaration form, etc.
+
+As the morning progresses, the predictions seem to be confirmed. The first cumulus clouds, which always appear over Peñalara, are quickly followed by others over La Mujer Muerta and some over the plain.
+
+Once at the launch grid at 1:00 PM, the goodness of the day is confirmed. I take off at 2:00 PM in almost electric conditions. After a tow to 600 m, I climb quickly to 1,000 m west of the field, take the departure photo, and head to Otero de Herreros, finding good lift.
+
+I complete the Otero-Mujer Muerta-Peñalara stretch without difficulty. Once at Peñalara, I gain maximum altitude and set off on a glide along the mountain ridge to La Salceda. There, it starts getting harder to move forward, but after searching around a bit and with 2,000 m of altitude, I decide to make the jump to Santo Tomé following the mountains, although I see good cumulus clouds over the plain where some paragliders from Arcones are flying. I quickly realize that I might have made a mistake, as I do not find much over the mountains.
+
+I continue forward, reaching Somosierra having lost 500 m, and begin turning in a thermal right over the highway until I recover 2,000 m, which puts my mind at ease.
+
+Now I observe Santo Tomé airfield below, and further on to the northeast, the town of Riaza. The glide to Riaza is quite comfortable, although the sky is almost blue. However, I find a couple of thermals that help me progress until I take the photos and return along the same path. I take the opportunity to eat an apple and drink some water, while observing a busy coming and going of gliders at various altitudes.
+
+This time I return a couple of kilometers towards the plain, following the cumulus clouds I spotted on the way here, which have improved in appearance.
+
+At first I progress slowly, but from La Salceda, I notice that the cumulus clouds over the mountains have merged, forming a powerful-looking mass, so I head towards it to try my luck. I start finding lift of 4 and 5 m/s, so I climb while flying in a straight line. I climb gradually, and by La Granja, I am brushing the wisps of the cumulus clouds, so I push the stick forward decisively.
+
+I fly at 170 km/h without losing height, tighten my harness, and enjoy seeing the ground rush past at supersonic speed. I start to realize that the LS7, even without ballast, is an absolute "missile."
+
+The thermal convergence is such that I reach the Los Ángeles de San Rafael reservoir while still climbing, until I come out into open sky and pull the stick to reduce speed to 110 km/h. This climbs me 200-300 m and places me above the condensation level.
+
+I begin a glide towards La Cruz de Hierro, very excited by the previous leg and full of morale to face the stretch to Villatoro.
+
+Over Villacastín, I find myself in front of a true swarm of paragliders of all colors, which seem suspended motionless ahead of my glider's nose. For a few moments, I am dumbfounded by the sheer number I can see at different altitudes. However, I quickly remember that a World Championship is being held in Piedrahita, and I deduce that Villacastín must be a turnpoint. I call Fuentemilanos to warn other gliders. I detour to the north to avoid them and enjoy watching them as I fly past, but it still gives me goosebumps to think what would happen if I hit one. I can imagine the huge canopy draping over my cockpit and the paraglider pilot dragging along with the glider as we both fall: truly terrifying!
+
+I continue towards the Sierra de Ávila, with a thousand eyes searching for the multicolored paraglider canopies to avoid them as soon as possible. Meanwhile, I call Salamanca Tower to request authorization to enter the zone, which is granted immediately.
+
+At the level of Valle Amblés airfield, my good run ends and I begin to struggle to progress; the Ávila Valley starts doing its thing, and I find myself in a prolonged sink area, losing more altitude than I would like. There is only one cumulus cloud halfway to Villatoro, and I go for it, but when I arrive, I search and search, and no lift appears. I continue forward, now in the blue and quite worried, until I manage to catch a 2 m/s thermal that reassures me, and I start turning to regain the lost meters.
+
+Two hang gliders are turning in the same thermal, but much lower; it comforts me to think that they are having a harder time than I am.
+
+With 1,700 m, I jump towards Villatoro, and upon reaching the position to take the photograph, I find a thermal that makes it easy to take two shots while climbing; a real luxury. Now I feel more relaxed and filled with the sensation of having achieved it, but I still have to get back to Fuentemilanos. More hang gliders also join this same thermal lower down.
+
+With 1,900 m, I begin a glide along the Sierra de Ávila, taking advantage of every lift I find under the new cumulus clouds that have appeared. It is 5:30 PM when I reach the northern part of Ávila city, so I call Salamanca to report my departure and say goodbye.
+
+I glide quite fast without losing height, leave Villacastín and Campolara behind, and head straight to Fuentemilanos, where I arrive with 800 m—plenty to take the photo from the east and, after a couple of circuits, land at 6:00 PM on the dot.
+
+Total: 4 hours of flight in a wonderful glider, and my first 300 km.
+
+== 500 km Flight
+
+[verse]
+----
+PILOT: Miguel Cruchaga
+DATE: 7/15/92
+GLIDER: LS4 D-99
+ROUTE: FUENTE-BURGO DE OSMA-MENGAMUÑOZ-RIAZA-FUENTE
+----
+
+The briefing was very early; at that time of year, there are days when convective activity can start in the mountains at 10:30 AM, becoming consistent by 11:00 AM.
+
+The chart shows high ceilings but with few cumulus clouds, and a probability of "blue" conditions all day. This adds two complications to a long flight: first, not "seeing" the thermals topped by beautiful cumulus clouds, and second, which is not negligible, spending all day without shade, roasting in the cockpit. However, I am going to try it, because with ceilings of 3,000 m, there is plenty of room to travel.
+
+I have a light lunch and clean the LS4; there is no need to rush, as that is the worst way to go flying.
+
+At the launch grid, the usual chats: "500? Ah, yes. Very good. Great pilot."
+
+I decide to fly El Burgo de Osma-Mengamuñoz-Riaza. It is a long 540 km, but this breaks the routine of this airfield where everyone flies Ayllón-Villatoro-Plaza as their first 500 km flight.
+
+Camera, barograph, map, tow ticket, and... wait. (The launch order is, and must be, very strict with so many gliders).
+
+.Fuentemilanos, threshold of runway 34 on a typical summer day at launch time
+image::cola-salida-34.png[]
+
+I launch around 1:00 PM, and the tow is already very rough. I release at 450 m and start turning. I climb quite fast and see another glider higher up, so I head straight to the tower to take the first photo, return to "my" thermal, and at 2,200 m, head east.
+
+First usual decision in this area: the mountains or the plain? As a few kilometers ahead I see a familiar glider (further on you will see why I do not give more details) that is also going for its first 500 and heading for Segovia, I opt for the more relaxed plain and shift 1 km off its route to cover the blue gaps more easily.
+
+We progress without rushing, as we sometimes drop below 1,000 m and cumulus clouds are scarce.
+
+[sidebar]
+****
+I keep my distance from the aforementioned glider, and we pass the usual points: La Salceda, Santo Tomé, Ayllón. With San Esteban de Gormaz in sight, and El Burgo further on, I see him shift significantly to the NW and call him by radio, as that seems like an excessive deviation to exploit a thermal:
+
+[verse]
+----
+- "I am going to take the photo," he replies with surprise.
+- "But that's not El Burgo, it's San Esteban," I reply.
+- "No, no, it's El Burgo."
+----
+
+I quickly check the map to be absolutely sure, and insist:
+
+[verse]
+----
+- "The Duero does not run through El Burgo de Osma."
+----
+****
+
+Silence on the radio this time. Meanwhile, I am already taking the photo, and I finally see him about 500 m below me over a small hill. I turn, and at my altitude, it is a +1 to +1.5 m/s climb; for him, it is a "zero." I am returning, and he is not. His "zero" did not hold, and I gained about 500 m, which helped me head towards the Sierra de Ayllón with confidence.
+
+He was scratching around for a long time, with the prospect of an outlanding which he didn't make, but he lost enough time to fail to close the circuit.
+
+I relate all this so minutely because I am of the opinion that no first major flight (first 300 km, first 500 km, etc.) should be attempted without having flown over each turnpoint beforehand on shorter out-and-return flights. That way, the logical nerves of those moments are not compounded by navigation problems.
+
+I arrive just, just at the mountain and literally overfly La Pinilla ski resort, but in summer a slope is a sure inversion and my efforts are rewarded. After a few hesitant "zeros," what was "cooking" below me triggers, and the glider climbs to 3,000 m, and my optimism goes even higher.
+
+I catch the "M-300" (Riaza-Villatoro) and at a good pace, without dropping below 2,000 m, I pass Fuentemilanos, and in front of me, nothing... of clouds. A huge blue hole stretches in all directions. I slow down and observe for a while, seeing several gliders quite low, which confirms once again the saying that when you are high, everything is fine, and when you are low, everything is bad (and not only in gliding does this happen).
+
+I see Ávila about 20 km away, and another dilemma: to the north via the Sierra de Ávila, or to the south via La Paramera? Without any objective reason, I go via La Paramera, which is slightly shorter, and it goes well. I have decided not to waste anything at all that can be turned, and I go to Menga and back without many complications. (At that time, Piedrahíta had not yet become popular as a launching spot for our paraglider friends; now one must be very careful due to traffic density).
+
+A single cumulus cloud in sight (Peñalara, 80 km from Ávila) confirms that things will not be easy for the rest of the day (I have 180 km left). I continue to the La Salceda area, and not much higher than the ridge, I search for any sign that allows me to "refuel" (vultures, swallows, etc.). I reach Santo Tomé without improving my situation and decide to continue to Riaza and take the photo.
+
+The "excursion" costs me my last safety margin, and I am lower than the mountain. I analyze the situation at about 900 m over Santo Tomé. I decide to take a risk (without any physical danger, as I am over a landable zone) and go to the south-southwest side of La Cebollera, which is in full sun. I do a few figure-of-eights along the slope, and indeed, there it was. Not very strong at that hour, but it lifts me, and now completely relaxed at 2,200 m, I leave it and head straight to Fuentemilanos at 110-120 km/h, looking at the scenery and growing with satisfaction at about 3 kg/minute.
+
+.Landing and the subsequent beers are details successfully handled
+image::fuentemilanos-torre.png[]
+
+<<<
+== 798 km Flight: Spanish Record
+
+[verse]
+----
+PILOT: Juan José Gresa
+DATE: 8/2/94
+GLIDER: DG-600 EC-FJC "VA"
+ROUTE: FUENTE-MONREAL DEL CAMPO-LERMA-PIEDRAHÍTA-FUENTE
+----
+
+After last year's 1,000 km flight, which was finally homologated by the FAI as number 239 worldwide, my ambition for this year, 1994, was to achieve a 1,000 km FAI triangle. This requires going down to La Mancha from Fuentemilanos, flying around Madrid.
+
+As training, I was on a good run since my arrival, with excellent cross-country flights: 7/25 = 507 km, 7/26 = 758 km, 7/27 = 752 km, 7/31 = 386 km, and 8/1 = 572 km.
+
+The weather forecast for August 2 was good, with ceilings expected at 2,500 m (all heights are always above Fuentemilanos airfield), strong thermals, and moderate southeast winds. Therefore, I decided to declare an 807 km FAI triangle (the shortest leg of the triangle must not be less than 26% of the total), with the route: Fuentemilanos (Segovia)-Monreal del Campo (Teruel)-Lerma (Burgos)-Piedrahíta (Ávila). Thus, Fuentemilanos lies in the middle of one of the sides of the triangle. If successful, it would be a Spanish Record.
+
+The strong southwest wind did not create ideal conditions for heading out along the ridge towards Somosierra to exploit the terrain's orography in the early hours of the day, when the thermal activity is not yet very strong, and thus launch early.
+
+I headed out through the valley low and slow, reached La Pinilla in the Riaza mountains below the peaks, and continued to Alto Rey, not very high over the mountainous zone. With maximum heights of 1,600 m, I passed Atienza heading towards Medinaceli, and it was well past this town that I climbed in a good +3 m/s thermal up to 2,300 m. From that moment on, the lift was good, and I reached Monreal del Campo between 1,700 and 2,400 m.
+
+I take the required photo at 2,600 m and, following good cloud streets, progress very quickly towards Lerma, my second turnpoint. The Berlanga area is excellent, with great developments that allow me to climb very quickly and make long glides with very little loss of altitude. The average speed already exceeds 100 km/h.
+
+About 30 km from Lerma, the sky changes appearance and deteriorates rapidly. The cloud base drops to 1,100 m, and the average thermal is only 1.0 m/s. I reach Lerma at 600 m, take the photo, and shortly after drop to 400 m, which forces me to dump the water ballast. Now I have a strong headwind and the sky is clear of clouds—always a grim prospect, because when there are no clouds, it is for a reason, and never a good one when you have had them all day and the wind has broken everything up.
+
+The leg to Piedrahíta is a true ordeal, with broken and turbulent thermals due to the wind, and a maximum ceiling of 1,100 m. This forces me to exploit whatever I find, while at the same time, every time I thermal, I drift backward pushed by the wind.
+
+I reach Cuéllar hoping to find good lift in the forests, but everything is still very broken. Passing Cuéllar it gets worse, and I scrape along between 600 and 800 m; the average speed is already very low, and on this leg, it doesn't reach 80 km/h.
+
+Near Sanchidrián, I get very low and start eyeing fields in case I have to land. Fortunately, there are large ones, which reassures me and encourages me to keep going, although the chances of completing the route are minimal. So I decide to head towards Ávila and squeeze out a few more kilometers.
+
+This decision to go for the maximum number of kilometers pays off in gold, because a few kilometers further on, near Ávila, I see a glider very high heading west despite it being very late. I sense that the small, rapidly forming and dissipating wisps of cloud indicate that there is convergence in the area.
+
+I arrive very low at the first rock formations west of Ávila and connect with a sensational lift averaging +3.5 m/s, which carries me like a rocket to 2,300 m. There is still hope of making it.
+
+I follow the line marked by the wisps of cloud, which are hard to see against the sun rapidly sinking on the horizon, and reach Villatoro at 2,200 m. From there to Piedrahíta there is nothing, and in a glide at maximum glide ratio, I arrive and take the photo at 1,600 m at 8:35 PM.
+
+I head back to Villatoro. A rocky area facing west receives the last rays of the setting sun, where I arrive at 1,300 m, which is tight relative to the terrain. I climb in a very weak but constant thermal that strengthens with height and patiently lifts me to 2,000 m. I already have the record in the bag, but I should find some lift near Ávila to maintain the altitude I will need to pass the wind shadow (sink) that will be in the Riofrío reservoir, where I have to take the final glide photo. And so it happens. Arriving at Ávila and in the same spot where I climbed on the way to Piedrahíta, I find a weak lift that climbs me again to 2,000 m. Now I can make it back, though without much height to spare.
+
+At Riofrío, I take the photo at 700 m, which guarantees a stress-free arrival at Fuentemilanos.
+
+The flight was 9 hours 25 minutes total, although real time from the departure photo at Riofrío was 8 hours 50 minutes, which gives an average of 91 km/h—low, but considering the difficulties, it satisfies me completely.
+
+The final homologated distance is less than the 807 km shown by the GPS, measuring 798 km.
+
+The next day I set out to attempt the desired 1,000 km FAI. After turning Ayllón, Contreras reservoir (Valencia), and on the way to Cáceres, I was forced to land in Mora de Toledo after 557 km at a good average speed, due to a storm front.
+
+<<<
+== 1,025 km Flight: Spain's First "1000"
+
+[verse]
+----
+PILOT: Juan José Gresa
+DATE: 8/12/93
+GLIDER: DG-600 EC-FJC "VA"
+ROUTE: FUENTE-MONTEAGUDO-HERVÁS-EMBALSE MONTEAGUDO-FUENTE.
+----
+
+The weather had been very variable, without two consecutive days of similar weather; August 10 and 11 had been 300 km days. August 11, against the forecast, turned out to be an excellent day. Launching at 3:00 PM, I flew 503 km in 3 hours 54 minutes with a 129 km/h average, without dropping below 2,000 m, with a maximum ceiling of 3,200 m and average lift of +6.2 m/s.
+
+In the briefing, a similar day was forecast with ceilings of 3,600 m in the mountains, strong thermals, a risk of isolated thunderstorms in the afternoon, and thermal activity from 11:30 AM to 8:00 PM.
+
+11:28 I take off towed by compatriot Antonio González, who, as usual, takes me straight to the mountains. I set about finding the first thermal, which climbs at +0.5 m/s, later strengthening to +2.0 m/s. Although it only climbs to 1,800 m, at the Navacerrada observatory I manage to climb in a good thermal to 2,200 m. From there, I head to the Riofrío reservoir to take the required departure photo.
+
+12:16 I take the photo at 1,900 m, and start the first leg to Monteagudo (Zaragoza) at 181 km. I head to the Navacerrada observatory to gain altitude, climbing to 2,300 m. From there, following Guadarrama along the southern slopes facing the sun, I lose little height. In the La Salceda area, I climb under a good cloud to 2,600 m and, at high speed (180-200 km/h), reach La Pinilla (74 km) in 29 minutes (153 km/h average), which indicates that the day is good.
+
+In the Sierra de Ayllón, at the start of a cloud street, I climb at +5 m/s to the base at 2,900 m. From there, at a GPS speed of 200-240 km/h, I fly past Berlanga de Duero, where the clouds end and it is completely blue. I reduce speed to best glide heading to Monteagudo at 58 km, with 2,800 m.
+
+13:45 I take the photo of Monteagudo at 1,700 m. The average was very good: 122 km/h for the first leg. I start the second leg towards Hervás (Cáceres), 334 km away. Since I am low, in order to keep moving fast, I head south of Monteagudo close to the highway where there is a cloud street. Although this is not the optimal route, I arrive low at 1,000 m but climb very fast at +4 m/s to the base at 2,900 m.
+
+I continue towards the cloud street I had left north of Atienza and connect with an overdeveloped cloud zone, where I run into light rain, but the southern part lifts well. I continue at high speed, around 200 km/h, following the cloud street to the Navacerrada observatory between 2,000 and 2,500 m. I arrive very quickly south of Ávila and climb to 3,000 m, having "dolphined" lift of up to +3 m/s without thermalling.
+
+Clouds end before Mengamuñoz, 90 km from Hervás. Roland, a German pilot who turned over El Barco de Ávila, reports regular thermals in the area. I climb in the blue west of Mengamuñoz to 2,900 m in a very turbulent but good thermal, and at best glide speed, I head to Hervás.
+
+Hervás is situated right behind a very rugged and unlandable area near the Tornavacas Pass (2,401 m). With 1,700 m, I have a safety margin of 300 m, so I head cautiously over the crest line to avoid falling into the wind shadow. Being very close to Hervás and near the peaks, I conclude that the wind is southeasterly. I follow the ridges on the east side and manage to climb to 1,800 m, heading out to Hervás for the photo.
+
+16:45 I take the photo in Hervás at 1,700 m. The average was good despite it being blue and difficult. The end of the leg took exactly 3 hours, with an average of 111 km/h, and the cumulative remains good: 4 hours 29 minutes and a 115 km/h average.
+
+I head to the last turnpoint, the Monteagudo Reservoir, 329 km away. Due to the height of the mountains, I head towards the lowest and closest part in front of Hervás to avoid the wind shadow, since Hervás lies to the west of the ridge.
+
+I arrive just in time to jump and do ridge soaring to the east. There are very turbulent releases that I cannot center well, so I follow the ridge to save time and arrive near El Barco de Ávila with 1,500 m and climb well to 1,800 m. This altitude guarantees I can reach the south of Villatoro in the mountains, where there is a slope that always produces lift and where I see other gliders climbing.
+
+I arrive low, at 1,400 m, to climb very quickly at +5.4 m/s to 3,000 m. Again, I connect with the cloud street I had left on the way down, and at high speed I reach near San Rafael, but below 1,600 m. The sky has changed and looks very overcast, making it impossible to see the streets. I have to choose specific large clouds with strong sink between them. The bases are dropping, and at the Navacerrada observatory I only climb to 2,500 m. I continue through the southern valley of Guadarrama, with an unpromising sky and some drizzling clouds. I find myself at 1,400 m in the middle of the valley and hesitate whether to proceed.
+
+I am too low to reach Somosierra/Santo Tomé, and it is already 6:15 PM with approximately 340 km remaining. I calculate that with the tailwind I can reach Monteagudo Reservoir at 7:30 PM and Fuentemilanos at 9:00 PM.
+
+I proceed towards the Ayllón mountains between 1,400 and 1,700 m after climbing to 1,800 m. The unlandable mountainous area is impressive at low altitude, but does not present great difficulties.
+
+In the distance, near the Alto Rey ridge, I see a spectacular cloud forming. I arrive low and climb at +5 m/s to 3,000 m. My anxiety to climb after so much time makes me climb too high, right to the base, which prevents me from seeing that I am entering a storm following the wisps.
+
+I do not come out well from this mistake and lose 1,000 m, crossing the rain towards the sun. The sky ahead does not look good. I glide to the Monteagudo Reservoir without touching practically anything, though without strong sink.
+
+19:32 I take the photo of the reservoir at 1,400 m. The average was good despite the difficulties. Thanks to the tailwind I make 118 km/h, and the cumulative remains good at 116 km/h.
+
+I proceed towards home with great caution, although I cannot waste time as it is getting very late. There is a large storm right in the direction of Fuentemilanos, and the sky is completely overcast. So I decide to bypass the storm and head towards the sun in the Almazán area, which represents a significant deviation. As I approach the sun, it becomes very turbulent, and I assume it is the leeward effect of the storm, although I am comforted by the fact that there is instability. Since I cannot climb well in the turbulence, I dump all the water ballast and manage to climb with difficulty to 1,800 m. I proceed and pass very close to Almazán, heading to the north side of the storm. I hit very strong sink, which drops me again to 1,400 m, and I fear an outlanding. I quickly leave the zone by heading further north, and finally find a decent lift that climbs me to 2,200 m.
+
+Now I can make it safely to Santo Tomé, where there is an airfield. Son las 20:05 hours and I warn Fuentemilanos that I am 120 km away with 2,000 m, as my battery is starting to fail. From here to Riaza I find nothing, despite searching under all the clouds, or rather remnants, that I find. I glide across the northern edge of the Sierra de Ayllón and reach La Pinilla with 900 m. The smoke from a small fire in Riaza indicates that there should be a ridge-soaring effect.
+
+Flying very close to the rocks on the slope of La Pinilla, the vario comes alive, and I reach Somosierra at the same height with a net gain of +0.02 m/s, so I decide to continue to Segovia. It is 9:15 PM, and the sun is practically disappearing on the horizon. I continue flying right along the edge of the ridge, though slightly below the crest, without losing height.
+
+Arriving at Arcones, I still have 900 m and pass right at the level of some grazing horses and cows. As the mountain rises towards La Salceda, the vario comes alive and gives me +1.00 m/s, climbing me to 1,000 m. I try to cross the La Salceda projection in the middle, but the altitude is not sufficient, and the visibility against the sunset does not let me see the height of the pines clearly, so I decide to go around the nose.
+
+I get caught in some wind shadow and arrive at the west side of La Salceda (36 km) at 750 m, too tight to start a glide over an unlandable area with limited visibility.
+
+I continue along the ridge at +0.00 m/s, though it later rises to +0.40 m/s and holds until just before La Granja, where at 800 m, I start the final glide with every guarantee of reaching Fuentemilanos.
+
+The lights of Segovia give a beautiful look to the twilight, and I feel an indescribable joy knowing I am going to make it. My excitement is such that, unconsciously, the speed rises to 180 km/h, and I have to restrain myself to arrive with the 300 m safety margin I always set for myself.
+
+The visibility is now very poor, and I struggle to see the GPS clearly, which is guiding me straight to the field. I arrive with 300 m and give myself the pleasure of doing a high-speed fly-by. It is 9:35 PM when I land, where some good friends and colleagues are waiting for me who, over the years, have encouraged and helped me make this dream a reality. Among them, Ingo Renner, from whom I learned so much flying cross-country on several occasions, as well as Pedro Berlinches and Antonio González, who have supported me unconditionally in my endeavor.
+
+Contrary to what I had often thought, after flying 10 hours and 5 minutes, I do not feel tired. The first thing I do is call Verónica, my wife, who has been waiting by the phone at the hotel in case I landed out. Without her help, support, and patience, I would never have achieved this goal.
+
+== Meteorological Profile of a 1,000 km Day
+
+[verse]
+----
+Study by Pedro Berlinches Bravo; 
+Fuentemilanos, 
+April 22, 1996
+----
+
+After a patient compilation and study of the meteorological data corresponding to "explosive" days on which 1,000 km flights were achieved throughout the years 1991, 1992, 1993, and 1995, the resulting profile is as follows:
+
+ACTUAL TEMPERATURE::
+The actual temperature usually ranges during the day between a minimum of 18.7°C and a maximum of 33.5°C.
+
+HUMIDITY::
+Relative humidity usually ranges during the day between a minimum of 32% and a maximum of 57%.
+
+DEW POINT (D.P.)::
+The ideal dew point temperature is about 10.2°C.
+
+SOUNDING CURVE::
+The sounding curve coincides with the dry adiabatic line of 30°C up to 3,900 m QNH. Above this, it usually has a slight temperature inversion.
+
+THUNDERSTORMS::
+According to the study, all days agree on a 20% chance of thunderstorms in the mountains and 0% in the plains.
+
+CLOUD TYPE::
+Clouds are of the cumulus (Cu) type, ranging between 1/8 and 3/8 Cu, with cumulonimbus (Cb) in the mountains.
+
+These Cu clouds usually group over the mountains, forming a line along them, commonly known as a convergence line.
+
+.Forecast weather in Fuentemilanos
+[cols="2,2,2", options="header"]
+|===
+| Weather            | Forecast                | Fuentemilanos
+| MIN. TEMP          | 18.7 °C                 |
+| CURRENT TEMP       | 22.0 °C                 |
+| MAX. TEMP          | 33.5 °C                 |
+| TRIGGER TEMP       | 29.3 °C                 | D.P.: 10.2 °C
+| HUMIDITY %         | 55.8                    |
+| THERMAL QUALITY    | VERY GOOD OR SUPERB     |
+| CLOUDS             | Cu 1/8 to 3/8            | 2300 / 3600 m
+| WIND               | SURFACE                  | WNW 4 Kt.
+|                    | FL 50                   | 030 4 Kt.
+|                    | FL 100                  | 060 8 Kt.
+|                    | FL 150                  | 080 10 Kt.
+| THERMALS           | FROM 11:00              | UNTIL 21:00
+| THUNDERSTORMS %    | MOUNTAINS 20            | PLAINS =
+| REMARKS            | Study based on weather data from 1,000 km flight days in 1991, 1992, 1993, and 1995. |
+|===
+
+== GPS Navigation
+
+[verse]
+----
+GPS = GLOBAL POSITIONING SYSTEM*
+Global Positioning System*
+Source: Internet
+Translation: Fernando Correa
+----
+
+=== What is GPS?
+
+GPS is a satellite-based radio navigation system developed and implemented by the Department of Defense of the United States of America.
+
+GPS enables users on land, sea, and air to determine their three-dimensional position, speed, and time 24 hours a day, in any weather conditions and anywhere in the world, with accuracy substantially improved over any other system currently in existence or in the near future.
+
+GPS consists of three segments: Space, Control, and User.
+
+The Space segment consists of a network of 24 operational satellites positioned in 6 circular orbits at 20,200 km above the Earth, with an inclination of 55º and a period of 12 hours.
+
+The satellites are positioned in orbit such that, at any time, a minimum of 6 of them will be "visible" from anywhere in the world. These satellites continuously transmit position and time data to users in a 20 cm radar band, corresponding to frequencies of 1,227.60 MHz and 1,542.75 MHz. Each satellite incorporates four highly precise atomic clocks. Time pattern precision is essential to minimize errors. Data from three satellites is needed to obtain 2D measurements, and from four satellites for 3D measurements.
+
+The Control segment consists of a Master Control Station in Colorado Springs, with five Monitor Stations and three Ground Antennas located in different parts of the world.
+
+The Monitor Stations track the satellites in view and collect the information they emit, sending it to the Master Control Station, where it is processed to produce updated navigation data for each satellite. This operation is performed twice a day, calculating the position of each satellite and correcting its trajectory if necessary. The updated information is transmitted back to each satellite through the ground antennas.
+
+The User segment consists of the receivers, processors, and antennas that allow users to receive GPS satellite emissions and calculate their position, speed, and time.
+
+=== How Does It Work?
+
+The operation of GPS is based on the satellite network. Users define their position on Earth by measuring the distance to a group of satellites in space.
+
+The satellites function as highly precise reference points, each transmitting its position and time signal. The user's receiver measures the time it takes to receive the signal and calculates the apparent distance between its position and the satellite. Upon receiving measurements from four different satellites, the information can be processed to obtain position, speed, and time.
+
+Some GPS receivers not only show these data but offer additional features related to specific points (Waypoints) or digital maps.
+
+GPS has applications in land, sea, and air navigation, in geophysical observation and exploration, cartography and geodesy, tracking systems, etc.
+
+=== Accuracy, Availability, and Reliability
+
+The satellites have an operational life of 7.5 years, and the network renewal program guarantees a 98% probability of having 21 or more in service at any time.
+
+.Los adelantos técnicos... ayudan a volar...
+image::Los-adelantos-tecnicos-ayudan-a-volar.png[]
+
+Availability is close to 100%, with coverage extending worldwide.
+
+The system offers two levels of accuracy: SPS and PPS.
+
+==== SPS - Standard Positioning Service
+
+For general public use, it covers the entire world and offers a horizontal accuracy between 100 and 300 m, a vertical accuracy of 156 m, and a time accuracy of 340 nanoseconds.
+
+This service is subject to the control of the U.S. Department of Defense based on national security needs.
+
+==== PPS - Precise Positioning Service
+
+This service offers the highest level of accuracy, but the signal is encrypted and only provided for military and authorized civil use.
+
+The accuracy is in the range of 22 m horizontally, 27 m vertically, and about 90 nanoseconds in time measurement.
+
+For additional information:
+
+[verse]
+----
+COMMANDING OFFICER (NIS)
+U.S. Coast Guard NAVCEN
+
+7323 Telegraph Road
+Alexandria, VA 22315-3998
+
+Tel. (703) 313-5900
+Fax. (703) 313-5920.
+----
+
+== Navigation with GPS Assistance
+
+[verse]
+----
+Fernando Lázaro Cadena
+MADRID - FEB. 1996
+----
+
+I am not one of those pilots who aspire to see their instrument panel turned into a massive LCD. I still believe that a good, well-compensated variometer is the only instrument in which it is worth increasing a potential investment. However, on the other hand, I consider it profitable to invest in whatever increases the safety conditions of our flight or contributes to making the act of flying more pleasant.
+
+The use of any GPS system contributes in varying degrees to these last two aspects. Exact knowledge of our position and that of our possible destination, besides deserving to be elevated to a theological virtue for any pilot, is invaluable in a multitude of circumstances (avoiding intrusion into restricted areas, saving time on tight cross-country flights, safer location during outlandings, etc.). On the other hand, the glider pilot flies permanently searching for lift and normally ends up away from the track marked on the chart. Think of how many times we have ended up wandering around after forgetting to take navigation bearings.
+
+This article is therefore directed more towards those pilots whose level of piloting and knowledge drives them, weather conditions permitting, to fly with their eyes set on the next horizon.
+
+The first point to mention is the position of the navigator. I do not like thigh-mounts (kneeboards) or side positions. They encourage keeping your eyes inside the cockpit, and for a glider pilot, getting used to looking away from external references can be fatal. Ideally, it should be panel-mounted, but space or the model does not always allow it. Personally, I usually adapt it onto the panel with some adhesive Velcro strips. Although the compass gets covered, the GPS functions include heading display.
+
+Secondly, one must take into account battery life and the usual duration of our flights. In most cases, flight duration will exceed battery life, so it is recommended to install the power cable to an external battery, which comes as an accessory. I do not consider it necessary to find a specific location for the antenna; it can be left attached to the navigator without problems, unless we panel-mount the latter.
+
+Although various GPS navigator models have passed through my hands, my experience focuses on version 2.50 of the GARMIN 100, whose most notable feature compared to other models is that it allows recording the flight and reconstructing it graphically on a PC, as well as archiving and transferring waypoint and route libraries between both. This is not a negligible aspect if we use it in different areas and do not want to be saving and deleting data from the navigator to safeguard its memory capacity.
+
+I consider it profitable for it to have the capability to work with UTM coordinates, since many of us continue to use military maps in their various scales. The grid on these maps simplifies the always tedious task of calculating coordinates, and furthermore, the coordinates of the most notable points on the sheet appear on the back of the map. Personally, I do not usually work with precisions of less than 100 m, which is sufficient for the type of navigation we do.
+
+With the map of the area in front of us and our minds set on a thousand travel projects, we must consider two options for selecting turnpoints. If we fly with our eyes on the Federation's annual ranking, it is better to select what we might call classic points. The observers who must certify your flights will thank you.
+
+Those who are more restless can make their selection by looking for points that catch their attention for various reasons (historical, romantic, mystical, or family); anything goes. The only limitations to consider are those of the area or those we consider might limit the safety of an outlanding.
+
+Once the data is entered, we can build different routes depending on the mileage and the area we wish to fly; another advantage of the GPS is that it directly shows the total mileage of the selected route. The route we select in position "0" (R.O.) is automatically displayed on the navigation screen.
+
+Of the different parameters that can be chosen as options on the different screens, I have ended up using the following:
+
+* The navigation screen shows me speed (GS), heading to destination (Bearing), current aircraft heading (TK), and distance to destination (RNG).
+* I set the CDI scale to maximum (10 km) and the CDI bar indicating the aircraft's position. Comparing GS with indicated speed gives us an idea of the wind in height. The distance and the difference between both headings show us where our destination is. Finally, if we are navigating with an established route, the position of the CDI can help us get the photo right in the center of the valid sector. Naturally, the measurement system chosen must match the map we use.
+* In the message options, I have gotten used to setting the arrival alert 3 km before the point, although any distance can be valid depending on the field of view allowed by the cockpit canopy.
+* For recording flight data, I use the time interval option at 30 seconds, which allows easy reconstruction of thermalling locations and times afterward.
+
+Using the current waypoint store key (auto store) can be useful for returning to a good lift that we abandoned before heading to the turnpoint.
+
+Now it is only necessary to practice on the ground all the operations we plan to execute with the navigator in flight. It is necessary to be very fluent in its operation and avoid errors that will end up making us dedicate all (or much) attention to the "damn gadget" instead of keeping our eyes where they are really needed.
+
+Furthermore, let no one think that the GPS comes to replace map navigation. On the most important day, Murphy usually appears to ruin the gadget or leave you without batteries. Using the GPS to confirm our assessments on the map is the best way to avoid a tantrum.
+
+=== GPS as Evidence for Cross-Country Flights
+
+[verse]
+----
+Ian Strachan, SAILPLANE & GLIDING, January 1995.
+Excerpt and translation: Fernando Correa
+----
+
+We have seen advertisements on the pages of SAILPLANE & GLIDING with some frequency for the CAMBRIDGE SECURE FLIGHT RECORDER (CSFR), where it has been noted that it will be used experimentally as flight evidence in the World Gliding Championships to be held in New Zealand.
+
+==== What is the CSFR, and how does it differ from standard GPS?
+
+The basic objective of the CSFR is to serve as evidence for gliding flights, replacing classic barographs, cameras, and observers at starts and finishes.
+
+The CSFR is designed as a sealed box installed in the glider behind the pilot's backrest, similar to how barographs are currently installed, but with a data screen similar to the Cambridge S-NAV GPS, which can be installed in the instrument panel and provides navigation data to the pilot. The difference is that its database cannot be modified unless done from a PC connected to it before the flight for data transfer in both directions.
+
+The CSFR consists of a Garmin GPS connected to a data logger, both mounted in the same "black box." This box has connections for the display, the antenna, and for supplementary power from solar cells. There is also a connection for uploading and downloading data via PC, and another for connecting to an electronic barograph that will provide very accurate altitude data, because GPS has a margin of error in determining altitude between 100 and 200 m, which invalidates its use as evidence for altitude flights.
+
+The assembly is equipped with several devices to guarantee data security: microswitches that detect the opening of the box, seals on the PC connector, electronic protections that detect any attempt at external interference, etc.
+
+A signal is recorded if any attempt is made to alter the data, and it can only be removed from the equipment using a special program available only to authorized Cambridge agents.
+
+The database supports up to 250 waypoints, which can be loaded via PC in various formats, including standard ASCII. Data such as time, pilot name, glider registration, recording intervals, pre-declared flights, etc., can also be loaded.
+
+It is possible to set an approach radius to the selected points, so that the screen warns of proximity at two levels: NEAR and ARRIVAL. For example, the NEAR indication can be set at 1 km from the selected point, and ARRIVAL at 100 m from it.
+
+The screen shows the glider's heading in degrees and the heading to the next waypoint, also in degrees. An arrow pointing right or left tells us which way to turn to follow the heading to the next point.
+
+Next, it indicates the distance to our target (in km or NM) and, to its right, as many asterisks as satellites are locked onto our GPS.
+
+The use of the CSFR offers highly accurate digital data that not only assists navigation (which primarily must still be done on the map) but provides the exact altitude at a start, exact coordinates at each turnpoint, along with many other advantages we already know from other GPS navigators.
+
+Flight parameters are recorded, and there is the possibility of downloading them to a PC for subsequent playback and analysis.
+
+The potential application of this device to validate cross-country and competition flights depends on the drafting of regulations for its use and its validation as a means of proof. The upcoming meetings of the IGC (International Gliding Commission) throughout 1996 have this point on their agenda, and specific committees are investigating its possibilities, so we will soon know whether it will be used or not.
+
+.Glider equipment can reach high levels of technology and sophistication
+image::VSM-en-Fuentemilanos.png[]

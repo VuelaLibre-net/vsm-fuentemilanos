@@ -1,0 +1,73 @@
+// Esto es un comentario
+[separator=::]
+= VSM Fuentemilanos
+:author: Coordinated by Fernando Correa
+:coordinator: Fernando Correa
+:designer_and_editor: Tito Klein
+:illustrator: Manuel Martínez
+:supervisor: Miguel Cruchaga
+:contributors: Fernando Lázaro, José Gresa, Pedro Berlinches, Antonio Gonzalez
+:copyright: 1996 Fuentemilanos
+:email: fuentemilanos@fuentemilanos.com
+:revnumber: v0.3.0
+:revdate: 2025-12-24
+:revremark: DRAFT
+:doctype: book
+:appendix-caption: Appendix
+:appendix-refsig: Appendix
+:caution-caption: Caution
+:chapter-signifier: Chapter
+:chapter-refsig: Chapter
+:example-caption: Example
+:figure-caption: Figure
+:important-caption: Important
+:last-update-label: Last update
+:listing-caption: Listing
+:note-caption: Note
+:part-signifier: Part
+:part-refsig: Part
+:section-refsig: Section
+:table-caption: Table
+:tip-caption: Tip
+:toc-title: Table of Contents
+:untitled-label: Untitled
+:version-label: Version
+:warning-caption: Warning
+:leveloffset: +1
+:front-cover-image: image:cover.png[fit=cover]
+:sectnums:
+:sectlinks:
+:toc: macro
+:toclevels: 3
+:description: A guide for novice glider pilots, compiling experiences and advice to overcome the first stages of learning, from "lead wings" to cross-country flights, with the goal of facilitating access to this exciting activity.
+:keywords: Soaring, Gliding, VSM, Fuentemilanos
+:icons: font
+:icon-set: fas
+:pdf-themesdir: {docdir}/../themes
+:pdf-fontsdir: {docdir}/../fonts
+:pdf-theme: basic
+:pdfmark: true
+:imagesdir: ./images
+:xrefstyle: short
+:source-highlighter: pygments
+:pygments-style: vs
+:pygments-linenums-mode: table
+:source-language: javascript
+
+include::creditos.adoc[]
+
+include::introduccion.adoc[]
+
+toc::[]
+
+include::chapter-01-The-dovecote/content.adoc[]
+
+include::chapter-02-Atmosphere/content.adoc[]
+
+include::chapter-03-The-first-kilometers/content.adoc[]
+
+include::chapter-04-Cross-country/content.adoc[]
+
+include::chapter-05-Bibliography/content.adoc[]
+
+include::chapter-zz-back-cover/content.adoc[]

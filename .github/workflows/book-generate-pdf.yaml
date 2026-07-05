@@ -10,8 +10,8 @@ on:
       - main
 
 env:
-  BOOK_SOURCE_DIR: ${{ github.workspace }}/book
-  BOOK_BUILD_DIR: ${{ github.workspace }}/build
+  BOOK_SOURCE_ROOT: ${{ github.workspace }}/book
+  BOOK_BUILD_ROOT: ${{ github.workspace }}/build
 
 jobs:
   build-pdf:
@@ -22,15 +22,23 @@ jobs:
         - ${{ github.workspace }}:/documents
     steps:
       - uses: actions/checkout@v4
-      - name: "asciidoctor-pdf"
+      - name: "asciidoctor-pdf (Spanish)"
         run: |
           asciidoctor-pdf \
-            -a pdf-themesdir=$BOOK_SOURCE_DIR/themes \
+            -a pdf-themesdir=$BOOK_SOURCE_ROOT/themes \
             -a pdf-theme=basic \
-            -a pdf-fontsdir=$BOOK_SOURCE_DIR/fonts \
-            -D $BOOK_BUILD_DIR \
-            $BOOK_SOURCE_DIR/index.adoc
-      - name: "Save generated book PDF as build artifact"
+            -a pdf-fontsdir=$BOOK_SOURCE_ROOT/fonts \
+            -o $BOOK_BUILD_ROOT/vsm-fuentemilanos.pdf \
+            $BOOK_SOURCE_ROOT/es/index.adoc
+      - name: "asciidoctor-pdf (English)"
+        run: |
+          asciidoctor-pdf \
+            -a pdf-themesdir=$BOOK_SOURCE_ROOT/themes \
+            -a pdf-theme=basic \
+            -a pdf-fontsdir=$BOOK_SOURCE_ROOT/fonts \
+            -o $BOOK_BUILD_ROOT/vsm-fuentemilanos_en.pdf \
+            $BOOK_SOURCE_ROOT/en/index.adoc
+      - name: "Save generated books as build artifact"
         uses: actions/upload-artifact@v4
         with:
           name: book

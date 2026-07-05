@@ -1,0 +1,27 @@
+[preface]
+
+= Credits
+
+* Coordination: Fernando Correa
+* Design and edition: Tito Klein (1996) and Camus (2025)
+* Illustrations: Manuel Martínez
+* Supervision: Miguel Cruchaga
+* Contributors:
+     - Fernando Lázaro
+     - José Gresa
+     - Pedro Berlinches
+     - Antonio González
+
+
++
++
++
++
++
++
++
++
++
+
+image::licencia.png[float="right",scaledwidth=20%]
+© 1996 by Fernando Correa, licensed under CC BY-NC-SA 4.0
