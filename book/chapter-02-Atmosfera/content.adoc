@@ -45,7 +45,7 @@ Muerta, y hacia allí me dirigí aumentando un poco la velocidad y sosteniendo
 la palanca con la punta de los dedos como acostumbro a volar, por aquello de
 la sensibilidad.
 
-El golpe fué instantáneo… una térmica que hizo saltar la aguja del vario
+El golpe fue instantáneo… una térmica que hizo saltar la aguja del vario
 arriba del todo, me arrancó la palanca de los dedos y levantó el ala derecha
 hasta los 45°, sin olvidar el golpe de mi cabeza con el plexiglás de la
 cabina y el fuerte desvío de la trayectoria del velero.
@@ -70,7 +70,7 @@ que la humedad se condensa en forma de pequeñas gotitas de agua.
 Cuando el aire ascendente se enfría lo suficiente, llega a su punto de
 rocío, con temperatura lo suficientemente baja que a pesar de haber
 disminuido la presión parcial de vapor, el vapor de agua se condensa en
-forma de pequeñas gotitas invisibles al rededor de los núcleos de
+forma de pequeñas gotitas invisibles alrededor de los núcleos de
 condensación, en un proceso imparable que continúa desarrollándose
 favorablemente con formación de gigantescos cúmulonimbos.
 
@@ -101,7 +101,7 @@ de la importancia que tiene conocer de antemano la posible evolución de la
 meteorología del día.
 
 Los elementos básicos en los que se apoya el meteorólogo para su predicción
-a pié de aeródromo, son las imágenes del Meteosat, y los datos de
+a pie de aeródromo, son las imágenes del Meteosat, y los datos de
 temperatura y humedad de la atmósfera local.
 A esto se puede añadir el informe que proporciona el centro meteorológico de
 Valladolid.
@@ -159,7 +159,7 @@ Cuando una masa de aire se encuentra con otra, se produce una zona de
 transición entre las dos que se denomina frente.
 
 Los frentes pueden ser cálidos, si es una masa cálida que desplaza a otra
-más fría, ó fríos si es una masa fría la que desplaza a otra más caliente.
+más fría, o fríos si es una masa fría la que desplaza a otra más caliente.
 
 == Planta y sección de una borrasca
 
@@ -206,7 +206,7 @@ presión y temperatura, pero sin absorber ni ceder calor.
 
 Una misma masa de aire varía su temperatura al variar la altura a la que se
 encuentre.
-Esta variación de la temperatura no se debe a que reciba ó ceda calor, sino
+Esta variación de la temperatura no se debe a que reciba o ceda calor, sino
 al efecto de la presión atmosférica.
 
 A menor altura más presión y más temperatura.
@@ -216,7 +216,7 @@ Recordemos cómo se calienta el bombín de una bicicleta cuando bombeamos aire
 para inflar los neumáticos; el calor lo produce únicamente el exceso de
 presión que ejercemos sobre el aire contenido en la cámara del bombín.
 
-Estas variaciones de temperatura sin que intervenga una ganancia ó cesión de
+Estas variaciones de temperatura sin que intervenga una ganancia o cesión de
 calor, se denominan procesos adiabáticos.
 
 El gradiente adiabático es una ley termodinámica inmutable que representa
@@ -292,7 +292,7 @@ saturado.
 
 [sidebar]
 ****
-Durante la noche, el terreno recalentado vá desprendiendo el calor acumulado
+Durante la noche, el terreno recalentado va desprendiendo el calor acumulado
 por la insolación diurna, y el aire junto al suelo asciende lentamente
 mientras que otro más fresco baja a ocupar su lugar, produciendo una
 situación de inversión: aire caliente arriba, y aire más frío debajo.
@@ -358,7 +358,7 @@ kilogramo de aire seco.
 .Rayado del barograma
 image::rayado.png[pdfwidth=40%,float=left]
 
-Es la combinación de las líneas arriba mencionadas, y so- bre el que se
+Es la combinación de las líneas arriba mencionadas, y sobre el que se
 representa la CURVA DE ESTADO de la atmósfera para estudiar su interrelación
 con éstas.
 
@@ -459,7 +459,7 @@ El contraste de temperaturas entre la montaña y el llano hace que los
 vientos estén circulando constantemente de forma similar a como circula la
 brisa marina del mar a la tierra y de la tierra al mar.
 Esta circulación junto a los cambios de temperatura entre la noche y el día,
-conforman el factor más importante para que se genera esta situación
+conforman el factor más importante para que se genere esta situación
 meteorológica.
 
 .La linea de convergencia posibilita volar a altas velocidades de crucero siempre en excelente ascensión
@@ -624,11 +624,11 @@ mandando sobre la Península fuertes vientos de Sur, dejando mucha agua en el
 Sur y nieve en los sistemas montañosos.
 
 Todo volovelista sabe que cuando el viento incide sobre una cadena de
-montañas, en una cara se produce ladera y en al otra, onda.
+montañas, en una cara se produce ladera y en la otra, onda.
 Cuando hay viento del Sur, se forma onda de montaña sobre la Sierra de
 Guadarrama con varias ondas.
 La situación del aeródromo de Fuentemilanos es ideal con su separación de la
-montaña y, sobre todo, por su pista de asfalto y por la decongestion de
+montaña y, sobre todo, por su pista de asfalto y por la descongestión de
 tráfico y ausencia de restricciones.
 
 De los años que llevo en Fuentemilanos, este es el año que más onda hemos
@@ -662,7 +662,7 @@ Sondeo Meteorológico
 
 Para ver las condiciones de vuelo en onda, es muy importante tener el sondeo
 meteorológico y reflejarlo sobre le Diagrama de Stüve.
-Un a vez reflejado, sabremos hasta qué altura se puede subir y el tiempo que
+Una vez reflejado, sabremos hasta qué altura se puede subir y el tiempo que
 se puede estar volando, para llevar el oxigeno necesario y la ropa adecuada.
 
 El perfil de la onda del 14 de Enero de 1.996, es uno de los mejores que
@@ -683,7 +683,7 @@ En el barograma se puede comprobar que sólo llegué hasta los 6.000Mts, donde
 había -21° C, y es que con esta temperatura por mucho que te abrigues,
 después de 30 ó 40 minutos no hay quién aguante el frío, a pesar de haberme
 preparado bien con pijama de algodón, pantalones, sudadera, chaqueta plumas,
-dos pares de calcetines de lana y suficiente oxigeno para el vuelo.
+dos pares de calcetines de lana y suficiente oxígeno para el vuelo.
 
 .Tiempo previsto en FUENTEMILANOS - 14/1/96
 [cols="1,1,1"]

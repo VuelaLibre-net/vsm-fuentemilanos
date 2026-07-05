@@ -34,7 +34,7 @@
 :version-label: Versión
 :warning-caption: Advertencia
 :leveloffset: +1
-:front-cover-image: image:front-cover.png[fit=cover]
+:front-cover-image: image:cover.png[fit=cover]
 :sectnums:
 :sectlinks:
 :toc: macro

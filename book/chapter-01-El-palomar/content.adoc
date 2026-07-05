@@ -24,13 +24,13 @@ fuera, porque será un elemento menos a tener en cuenta en las maniobras de
 aproximación, pero una vez nos vayamos encontrando más seguros, es
 importante practicar la extensión y retracción del tren y siempre añadiendo
 el `rueda fuera` a continuación de la comunicación del `viento en cola`.
-Esta es una regla nemotécnica importante que nos salvará de más de un
+Esta es una regla mnemotécnica importante que nos salvará de más de un
 aterrizaje con el tren dentro.
 
 == Alas de plomo
 
 .Alas de plomo
-image::alas-de-plomo.svg[]
+image::alas-de-plomo.png[]
 
 Enseguida nos daremos cuenta que no es tan fácil mantenerse ahí arriba como
 parecía en un principio.
@@ -133,7 +133,7 @@ Mi compañero despega en uno de sus primeros vuelos solo, y tras un buen
 remolque, se suelta sobre Abades en buena térmica y comienza a subir
 inmediatamente.
 
-El viento del _SW_ le imprime un acusada deriva hacia el llano y él,
+El viento del _SW_ le imprime una acusada deriva hacia el llano y él,
 entretenido en centrar la térmica, no se da realmente cuenta de lo que
 sucede.
 En un momento determinado, la térmica se fragmenta, la pierde y comienza a
@@ -335,7 +335,7 @@ siguientes:
   nadie.
 
 .El espacio aéreo: Virando a térmica en grupo
-image::espacio-aereo.svg[]
+image::espacio-aereo.png[]
 
 == Volando en ladera
 
@@ -502,7 +502,7 @@ temor a quedarnos muy cortos o muy largos.
 image::liebre.png[]
 
 .Vuela alto Antonio !!
-image::new-york.png[it=none,pdfwidth=80%]
+image::new-york.png[fit=none,pdfwidth=80%]
 
 .Julio 1 992
 [sidebar]

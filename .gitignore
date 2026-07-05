@@ -5,3 +5,4 @@ book/*.html
 book/*.pdfmark
 build/
 .DS_Store
+AGENTS.md

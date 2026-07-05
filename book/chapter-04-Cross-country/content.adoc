@@ -428,7 +428,7 @@ hacer Ayllón-Villatoro-Plaza como primer vuelo de 500 kms.
 
 Cámara, barógrafo, mapa, ticket de remolque, y...
 a esperar.
-(El orden de salida es, -debe serlomuy riguroso con tantos veleros).
+(El orden de salida es, -debe serlo-, muy riguroso con tantos veleros).
 
 .Fuentemilanos, cabecera 34 en un típico día de verano a la hora de la salida
 image::cola-salida-34.png[]
@@ -1249,12 +1249,12 @@ Los parámetros del vuelo quedan grabados y existe la posibilidad de
 volcarlos a un PC para su posterior reproducción y tratamiento.
 
 La posible aplicación de este dispositivo para validar vuelos de distancia y
-competición, depende la la elaboración de una normativa para su uso y de su
+competición, depende de la elaboración de una normativa para su uso y de su
 validación como medio de demostración.
 Las próximas reuniones de IGC (Comisión Internacional de Vuelo a Vela) a lo
 largo de 1.996, llevan en su agenda este punto y existen comisiones
 específicas que están investigando sus posibilidades, por lo que pronto
-sabremos si será usado o nó.
+sabremos si será usado o no.
 
 .El equipamiento de los veleros puede alcanzar altas cotas de tecnología y sofisticación
 image::VSM-en-Fuentemilanos.png[]

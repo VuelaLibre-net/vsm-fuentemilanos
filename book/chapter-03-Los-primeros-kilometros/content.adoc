@@ -89,7 +89,7 @@ máximo planeo del velero.
 .Cuadro de distancias de planeo
 image::tabla-distancias-planeo.png[pdfwidth=90%]
 
-== PLANIFICACIÓN DE UN V
+== PLANIFICACIÓN DE UN VUELO
 
 .Cuadro de distancias de planeo para Astir CS. Coeficiente teórico 1:37 pero estimado en 1:30. A velocidad de máximo planeo 85 Km/h. Con viento en calma.
 image::tabla-distancias-planeo-astir-cs.png[pdfwidth=90%]
@@ -931,7 +931,7 @@ La comisión Internacional de Vuelo a Vela establece las siguientes:
 *   Vuelo de Distancia de más de 500 Kms.
 *   Vuelo Triangular F.A.I.
   de más de 300 Kms.
-*   Ganancia de Altura de mas de 5.000 mts.
+*   Ganancia de Altura de más de 5.000 mts.
 
 .Nimbus 3D
 image::nimbus-3d.png[]
