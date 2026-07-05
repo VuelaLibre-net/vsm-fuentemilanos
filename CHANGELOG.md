@@ -1,3 +1,14 @@
+## 1.4.0 (2026-07-05)
+
+### Feat
+
+- **book**: add English translation and support multi-language builds
+
+### Fix
+
+- **ci**: upgrade actions/checkout and actions/upload-artifact from v3 to v4
+- correct typos, formatting errors, and image references across book chapters
+
 ## 0.4.0 (2025-01-03)
 
 ### Feat
