@@ -29,7 +29,7 @@ This is an important mnemonic rule that will save us from more than one gear-up 
 == Lead Wings
 
 .Lead wings
-image::alas-de-plomo.png[]
+image::cap-01-fig-02-alas-de-plomo.png[]
 
 We will quickly realize that it is not as easy to stay up there as it seemed at first.
 Suddenly, we find ourselves fully immersed in the frustrating stage of "lead wings."
@@ -113,7 +113,7 @@ We must always monitor our flying speed to avoid stalling, but most especially i
 *   While ridge soaring, due to the proximity of the terrain and the possibility of strong turbulence.
 
 .The stall: INSTRUCTORRRRR INSTRUCTORRRRRR!
-image::perdida.png[]
+image::cap-01-fig-03-perdida.png[]
 
 == The Traffic Pattern
 
@@ -126,7 +126,7 @@ We will adhere strictly to the airfield's traffic rules, especially the area ass
 When entering "downwind", it is important to do so at the specified altitude. If each glider enters at a different altitude, and several happen to be in the pattern at the same time, dangerous overtaking and interference can occur, leading to total confusion during the landing.
 
 .Fuentemilanos runway and facilities seen from the final leg for runway 34
-image::trafico.png[]
+image::cap-01-fig-04-trafico.png[]
 
 While on the "downwind" leg, it is good practice to check the condition of the runway and make sure there are no obstacles, either at the threshold or in the middle of the runway. This will help us avoid surprises when we are on the "final" leg.
 
@@ -191,7 +191,7 @@ We will move closer to the core of maximum lift through a combination of adjustm
 *   Briefly straighten the heading toward the area where, during the previous turn, the highest rate of climb was detected.
 
 .Thermalling: Bare rock slopes are excellent thermal generators. Here we are turning over the Mujer Muerta
-image::termica.png[fit=none,pdfwidth=75%]
+image::cap-01-fig-05-termica.png[fit=none,pdfwidth=75%]
 
 [sidebar]
 On my first flight with a high-level instructor and a high-performance glider, the first surprise was that the centering technique the instructor used was exactly the same one I used, even as a novice: briefly straightening toward where I "felt" the core of the thermal was.
@@ -225,7 +225,7 @@ Basically, the rules to follow when thermalling in a group are as follows:
 *   Normally, exit through the core of the thermal, as long as it does not disrupt anyone else.
 
 .Airspace: Group thermalling
-image::espacio-aereo.png[]
+image::cap-01-fig-06-espacio-aereo.png[]
 
 == Ridge Soaring
 
@@ -241,10 +241,10 @@ When flying on the ridge, we must bear in mind the close proximity of the mounta
 *   If you are behind a very slow glider, overtake on the valley side.
 
 .Ridge soaring: La Mujer Muerta
-image::ladera.png[]
+image::cap-01-fig-07-ladera.png[]
 
 .<- Ridge-soaring slope | the slope of... "no return" ->
-image::barlovento-sotavento.png[]
+image::cap-01-fig-08-barlovento-sotavento.png[]
 
 [sidebar]
 ****
@@ -287,7 +287,7 @@ At this stage we will focus on the following tasks:
 *   Doing endurance training flights. Start with 1-hour flights and progressively increase the duration to 3-4 hours before attempting the badge flight.
 
 .Map of the Dovecote
-image::mapa-palomar.png[]
+image::cap-01-fig-09-mapa-palomar.png[]
 
 [sidebar]
 ****
@@ -328,10 +328,10 @@ This technique is very beneficial for visiting turn points that are not yet know
 It also serves to build awareness of the glider's capabilities, helping us to better calculate and evaluate the glide path without fear of landing far too short or too long.
 
 .The hare
-image::liebre.png[]
+image::cap-01-fig-10-liebre.png[]
 
 .Fly high, Antonio!!
-image::new-york.png[fit=none,pdfwidth=80%]
+image::cap-01-fig-11-new-york.png[fit=none,pdfwidth=80%]
 
 .July 1992
 [sidebar]

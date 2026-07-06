@@ -8,7 +8,7 @@ endif::[]
 == Cross-Country
 
 .Fuentemilanos: Takeoff grid on a promising day for cross-country flights
-image::cola-salida.png[]
+image::cap-04-fig-43-cola-salida.png[]
 
 Cross-country or distance flying is the true "essence" of gliding, and we could say it follows this law: no two days are alike, and no distance is easy.
 
@@ -45,7 +45,7 @@ First Leg:: Once the departure photo is taken, we will head out to cover the fir
 Once we reach La Salceda, we will have a beautiful stretch before us, but one that is intimidating due to the near absence of landable fields and the rocks in the Arcones area. Therefore, let's take safety measures and not risk "making the leap" to Santo Tomé unless we have at least 1,500 m and reasonably favorable conditions.
 
 .The mountains offer excellent support for cross-country flights
-image::montana.png[]
+image::cap-04-fig-44-montana.png[]
 
 Let's make our way towards Santo Tomé, under cumulus clouds and maintaining best glide speed, accelerating in sink and exploiting every quality lift we find. It is advisable not to drop below 1,000 m unnecessarily.
 
@@ -76,7 +76,7 @@ Once the photo of Villatoro is taken, we will head back along the same path if i
 Let us report to Salamanca that we are leaving their area, and fly towards home following the cumulus clouds. With barely 1,000 m and normal conditions, we can arrive in a glide to take the final photo of Fuentemilanos from the E before landing.
 
 .Nimbus 3D: The famous "Y4"
-image::nimbus-y4.png[]
+image::cap-04-fig-45-nimbus-y4.png[]
 
 .Flights originating and ending in Fuentemilanos
 [cols=">1,3,3,3,>1,>1,>1,>1,>1", options="header",stripes=even]
@@ -250,7 +250,7 @@ I decide to fly El Burgo de Osma-Mengamuñoz-Riaza. It is a long 540 km, but thi
 Camera, barograph, map, tow ticket, and... wait. (The launch order is, and must be, very strict with so many gliders).
 
 .Fuentemilanos, threshold of runway 34 on a typical summer day at launch time
-image::cola-salida-34.png[]
+image::cap-04-fig-46-cola-salida-34.png[]
 
 I launch around 1:00 PM, and the tow is already very rough. I release at 450 m and start turning. I climb quite fast and see another glider higher up, so I head straight to the tower to take the first photo, return to "my" thermal, and at 2,200 m, head east.
 
@@ -294,7 +294,7 @@ A single cumulus cloud in sight (Peñalara, 80 km from Ávila) confirms that thi
 The "excursion" costs me my last safety margin, and I am lower than the mountain. I analyze the situation at about 900 m over Santo Tomé. I decide to take a risk (without any physical danger, as I am over a landable zone) and go to the south-southwest side of La Cebollera, which is in full sun. I do a few figure-of-eights along the slope, and indeed, there it was. Not very strong at that hour, but it lifts me, and now completely relaxed at 2,200 m, I leave it and head straight to Fuentemilanos at 110-120 km/h, looking at the scenery and growing with satisfaction at about 3 kg/minute.
 
 .Landing and the subsequent beers are details successfully handled
-image::fuentemilanos-torre.png[]
+image::cap-04-fig-47-fuentemilanos-torre.png[]
 
 <<<
 == 798 km Flight: Spanish Record
@@ -502,7 +502,7 @@ GPS has applications in land, sea, and air navigation, in geophysical observatio
 The satellites have an operational life of 7.5 years, and the network renewal program guarantees a 98% probability of having 21 or more in service at any time.
 
 .Los adelantos técnicos... ayudan a volar...
-image::Los-adelantos-tecnicos-ayudan-a-volar.png[]
+image::cap-04-fig-48-Los-adelantos-tecnicos-ayudan-a-volar.png[]
 
 Availability is close to 100%, with coverage extending worldwide.
 
@@ -612,4 +612,4 @@ Flight parameters are recorded, and there is the possibility of downloading them
 The potential application of this device to validate cross-country and competition flights depends on the drafting of regulations for its use and its validation as a means of proof. The upcoming meetings of the IGC (International Gliding Commission) throughout 1996 have this point on their agenda, and specific committees are investigating its possibilities, so we will soon know whether it will be used or not.
 
 .Glider equipment can reach high levels of technology and sophistication
-image::VSM-en-Fuentemilanos.png[]
+image::cap-04-fig-49-VSM-en-Fuentemilanos.png[]

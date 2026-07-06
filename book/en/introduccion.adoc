@@ -23,7 +23,7 @@ This "edition" has been reformatted and adapted to a digital style but `based on
 
 .The original book
 [.text-center]
-image::cover-original.jpg[pdfwidth=20%,float=left]
+image::cap-00-fig-01-cover-original.jpg[pdfwidth=20%,float=left]
 
 With the help of some AI, I have done my best to maintain fidelity to the original material, but some details may have been affected. In particular, illustrations or photographs with very low contrast. I have tried to fix some of them with mixed results. In the originals, the photos had no contrast—either almost all white or almost all black—and some were completely illegible.
 Thank you for your understanding and, above all, a thousand thanks to the original authors of this book, who did an exceptional job.

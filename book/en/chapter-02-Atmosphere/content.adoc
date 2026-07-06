@@ -8,7 +8,7 @@ endif::[]
 == Convection
 
 .Cumulonimbus reach very significant developments, being able to reach heights of up to 20,000 m.
-image::cumulonimbo.png[]
+image::cap-02-fig-12-cumulonimbo.png[]
 
 The mechanism of convection is based on an air mass becoming lighter than the surrounding air and starting to rise.
 
@@ -45,14 +45,14 @@ Condensation nuclei are small suspended particles on which humidity condenses in
 When the rising air cools sufficiently, it reaches its dew point, with a temperature low enough that despite the decrease in the partial pressure of vapor, the water vapor condenses into tiny, invisible droplets around the condensation nuclei in an unstoppable process that continues to develop, leading to the formation of gigantic cumulonimbus clouds.
 
 .Diagram of cloud evolution and thermal types
-image::evolucion.png[Diagram of cloud evolution and thermal types]
+image::cap-02-fig-13-evolucion.png[Diagram of cloud evolution and thermal types]
 
 == Weather Forecasting at the Airfield
 
 Good meteorological information is essential for planning cross-country flights.
 
 .Good meteorological information is essential for planning cross-country flights
-image::meteo.png[Good meteorological information is essential for planning cross-country flights,pdfwidth=80%]
+image::cap-02-fig-14-meteo.png[Good meteorological information is essential for planning cross-country flights,pdfwidth=80%]
 
 Every summer morning, around 7:00 AM, the first sign of activity at the airfield can be heard: the running engine of the motor glider tasked with collecting data on air temperature and humidity in our area.
 
@@ -86,7 +86,7 @@ Anticyclones `(H)` correspond to high-pressure systems. They have an elliptical 
 The air rotates around them clockwise (Northern Hemisphere), the isobars are far apart, and their presence is associated with "good weather."
 
 .Evolution of a depression through the stages of Birth, Maturity, and Final
-image::borrasca.png[]
+image::cap-02-fig-15-borrasca.png[]
 
 Depressions `(L)` are low-pressure systems, with a more circular and smaller shape and closer isobars.
 
@@ -101,7 +101,7 @@ Fronts can be warm, if a warm mass displaces a colder one, or cold, if a cold ma
 == Plan View and Cross-Section of a Depression
 
 .Plan view and cross-section of a depression
-image::planta-seccion-borrasca.png[Plan view and cross-section of a depression,pdfwidth=80%]
+image::cap-02-fig-16-planta-seccion-borrasca.png[Plan view and cross-section of a depression,pdfwidth=80%]
 
 If we look at the Meteosat images, we can clearly see how depressions rotate counter-clockwise and move rapidly along a more or less predictable path, unless they encounter an anticyclone that blocks and diverts them.
 The rotation speed we observe indicates the wind speed, and the cloud masses moving with it are the fronts we have already mentioned.
@@ -182,14 +182,14 @@ It is the inversion that stops it, and a couple of hours of solar radiation will
 ****
 
 .Once the inversion is broken, the formation of cumulus clouds progresses throughout the day and dissipates at sunset
-image::cumulos.png[]
+image::cap-02-fig-17-cumulos.png[]
 
 ==== Dry Adiabatic Lines
 
 They represent the cooling lapse rate of a DRY air mass with changes in altitude.
 
 .Dry adiabatic line
-image::adiabatica-seca.png[pdfwidth=40%,float=left]
+image::cap-02-fig-18-adiabatica-seca.png[pdfwidth=40%,float=left]
 
 Cooling occurs at a rate of 1°C per 100 m of altitude.
 
@@ -200,7 +200,7 @@ A dry air mass starting at A at 20°C will "lose" 15°C as it rises 1,500 m to B
 They represent the cooling lapse rate of a MOIST air mass with changes in altitude.
 
 .Moist adiabatic line
-image::adiabatica-humeda.png[pdfwidth=40%,float=left]
+image::cap-02-fig-19-adiabatica-humeda.png[pdfwidth=40%,float=left]
 
 Cooling occurs at a rate of 0.5°C per 100 m of altitude.
 
@@ -211,7 +211,7 @@ The cooling rate is lower due to the buffering effect of the water vapor it cont
 ==== Saturation Lines
 
 .Saturation lines
-image::saturacion.png[pdfwidth=40%,float=left]
+image::cap-02-fig-20-saturacion.png[pdfwidth=40%,float=left]
 
 They represent the cooling rate of an air mass as altitude changes while maintaining a constant ratio of HUMIDITY BY VOLUME OF DRY AIR.
 
@@ -220,12 +220,12 @@ Each saturation line represents a specific vapor content in grams per kilogram o
 ==== Thermodynamic Grid
 
 .Thermodynamic grid
-image::rayado.png[pdfwidth=40%,float=left]
+image::cap-02-fig-21-rayado.png[pdfwidth=40%,float=left]
 
 It is the combination of the lines mentioned above, on which the SOUNDING CURVE of the atmosphere is plotted to study its interaction with them.
 
 .Stüve thermodynamic diagram
-image::diagrama.png[]
+image::cap-02-fig-22-diagrama.png[]
 
 === Analysis of the Diagram
 
@@ -270,7 +270,7 @@ The convergence over the Sierra de Guadarrama is becoming well-known among Europ
 When these conditions exist, a long line of cumulus (Cu) clouds can be observed along the mountains over the Sierra de Gredos, Guadarrama, and Alto Rey.
 
 .Surface map
-image::mapa-superficie-convergencia.png[pdfwidth=80%]
+image::cap-02-fig-23-mapa-superficie-convergencia.png[pdfwidth=80%]
 
 I will start by explaining the triggers of the convergence that produces this line of cumulus clouds along the mountains, although it is not always the case, as it can also form over the plains.
 
@@ -279,7 +279,7 @@ For these conditions to occur, several factors must come together, such as topog
 The topography in Castilla y León features large plains surrounded by mountains: Picos de Europa, Picos de Urbión, and the ranges of Cebollera, Guadarrama, Gata, and Peña de Francia. The temperature contrast between the mountains and the plains keeps the winds constantly circulating, similar to how sea breezes blow from sea to land and land to sea. This circulation, combined with temperature changes between night and day, is the most important factor in generating this meteorological situation.
 
 .The convergence line allows flying at high cruising speeds, always in excellent lift
-image::linea-convergencia.png[]
+image::cap-02-fig-24-linea-convergencia.png[]
 
 Analyzing the meteorology, it can be seen that this situation typically occurs under conditions of relative low pressure over North Africa and relative high pressure over the Azores, which is a classic spring and summer pattern.
 
@@ -302,7 +302,7 @@ When all three zones coincide—Central System, Iberian System, and Montes de To
 Waves are laminar air currents that develop a wave-like motion when they encounter a suitable obstacle, which acts as a trigger, and due to special atmospheric conditions that favor and maintain this oscillation.
 
 .Temperature, wind, and lift profiles in wave
-image::perfiles-onda.png[pdfwidth=60%]
+image::cap-02-fig-25-perfiles-onda.png[pdfwidth=60%]
 
 Terrain conditions:: The obstacle triggering the wave motion must be a mountain meeting the following characteristics:
 
@@ -322,7 +322,7 @@ It is essential that the wind reaches at least 15 knots at the mountain top, mai
 Flying in mountain wave:: Wave can occur in low hills as well as in high mountain systems. Each site produces its own wave "model," which tends to recur with great accuracy.
 
 .Lift values in wave can far exceed instrument limits
-image::panel-instrumentos.png[pdfwidth=40%,float=left]
+image::cap-02-fig-26-panel-instrumentos.png[pdfwidth=40%,float=left]
 
 The rising phase of the wave offers us the opportunity to fly in a laminar layer presenting a constant and very strong rate of climb, which can lift us to considerable altitudes. However, flying in wave requires a meticulous learning process and special precautions due to the difficulties and dangers involved.
 
@@ -333,10 +333,10 @@ These rotors are normally marked by their corresponding rotor clouds, and in the
 The rotor zone must be crossed with a headwind, passing through brutal turbulence that can reach 10 m/s in both lift and sink.
 
 .Mountain wave: Lift diagram
-image::plano-ascendencia.png[]
+image::cap-02-fig-27-plano-ascendencia.png[]
 
 .Sea of clouds over Cotos in wave flight (photo Iñaqui, Dec 2024).
-image::mar_nubes_madrid.jpg[]
+image::cap-02-fig-28-mar_nubes_madrid.jpg[]
 
 Once through the rotor zone and climbing, it is important to monitor altitude to start using oxygen from 4,000/4,500 m AGL upward, as it is possible to reach altitudes of 6,000 to 8,000 m.
 
@@ -370,7 +370,7 @@ The first day we flew was November 25, 1995, and until January 14, 1996, which w
 The ideal conditions for mountain wave to form over the Sierra de Guadarrama are very similar to the conditions we had in December and January.
 
 .Mountain wave in the Sierra de Guadarrama. Surface map, January 1996
-image::mapa-superficie-ene96.svg[pdfwidth=50%]
+image::cap-02-fig-29-mapa-superficie-ene96.svg[pdfwidth=50%]
 
 As can be seen on the surface map, the low-pressure system must position itself over the coast of Portugal, moving slowly towards the Gulf of Cádiz, with a strong wind gradient very similar to a "cold drop" (Gota Fría). Also, high pressure over central Europe blocks the low-pressure system off the Portuguese coast, preventing it from moving north or east, keeping it in position for several days or even weeks, maintaining its position.
 
@@ -381,7 +381,7 @@ To understand wave flying conditions, it is very important to have the meteorolo
 The wave profile of January 14, 1996, is one of the best I know for mountain wave flying conditions.
 
 .Wave profile
-image::perfil-onda.png[]
+image::cap-02-fig-30-perfil-onda.png[]
 
 As can be seen in the diagram, the wind speed increases with altitude from 20 knots at the surface to 60 knots at 10,000 m. From there it decreases, and by 11,000 m it is 54 knots.
 
@@ -433,4 +433,4 @@ What I want to make very clear is that to fly in wave, besides being used to aer
 |===
 
 .Rotor cloud corresponding to the mountain wave on 1/14/95
-image::nube-rotor.png[]
+image::cap-02-fig-31-nube-rotor.png[]

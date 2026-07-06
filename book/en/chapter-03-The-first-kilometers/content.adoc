@@ -6,14 +6,14 @@ endif::[]
 = THE FIRST KILOMETERS
 
 .Cross-country flight is the best incentive in soaring. The challenge of flying kilometers is the essence of progress in piloting and an inexhaustible source of satisfaction
-image::haciendo-kilometros.png[]
+image::cap-03-fig-32-haciendo-kilometros.png[]
 
 The time has come to leave the vicinity of the airfield and start traveling. To do this, we need to know our glider and its capabilities sufficiently, know how to navigate effectively, be able to communicate properly by radio, be very clear about what to do in case of an outlanding, acceptably master the technique of photographing turnpoints, etc.
 
 We only have to choose the route, plan the flight properly, and venture into a new world unknown to us until now.
 
 .Glider polar curve graph
-image::polar-velero.png[]
+image::cap-03-fig-33-polar-velero.png[]
 
 == Glider Polar Curve
 
@@ -49,12 +49,12 @@ The box in the figure tells us that we need 750 m of altitude for a glide of 30 
 Remember that a glider's glide ratio is calculated under ISA atmospheric conditions, in calm air, and at the glider's best glide speed.
 
 .Glide distances chart
-image::tabla-distancias-planeo.png[pdfwidth=90%]
+image::cap-03-fig-34-tabla-distancias-planeo.png[pdfwidth=90%]
 
 == FLIGHT PLANNING
 
 .Glide distances chart for the Astir CS. Theoretical ratio 1:37 but estimated at 1:30. At best glide speed of 85 Km/h. In calm wind.
-image::tabla-distancias-planeo-astir-cs.png[pdfwidth=90%]
+image::cap-03-fig-35-tabla-distancias-planeo-astir-cs.png[pdfwidth=90%]
 
 == Gliding in Fuentemilanos
 
@@ -267,7 +267,7 @@ VA:
 From here, we follow the normal procedure.
 
 .Following radio communication procedures to the letter is highly important, especially during the approach phase
-image::final-34.png[]
+image::cap-03-fig-36-final-34.png[]
 
 == Outlandings
 
@@ -312,7 +312,7 @@ With the motor glider, the terrain can be scouted at low altitude, and in a sing
 To practice, we will target a reference on our airfield's runway—numbers, lines, side markings, etc.—and try to control the glider right after touchdown, deploying full airbrakes and carefully applying the wheel brake to minimize the landing roll.
 
 .Schleicher ASH-25, one of the most modern and high-performance gliders
-image::schleicher-ash-25.png[]
+image::cap-03-fig-37-schleicher-ash-25.png[]
 
 Once practiced on the asphalt runway, it is useful to practice it on the grass/dirt runway, which will give a sensation closer to landing in a crop field.
 
@@ -363,7 +363,7 @@ I am in luck, so I confirm my position and my intentions to land, and he transmi
 I return to my task, and now at 400 m and finding no lift, I try to locate a suitable field for landing.
 
 .KEEPING... THE CONCEPTS CLEAR!
-image::toma-fuera-campo.svg[]
+image::cap-03-fig-38-conceptos-claros.png[]
 
 I have two options aligned with the north and free of power lines, trees, animals, and obstacles:
 
@@ -403,7 +403,7 @@ Now we only have to disassemble the glider, load it into the trailer, and head h
 == Photographing Turnpoints
 
 .Photographic sector angle
-image::fotografiar-punto-viraje.png[]
+image::cap-03-fig-39-fotografiar-punto-viraje.png[]
 
 When planning the flight, it is necessary to check the photographic angular sector of the chosen turnpoints, so we can take the photos within its limits. Special care must be taken in this maneuver, as a doubtful photo or one clearly outside the sector can invalidate our flight despite having been there.
 
@@ -522,7 +522,7 @@ Let's observe where the gliders that take off before us are turning, and try to 
 Departure:: Aero-tow to no less than 700 m, releasing in the zone west of the airfield, which is where we must take the departure photo. From the very beginning, try to gain altitude and do not obsess over the photograph until you are above 1,000 m...
 
 .Fuentemilanos tower, departure photo from the western zone
-image::foto-salida-fuentemilanos.png[]
+image::cap-03-fig-40-foto-salida-fuentemilanos.png[]
 
 From that position and with a simple bank, we will take the photo of the airfield tower and then try to climb to cloud base before starting the first leg.
 
@@ -554,7 +554,7 @@ The International Gliding Commission establishes the following:
 *   Altitude gain of more than 5,000 m.
 
 .Nimbus 3D
-image::nimbus-3d.png[]
+image::cap-03-fig-41-nimbus-3d.png[]
 
 .The duration flight
-image::permanencia.png[]
+image::cap-03-fig-42-permanencia.png[]
