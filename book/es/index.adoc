@@ -1,6 +1,6 @@
 // Esto es un comentario
 [separator=::]
-= VSM Fuentemilanos
+= VsM Fuentemilanos
 :author: Coordinado por Fernando Correa
 :coordinator: Fernando Correa
 :designer_and_editor: Tito Klein
@@ -39,8 +39,8 @@
 :sectlinks:
 :toc: macro
 :toclevels: 3
-:description: Una guía para pilotos noveles de Vuelo Sin Motor (VSM), que recopila experiencias y consejos para superar las primeras etapas del aprendizaje, desde las "alas de plomo" hasta la realización de vuelos de distancia, con el objetivo de facilitar el acceso a esta apasionante actividad.
-:keywords: Vuelo Sin Motor, VSM, Fuentemilanos
+:description: Una guía para pilotos noveles de Vuelo sin Motor (VsM), que recopila experiencias y consejos para superar las primeras etapas del aprendizaje, desde las "alas de plomo" hasta la realización de vuelos de distancia, con el objetivo de facilitar el acceso a esta apasionante actividad.
+:keywords: Vuelo sin Motor, VsM, Fuentemilanos
 :icons: font
 :icon-set: fas
 :pdf-themesdir: {docdir}/../themes

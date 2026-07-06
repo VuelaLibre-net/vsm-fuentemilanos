@@ -2,13 +2,13 @@
 
 = Introducción
 
-La idea de producir un documento que resumiera a modo de guía los pasos por los que ha de pasar todo piloto novel de VSM, surgió una tarde en la que un grupo comentábamos, bajo la arboleda del bar de Fuentemilanos, los avatares del día y la necesidad que muchos de nosotros experimentamos de disponer de más información sobre las distintas etapas que componen este período de aprendizaje, ciertamente intenso y emocionante.
+La idea de producir un documento que resumiera a modo de guía los pasos por los que ha de pasar todo piloto novel de VsM (Vuelo sin Motor), surgió una tarde en la que un grupo comentábamos, bajo la arboleda del bar de Fuentemilanos, los avatares del día y la necesidad que muchos de nosotros experimentamos de disponer de más información sobre las distintas etapas que componen este período de aprendizaje, ciertamente intenso y emocionante.
 
-Todos coincidimos en que los pilotos una vez "sueltos", han de enfrentarse en solitario con el VSM, y mirar con sensación de extrema lejanía a los pilotos más experimentados que vuelan tareas de 500, 700 ó 1.000 km, y que nos parecen inalcanzables, sobre todo cuando estamos en la etapa de "alas de plomo" y no somos capaces de mantenernos en el aire más de 20 ó 30 minutos después de soltarnos de la remolcadora.
+Todos coincidimos en que los pilotos una vez "sueltos", han de enfrentarse en solitario con el VsM, y mirar con sensación de extrema lejanía a los pilotos más experimentados que vuelan tareas de 500, 700 ó 1.000 km, y que nos parecen inalcanzables, sobre todo cuando estamos en la etapa de "alas de plomo" y no somos capaces de mantenernos en el aire más de 20 ó 30 minutos después de soltarnos de la remolcadora.
 
-En este trabajo realizado sin ánimo de lucro no cabe la presunción, puesto que la experiencia de unas pocas horas de vuelo no llegan ni para hacer recomendaciones a los compañeros de vuelo, pero sí que facultan para enumerar todas y cada una de las cuestiones y conceptos más significativos de esta etapa que todos pasamos para progresar en el VSM.
+En este trabajo realizado sin ánimo de lucro no cabe la presunción, puesto que la experiencia de unas pocas horas de vuelo no llegan ni para hacer recomendaciones a los compañeros de vuelo, pero sí que facultan para enumerar todas y cada una de las cuestiones y conceptos más significativos de esta etapa que todos pasamos para progresar en el VsM.
 
-Compartimos el gran privilegio de poder disfrutar de esa experiencia entre místico y deportiva que es el VSM, y debemos sentirnos felices de dar a conocer las experiencias que tenemos, aunque sean bien pocas y modestas, y de facilitar a cualquiera el acceso a esta maravillosa actividad.
+Compartimos el gran privilegio de poder disfrutar de esa experiencia entre místico y deportiva que es el VsM, y debemos sentirnos felices de dar a conocer las experiencias que tenemos, aunque sean bien pocas y modestas, y de facilitar a cualquiera el acceso a esta maravillosa actividad.
 
 Saludos,
 
@@ -25,8 +25,7 @@ Esta "edición" ha sido reformateada y adaptada a un estilo digital pero `a part
 [.text-center]
 image::cover-original.jpg[pdfwidth=20%,float=left]
 
-Con la ayuda de alguna IA he hecho todo lo posible por mantener la fidelidad al material original, pero algunos detalles pueden haberse visto afectados. En particular las ilustraciones o las fotografías con muy bajo contraste. He intentado arreglar alguna de ellas  con resultados dispares. Los originales  las fotos no tienen contraste -o casi todo blanco o casi todo negro- y algunas eran completamente ilegibles.
-Gracias por tu comprensión y, sobre todo, mil gracias a los autores originales de este libro, quienes realizaron un trabajo excepcional.
+Con la ayuda de alguna IA he hecho todo lo posible por mantener la fidelidad al material original, pero algunos detalles pueden haberse visto afectados. En particular las ilustraciones o las fotografías con muy bajo contraste. He intentado arreglar alguna de ellas con resultados dispares. Los originales las fotos no tienen contraste -o casi todo blanco o casi todo negro- y algunas eran completamente ilegibles. Gracias por tu comprensión y, sobre todo, mil gracias a los autores originales de este libro, quienes realizaron un trabajo excepcional.
 
 Ramón G. Camus - 2025; 30 años después...
 ====
