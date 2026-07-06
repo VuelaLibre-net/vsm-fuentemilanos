@@ -26,9 +26,9 @@ Puedes descargar la última versión del libro (`1.4.1`) en formato PDF y EPUB d
 
 ## 🛩️ Sobre la Obra (Reedición de 1996)
 
-Este repositorio alberga la **reedición digital (2026)** de la mítica obra original de **1996**, una guía práctica nacida en el aeródromo de Fuentemilanos (Segovia) para ayudar a pilotos noveles a superar la etapa de las **"alas de plomo"** (donde mantenerse en el aire más de 20 minutos parece imposible) y dar el salto con confianza al **vuelo de distancia (cross-country)**.
+Este repositorio alberga la **reedición digital (2026)** de la obra original de **1996**, una guía práctica nacida en el aeródromo de Fuentemilanos (Segovia) para ayudar a pilotos noveles a superar la etapa de las **"alas de plomo"** (donde mantenerse en el aire más de 20 minutos parece imposible) y dar el salto con confianza al **vuelo de distancia (cross-country)**.
 
-Reconstruida a partir de fotografías de la edición de 1996 mediante digitalización y el apoyo de Inteligencia Artificial, esta reedición revive un clásico del vuelo a vela con un formato digital moderno (Asciidoctor) y un diseño editorial de alta calidad (temas claro/oscuro y tipografías optimizadas).
+Reconstruida a partir de las fotos de la edición de 1996 que Pedro nos envió por WhatsApp, y gracias a la digitalización y al apoyo de tecnologías modernas, esta reedición revive un clásico del vuelo a vela en un formato digital y con un diseño moderno.
 
 ---
 
