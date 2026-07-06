@@ -1,3 +1,15 @@
+## 1.4.1 (2026-07-06)
+
+### Fix
+
+- update image file references and optimize asset configuration across documentation chapters
+
+### Refactor
+
+- standardize naming convention for book images and update content references
+- rename images and update image references across book chapters for consistency
+- improve formatting and layout of AsciiDoc files and remove unused cover image
+
 ## 1.4.0 (2026-07-05)
 
 ### Feat
