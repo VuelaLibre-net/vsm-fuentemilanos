@@ -45,7 +45,7 @@ First Leg:: Once the departure photo is taken, we will head out to cover the fir
 Once we reach La Salceda, we will have a beautiful stretch before us, but one that is intimidating due to the near absence of landable fields and the rocks in the Arcones area. Therefore, let's take safety measures and not risk "making the leap" to Santo Tomé unless we have at least 1,500 m and reasonably favorable conditions.
 
 .The mountains offer excellent support for cross-country flights
-image::montaña.png[]
+image::montana.png[]
 
 Let's make our way towards Santo Tomé, under cumulus clouds and maintaining best glide speed, accelerating in sink and exploiting every quality lift we find. It is advisable not to drop below 1,000 m unnecessarily.
 
