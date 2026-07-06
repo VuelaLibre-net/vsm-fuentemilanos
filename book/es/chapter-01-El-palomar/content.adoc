@@ -13,7 +13,7 @@ Inicialmente es conveniente hacer los vuelos con el tren de aterrizaje fuera, po
 == Alas de plomo
 
 .Alas de plomo
-image::cap-01-fig-02-alas-de-plomo.png[]
+image::cap-01-fig-02-alas-de-plomo.png[pdfwidth=75%]
 
 Enseguida nos daremos cuenta que no es tan fácil mantenerse ahí arriba como parecía en un principio. De pronto nos vemos inmersos de lleno en la fastidiosa etapa de las "alas de plomo". Una vez que nos soltamos de la remolcadora, tras una breve búsqueda de ascendencia, es como resbalar por un tobogán que nos lleva de nuevo a la pista en tiempo récord.
 
