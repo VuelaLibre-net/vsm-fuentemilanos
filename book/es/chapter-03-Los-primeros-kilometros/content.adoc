@@ -6,14 +6,14 @@ endif::[]
 = LOS PRIMEROS KILÓMETROS
 
 .El vuelo a distancia el mejor aliciente del vuelo sin motor. El desafío de hacer kilómetros es la esencia del progreso del pilotaje y una inagotable fuente de satisfacción
-image::haciendo-kilometros.png[]
+image::cap-03-fig-32-haciendo-kilometros.png[]
 
 Ha llegado el momento de abandonar los alrededores del aeródromo y comenzar a viajar, para ello necesitamos conocer suficientemente nuestro velero y sus capacidades, saber navegar efectivamente, ser capaces de comunicarnos adecuadamente por radio, tener muy claro que hacer en caso de una toma fuera de campo, dominar aceptablemente la técnica de fotografiar los puntos de viraje, etc.
 
 Sólo nos queda escoger el trayecto, planificar adecuadamente el vuelo y adentrarnos en un nuevo mundo desconocido hasta ahora.
 
 .Gráfica de la curva polar del velero
-image::polar-velero.png[]
+image::cap-03-fig-33-polar-velero.png[]
 
 == Curva polar del velero
 
@@ -49,12 +49,12 @@ El recuadro en la figura nos dice que necesitamos 750 mts. de altura para un pla
 Hay que recordar que el coeficiente de planeo de un velero está calculado bajo condiciones atmosféricas ISA, con viento en calma y a la velocidad de máximo planeo del velero.
 
 .Cuadro de distancias de planeo
-image::tabla-distancias-planeo.png[pdfwidth=90%]
+image::cap-03-fig-34-tabla-distancias-planeo.png[pdfwidth=90%]
 
 == PLANIFICACIÓN DE UN VUELO
 
 .Cuadro de distancias de planeo para Astir CS. Coeficiente teórico 1:37 pero estimado en 1:30. A velocidad de máximo planeo 85 Km/h. Con viento en calma.
-image::tabla-distancias-planeo-astir-cs.png[pdfwidth=90%]
+image::cap-03-fig-35-tabla-distancias-planeo-astir-cs.png[pdfwidth=90%]
 
 == VsM en Fuentemilanos
 
@@ -267,7 +267,7 @@ VA:
 A partir de aquí, seguimos el procedimiento normal.
 
 .Seguir al pie de la letra el procedimiento de comunicaciones por radio es muy importante sobre todo en la fase de aproximación.
-image::final-34.png[]
+image::cap-03-fig-36-final-34.png[]
 
 == Las tomas fuera de campo
 
@@ -312,7 +312,7 @@ Con el motovelero se puede reconocer el terreno a baja altura, y en una hora de 
 Para practicar nos fijaremos en alguna referencia de la pista de nuestro aeródromo: números, rayas, referencias laterales, etc., e intentaremos controlar el velero, nada más tocar, sacando aerofrenos a tope y aplicando con precaución el freno de rueda, para reducir al mínimo la carrera de aterrizaje.
 
 .Schleicher ASH-25, uno de los veleros más modernos y con mayor rendimiento
-image::schleicher-ash-25.png[]
+image::cap-03-fig-37-schleicher-ash-25.png[]
 
 Una vez practicado en la pista de asfalto, es conveniente practicarlo en la de tierra, que nos aportará una sensación más aproximada a lo que pueda ser una toma en un sembrado.
 
@@ -364,7 +364,7 @@ Vuelvo a mi tarea, y ya con 400 mts y sin encontrar ascendencia, trato de locali
 
 
 .LOS CONCEPTOS... ¡ CLAROS !
-image::toma-fuera-campo.svg[]
+image::cap-03-fig-38-conceptos-claros.png[]
 
 Tengo dos opciones que veo orientados a Norte, y libres de tendidos eléctricos, árboles, animales y obstáculos:
 
@@ -406,7 +406,7 @@ Ahora solo nos queda desmontar el velero, estibarlo en el remolque y volver a ca
 Es esta una maniobra que pareciendo sencilla a primera vista, requiere bastante práctica para efectuarla con soltura.
 
 .Sector angular fotográfico
-image::fotografiar-punto-viraje.png[]
+image::cap-03-fig-39-fotografiar-punto-viraje.png[]
 
 En la planificación del vuelo, es necesario informarse del sector angular fotográfico de los puntos de viraje que hemos escogido, para efectuar las fotografías dentro de sus límites, teniendo especial cuidado en esta maniobra, pues una foto dudosa o claramente fuera del sector, puede invalidar nuestro vuelo a pesar de haber estado allí.
 
@@ -523,7 +523,7 @@ Observemos dónde giran los veleros que despegan antes que nosotros y tratemos d
 Salida:: Remolque a no menos de 700 mts, soltándonos en la zona al Oeste del aeródromo, que es desde donde hemos de obtener la foto de salida. Tratemos desde el primer momento de ganar altura y no nos obsesionemos con la fotografía hasta estar por encima de los 1 000 mts...
 
 .Fuentemilanos torre, foto de salida desde la zona oeste
-image::foto-salida-fuentemilanos.png[]
+image::cap-03-fig-40-foto-salida-fuentemilanos.png[]
 
 Desde esa posición y con un simple alabeo, tomaremos la foto de la torre del aeródromo y luego trataremos de ascender hasta el techo de nubes antes de comenzar el primer tramo.
 
@@ -553,7 +553,7 @@ La comisión Internacional de Vuelo a Vela establece las siguientes:
 * Ganancia de Altura de más de 5.000 mts.
 
 .Nimbus 3D
-image::nimbus-3d.png[]
+image::cap-03-fig-41-nimbus-3d.png[]
 
 .La permanencia
-image::permanencia.png[]
+image::cap-03-fig-42-permanencia.png[]

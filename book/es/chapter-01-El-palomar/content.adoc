@@ -13,7 +13,7 @@ Inicialmente es conveniente hacer los vuelos con el tren de aterrizaje fuera, po
 == Alas de plomo
 
 .Alas de plomo
-image::alas-de-plomo.png[]
+image::cap-01-fig-02-alas-de-plomo.png[]
 
 Enseguida nos daremos cuenta que no es tan fácil mantenerse ahí arriba como parecía en un principio. De pronto nos vemos inmersos de lleno en la fastidiosa etapa de las "alas de plomo". Una vez que nos soltamos de la remolcadora, tras una breve búsqueda de ascendencia, es como resbalar por un tobogán que nos lleva de nuevo a la pista en tiempo récord.
 
@@ -80,7 +80,7 @@ Observaremos siempre la velocidad a la que volamos para no incurrir en situació
 * Volando en ladera, dada la cercanía del terreno y la posibilidad de fuertes turbulencias.
 
 .La pérdida: ¡INSTRUCTORRRRR INSTRUCTORRRRRR!
-image::perdida.png[]
+image::cap-01-fig-03-perdida.png[]
 
 == El tráfico de aproximación
 
@@ -93,7 +93,7 @@ Nos ceñiremos estrictamente a las normas del aeródromo para el tráfico, espec
 Al entrar en "viento en cola" es importante hacerlo a la altura especificada, ya que si cada velero entra a una altura distinta, en caso de coincidir varios en tráfico, se pueden producir adelantamientos e interferencias muy peligrosas con el consiguiente desbarajuste en la toma.
 
 .Pista e instalaciones de Fuentemilanos vista desde el tramo final para la 34
-image::trafico.png[]
+image::cap-01-fig-04-trafico.png[]
 
 Mientras hacemos el "viento en cola" es positivo mirar el estado de la pista y cerciorarnos de si existen obstáculos, bien en cabecera, bien en medio de la pista, así evitaremos sorpresas cuando nos encontremos en tramo "final".
 
@@ -146,7 +146,7 @@ Nos acercaremos al centro de más ascendencia mediante una combinación entre va
 * Enderezar brevemente el rumbo hacia la zona donde, en el giro anterior, detectáramos mayor valor ascensional.
 
 .Virando a térmica: Las laderas de roca viva son excelentes productoras de térmica. Aquí estamos virando sobre la mujer muerta
-image::termica.png[fit=none,pdfwidth=75%]
+image::cap-01-fig-05-termica.png[fit=none,pdfwidth=75%]
 
 [sidebar]
 En mi primer vuelo con un instructor de alto nivel y un velero también de alto nivel, la primera sorpresa fue que la técnica de centrado que usaba el instructor, era pura y simplemente la misma que la que yo usaba, aun siendo un novato: Enderezar levemente hacia donde "intuía" que estaba el centro de la térmica. Pero el problema no es la técnica en sí, sino la "intuición". No es lo mismo la "intuición" de un novato que la de un piloto con miles de horas de VsM.
@@ -178,7 +178,7 @@ Básicamente las normas a seguir cuando viramos un térmica en grupo, son las si
 * Normalmente, por el centro de la térmica, siempre que no molestemos a nadie.
 
 .El espacio aéreo: Virando a térmica en grupo
-image::espacio-aereo.png[]
+image::cap-01-fig-06-espacio-aereo.png[]
 
 == Volando en ladera
 
@@ -194,10 +194,10 @@ Cuando volemos en ladera hemos de tener muy presente la escasa distancia que nos
 * Si estás a la cola de un velero muy lento, adelantar por el valle.
 
 .Vuelo en ladera: La mujer muerta
-image::ladera.png[]
+image::cap-01-fig-07-ladera.png[]
 
 .<- Vertiente para el vuelo en ladera | vertiente de... "irás y no volverás" ->
-image::barlovento-sotavento.png[]
+image::cap-01-fig-08-barlovento-sotavento.png[]
 
 [sidebar]
 ****
@@ -239,7 +239,7 @@ En esta etapa nos centraremos en los siguientes trabajos:
 * Hacer vuelos de entrenamiento para la permanencia. Comenzar con vuelos de 1 hora, e ir aumentando progresivamente la duración hasta las 3-4 horas, antes de intentar la prueba.
 
 .Mapa del Palomar
-image::mapa-palomar.png[]
+image::cap-01-fig-09-mapa-palomar.png[]
 
 [sidebar]
 ****
@@ -282,10 +282,10 @@ Esta técnica es muy positiva para visitar los puntos de viraje que no se conoce
 También sirve para tomar conciencia de las posibilidades del velero de manera que aprendamos a calcular y evaluar mejor la senda de planeo sin temor a quedarnos muy cortos o muy largos.
 
 .La liebre
-image::liebre.png[]
+image::cap-01-fig-10-liebre.png[]
 
 .Vuela alto Antonio !!
-image::new-york.png[fit=none,pdfwidth=80%]
+image::cap-01-fig-11-new-york.png[fit=none,pdfwidth=80%]
 
 .Julio 1 992
 [sidebar]

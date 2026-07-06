@@ -23,7 +23,7 @@ Esta "edición" ha sido reformateada y adaptada a un formato digital `a partir d
 
 .El libro original
 [.text-center]
-image::cover-original.jpg[pdfwidth=20%,float=left]
+image::cap-00-fig-01-cover-original.jpg[pdfwidth=20%,float=left]
 
 Con la ayuda de la tecnología, he hecho todo lo posible por mantener la fidelidad al material original, aunque algunos detalles pueden haberse visto afectados, en particular las ilustraciones o las fotografías con muy bajo contraste. He intentado restaurar algunas de ellas con resultados diversos, ya que las fotos originales carecen de contraste —mostrándose casi por completo blancas o negras— y algunas páginas eran totalmente ilegibles. Gracias por tu comprensión y, sobre todo, mil gracias a los autores originales de este libro por realizar un trabajo excepcional.
 

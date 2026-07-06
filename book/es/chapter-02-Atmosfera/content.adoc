@@ -8,7 +8,7 @@ endif::[]
 == La convección
 
 .Los cumulonimbus alcanzan desarrollos muy importantes, pudiendo llegar a alturas de hasta 20.000 m.
-image::cumulonimbo.png[]
+image::cap-02-fig-12-cumulonimbo.png[]
 
 El mecanismo de la convección tiene su base en que una masa de aire se convierta en más ligera que el resto que le rodea y comience a ascender.
 
@@ -44,14 +44,14 @@ Los núcleos de condensación son pequeñas partículas en suspensión, en las q
 Cuando el aire ascendente se enfría lo suficiente, llega a su punto de rocío, con temperatura lo suficientemente baja que a pesar de haber disminuido la presión parcial de vapor, el vapor de agua se condensa en forma de pequeñas gotitas invisibles alrededor de los núcleos de condensación, en un proceso imparable que continúa desarrollándose favorablemente con formación de gigantescos cúmulonimbos.
 
 .Diagrama de la evolución de las nubes y los tipos de térmicas
-image::evolucion.png[Diagrama de la evolución de las nubes y los tipos]
+image::cap-02-fig-13-evolucion.png[Diagrama de la evolución de las nubes y los tipos]
 
 == La predicción meteorológica en el aeródromo
 
 Una buena información meteorológica es imprescindible para la preparación de vuelos de distancia.
 
 .Una buena información meteorológica es imprescindible para la preparación de vuelos de distancia
-image::meteo.png[Una buena información meteorológica es imprescindible para la preparación de vuelos de distancia,pdfwidth=80%]
+image::cap-02-fig-14-meteo.png[Una buena información meteorológica es imprescindible para la preparación de vuelos de distancia,pdfwidth=80%]
 
 Cada mañana del verano, sobre las 7:00Hs. se puede escuchar el primer signo de actividad en el aeródromo; el motor en marcha del motovelero encargado de la toma de datos de la temperatura y humedad del aire de nuestra zona.
 
@@ -85,7 +85,7 @@ Los anticiclones `(A)`, corresponden a formaciones de altas presiones tienen for
 El aire gira a su alrededor en el sentido de las agujas del reloj (Hemisferio Norte), las isobaras están bastante separadas y su presencia se asocia al `"buen tiempo"`.
 
 .Evolución de una Borrasca con las etapas Nacimiento; Madurez y Final
-image::borrasca.png[]
+image::cap-02-fig-15-borrasca.png[]
 
 Las borrascas `(B)`, son centros de bajas presiones, con forma más circular y pequeña y con las isobaras más cercanas.
 
@@ -100,7 +100,7 @@ Los frentes pueden ser cálidos, si es una masa cálida que desplaza a otra más
 == Planta y sección de una borrasca
 
 .Planta y sección de una borrasca
-image::planta-seccion-borrasca.png[Planta y sección de una borrasca,pdfwidth=80%]
+image::cap-02-fig-16-planta-seccion-borrasca.png[Planta y sección de una borrasca,pdfwidth=80%]
 
 Si observamos las imágenes del Meteosat, podremos observar perfectamente cómo las borrascas giran en sentido contrario a las agujas del reloj y se desplazan rápidamente siguiendo una trayectoria más o menos previsible, a menos que encuentre en su camino un anticiclón que le "tapone" y le desvíe. La velocidad de giro que podremos observar, nos indica la velocidad del viento, y las masas nubosas que avanzan con él, son los frentes que ya hemos mencionado.
 
@@ -175,14 +175,14 @@ Es la inversión la que le detiene, y serán necesarias un par de horas de insol
 ****
 
 .Una vez rota la inversión, progresa la formación de cúmulos con el día y cae al atardecer
-image::cumulos.png[]
+image::cap-02-fig-17-cumulos.png[]
 
 ==== Adiabáticas Secas
 
 Representan el gradiente de enfriamiento de una masa de aire SECA, con la variación de altura.
 
 .Adiabática seca
-image::adiabatica-seca.png[pdfwidth=40%,float=left]
+image::cap-02-fig-18-adiabatica-seca.png[pdfwidth=40%,float=left]
 
 El enfriamiento será a razón de 1°C cada 100Mts. de altura.
 
@@ -193,7 +193,7 @@ Una masa de aire seca que se encuentra en A a 20°C, en su ascenso hasta B, "ced
 Representan el gradiente de enfriamiento de una masa de aire HÚMEDA, con la variación de altura.
 
 .Adiabática húmeda
-image::adiabatica-humeda.png[pdfwidth=40%,float=left]
+image::cap-02-fig-19-adiabatica-humeda.png[pdfwidth=40%,float=left]
 
 El enfriamiento será a razón de 0,5°C cada 100Mts. de altura.
 
@@ -204,7 +204,7 @@ El enfriamiento es menor por el efecto regulador del vapor de agua que contiene.
 ==== Líneas de saturación
 
 .Líneas de saturación
-image::saturacion.png[pdfwidth=40%,float=left]
+image::cap-02-fig-20-saturacion.png[pdfwidth=40%,float=left]
 
 Representan el gradiente de enfriamiento de una masa de aire con la variación de altura, y que mantiene una relación constante de HUMEDAD POR VOLUMEN DE AIRE SECO.
 
@@ -213,12 +213,12 @@ Cada línea de saturación, representa un contenido en gramos de vapor por kilog
 ==== Rayado para el barograma
 
 .Rayado del barograma
-image::rayado.png[pdfwidth=40%,float=left]
+image::cap-02-fig-21-rayado.png[pdfwidth=40%,float=left]
 
 Es la combinación de las líneas arriba mencionadas, y sobre el que se representa la CURVA DE ESTADO de la atmósfera para estudiar su interrelación con éstas.
 
 .Diagrama termométrico de Stüve
-image::diagrama.png[]
+image::cap-02-fig-22-diagrama.png[]
 
 === Comentario del gráfico
 
@@ -263,7 +263,7 @@ La convergencia sobre la Sierra de Guadarrama es cada vez más conocida entre lo
 Cuando existen estas condiciones, se puede observar sobre la Sierra de Gredos, Guadarrama y Alto Rey, una gran línea de cúmulos (Cu) a lo largo de la montaña.
 
 .Mapa de superficie
-image::mapa-superficie-convergencia.png[pdfwidth=80%]
+image::cap-02-fig-23-mapa-superficie-convergencia.png[pdfwidth=80%]
 
 Empezaré por explicar cuáles son los factores desencadenantes de la convergencia que produce la mencionada línea de cúmulos a lo largo de la montaña, aunque no siempre es así, pudiéndose formar sobre el llano.
 
@@ -272,7 +272,7 @@ Para que se den estas condiciones, tienen que existir varios factores como son l
 La orografía en Castilla y León, presenta unos grandes llanos rodeados por montañas: Picos de Europa, Picos de Urbión, y las Sierras de la Cebollera, Guadarrama, Gata y Peña de Francia. El contraste de temperaturas entre la montaña y el llano hace que los vientos estén circulando constantemente de forma similar a como circula la brisa marina del mar a la tierra y de la tierra al mar. Esta circulación junto a los cambios de temperatura entre la noche y el día, conforman el factor más importante para que se genere esta situación meteorológica.
 
 .La linea de convergencia posibilita volar a altas velocidades de crucero siempre en excelente ascensión
-image::linea-convergencia.png[]
+image::cap-02-fig-24-linea-convergencia.png[]
 
 Analizando la meteorología, se puede comprobar que esta situación se da normalmente en condiciones de bajas presiones relativas, situadas al Norte de África y altas presiones relativas sobre las Azores, que es un esquema típico de la primavera y el verano.
 
@@ -295,7 +295,7 @@ Cuando coinciden las tres zonas: Sistema Central, Sistema Ibérico y Montes de T
 Las ondas son corrientes de aire laminar que desarrollan un movimiento ondulatorio al encontrar un obstáculo adecuado que actúa como elemento desencadenante, y debido también a unas condiciones atmosféricas especiales que favorecen y mantienen esa ondulación.
 
 .Perfiles de temperatura, viento y ascendencia en onda
-image::perfiles-onda.png[pdfwidth=60%]
+image::cap-02-fig-25-perfiles-onda.png[pdfwidth=60%]
 
 Condiciones del terreno:: El obstáculo que desencadena el movimiento ondulatorio debe ser una montaña en la que concurran las siguientes características:
 
@@ -315,7 +315,7 @@ El viento es fundamental que alcance por lo menos 15 nudos en la cima de la mont
 Volar en la onda de montaña:: La onda puede producirse lo mismo en montes poco elevados que en sistemas de alta montaña. Cada sitio produce su propio "modelo" de onda, cuyo esquema tiende a producirse siempre con bastante exactitud.
 
 .Los valores de la ascendencia en la onda pueden superar en mucho las marcaciones de los instrumentos
-image::panel-instrumentos.png[pdfwidth=40%,float=left]
+image::cap-02-fig-26-panel-instrumentos.png[pdfwidth=40%,float=left]
 
 La fase ascendente de la onda nos ofrece la posibilidad de volar en medio de una capa laminar que presenta un régimen de ascenso constante y muy fuerte, que nos puede elevar hasta alturas considerables. Pero, volar en onda requiere de un proceso de aprendizaje minucioso y observar unas precauciones especiales debido a las dificultades y peligros que encierra.
 
@@ -328,10 +328,10 @@ La zona de rotores se ha de atravesar con viento de cara, y pasando por turbulen
 Los valores de la ascendencia en la onda pueden superar en mucho las marcaciones de los instrumentos.
 
 .La onda de montaña, plano de ascendencias.
-image::plano-ascendencia.png[]
+image::cap-02-fig-27-plano-ascendencia.png[]
 
 .Mar de nubes sobre Cotos en vuelo de onda (foto Iñaqui, dic 2024).
-image::mar_nubes_madrid.jpg[]
+image::cap-02-fig-28-mar_nubes_madrid.jpg[]
 
 Una vez superada la zona de rotores y ya en ascenso, es importante vigilar la altura para comenzar el uso del oxígeno a partir de los 4.000/4.500Mts AGL, ya que es posible alcanzar alturas del orden de los 6.000 a 8.000Mts
 
@@ -364,7 +364,7 @@ El primer día que volamos fué el 25.11.95, y hasta el 14.01.96, que fué el ú
 Las condiciones ideales para que se forme onda de montaña sobre la Sierra de Guadarrama, son muy parecidas a las condiciones que hemos tenido en Diciembre y Enero.
 
 .La onda de montaña en la Sierra de Guadarrama. Mapa de superficie de enero de 1 996
-image::mapa-superficie-ene96.svg[pdfwidth=50%]
+image::cap-02-fig-29-mapa-superficie-ene96.svg[pdfwidth=50%]
 
 Como se puede apreciar en el mapa de superficie, es necesario que la baja presión se sitúe sobre las costas de Portugal, moviéndose lentamente hacia el Golfo de Cádiz, y con un fuerte gradiente de viento muy parecido al de la Gota Fría. Y, también, una alta presión sobre el centro de Europa, que hace que la baja presión situada sobre las costas de Portugal se vea imposibilitada de moverse hacia al Norte ó el Este, permaneciendo varios días, inclusive semanas, manteniendo la posición.
 
@@ -375,7 +375,7 @@ Para ver las condiciones de vuelo en onda, es muy importante tener el sondeo met
 El perfil de la onda del 14 de Enero de 1.996, es uno de los mejores que conozco para las condiciones de vuelo en onda de montaña.
 
 .Perfil de la onda
-image::perfil-onda.png[]
+image::cap-02-fig-30-perfil-onda.png[]
 
 Como se puede ver en el diagrama, el gradiente de viento asciende con la altura desde los 20Kts. en superficie, hasta los 10.000Mts. donde hay 60Kts., desde aquí desciende y ya a los 11.000Mts. hay 54Kts.
 
@@ -427,4 +427,4 @@ Lo que quiero que quede bien claro, es que para volar en onda, además de estar 
 |===
 
 .Nube rotor correspondiente a la onda de montaña del 14.01.95
-image::nube-rotor.png[]
+image::cap-02-fig-31-nube-rotor.png[]

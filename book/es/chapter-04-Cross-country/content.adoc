@@ -8,7 +8,7 @@ endif::[]
 == EL Cross Country
 
 .Fuentemilanos: Cola de salida en un prometedor día para vuelos de distancia
-image::cola-salida.png[]
+image::cap-04-fig-43-cola-salida.png[]
 
 El Cross-Country ó vuelo de distancia, es la verdadera "salsa" del VsM, y podríamos decir que responde a la siguiente ley: No hay dos di-as iguales, ni distancia fácil.
 
@@ -45,7 +45,7 @@ Primer tramo:: Una vez tomada la foto de salida, nos dirigiremos a cubrir el pri
 Una vez alcanzada La Salceda, tendremos ante nosotros un tramo precioso, pero que no deja de impresionar por la casi ausencia de campos aterrizables y por las rocas de la zona de Arcones. Tomemos, pues, medidas de seguridad y no nos arriesguemos a "dar el salto" hasta Santo Tomé si no tenemos como mínimo 1 500 mts y condiciones medianamente favorables.
 
 .La montaña ofrece un excelente apoyo para vuelos de cross-country
-image::montaña.png[]
+image::cap-04-fig-44-montaña.png[]
 
 Hagamos el camino hacia Santo Tomé, bajo cúmulos y manteniendo velocidad de máximo planeo, acelerando en las descendencias y aprovechando todas las ascendencias de calidad que encontremos. Es conveniente no bajar de los 1 000 mts innecesariamente.
 
@@ -76,7 +76,7 @@ Una vez tomada la foto de Villatoro, emprenderemos el regreso por el mismo camin
 Comuniquemos a Salamanca que abandonamos su zona, y volemos hacia casa siguiendo los cúmulos. Con escasos 1 000 mts y condiciones normales, podemos llegar en un planeo, para hacer la foto final de Fuentemilanos desde el _E_, antes de aterrizar.
 
 .Nimbus 3D: El famoso "Y4"
-image::nimbus-y4.png[]
+image::cap-04-fig-45-nimbus-y4.png[]
 
 .Vuelos con origen y destino en Fuentemilanos
 [cols=">1,3,3,3,>1,>1,>1,>1,>1", options="header",stripes=even]
@@ -249,7 +249,7 @@ Decido hacer El Burgo de Osma-Mengamuñoz-Riaza. Son 540 kms largos, pero así r
 Cámara, barógrafo, mapa, ticket de remolque, y... a esperar. (El orden de salida es, -debe serlo-, muy riguroso con tantos veleros).
 
 .Fuentemilanos, cabecera 34 en un típico día de verano a la hora de la salida
-image::cola-salida-34.png[]
+image::cap-04-fig-46-cola-salida-34.png[]
 
 Salgo cerca de las 13:00 horas y el remolque es ya muy movido. Suelto a 450 mts, y me pongo a girar. Subo bastante rápido y veo algún velero más alto, así que voy "pitando" a la torre a hacer la primera foto, vuelvo a "mi" térmica y, a 2200 mts, pongo rumbo al Este.
 
@@ -293,7 +293,7 @@ Un sólo cúmulo a la vista, (Peñalara, a 80 km de Ávila), me confirma que las
 La "excursión" me cuesta mi último margen y estoy más bajo que la montaña. Analizo la situación a unos 900 m sobre Santo Tomé. Decido arriesgarme (Sin ningún peligro físico, pues estoy sobre una "zona aterrizable") y paso al lado Sur-Suroeste de La Cebollera que recibe el sol de lleno. Trazo unos "ochos" sobre la ladera y, efectivamente, allí estaba, no muy fuerte a esas horas, pero me sube, y ya, totalmente relajado con 2200 m, decido dejarla y enfilo directamente a Fuentemilanos a 110-120 km/h, mirando el paisaje y engordando de satisfacción unos 3 kg/minuto.
 
 .El aterrizaje y las cervezas posteriores son trámites correctamente resueltos.
-image::fuentemilanos-torre.png[]
+image::cap-04-fig-47-fuentemilanos-torre.png[]
 
 <<< 
 == Vuelo 798 kms récord de España
@@ -491,7 +491,7 @@ El GPS tiene aplicación en navegación terrestre, marítima y aérea, en observ
 Los satélites tienen una vida operacional de 7,5 años, y el programa de renovación de la red garantiza que de los 24 haya un 98% de probabilidad de tener 21 ó más en servicio en cualquier momento.
 
 .Los adelantos técnicos... ayudan a volar...
-image::Los-adelantos-tecnicos-ayudan-a-volar.png[]
+image::cap-04-fig-48-Los-adelantos-tecnicos-ayudan-a-volar.png[]
 
 La disponibilidad se acerca al 100%, con cobertura extendida a todo el mundo.
 
@@ -606,4 +606,4 @@ Los parámetros del vuelo quedan grabados y existe la posibilidad de volcarlos a
 La posible aplicación de este dispositivo para validar vuelos de distancia y competición, depende de la elaboración de una normativa para su uso y de su validación como medio de demostración. Las próximas reuniones de IGC (Comisión Internacional de Vuelo a Vela) a lo largo de 1.996, llevan en su agenda este punto y existen comisiones específicas que están investigando sus posibilidades, por lo que pronto sabremos si será usado o no.
 
 .El equipamiento de los veleros puede alcanzar altas cotas de tecnología y sofisticación
-image::VSM-en-Fuentemilanos.png[]
+image::cap-04-fig-49-VSM-en-Fuentemilanos.png[]
